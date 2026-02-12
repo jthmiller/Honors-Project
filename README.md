@@ -10,3 +10,5 @@ Markdown [this repo](https://github.com/adam-p/markdown-here/wiki/markdown-cheat
 ![chr1](./Plots/1_chromosome.png?raw=true)
 
 ![logicDiagram](./Plots/FILENAMEGOESHERE.png?raw=true)
+Fig 2. Logic Diagram. This is the logic used
+
