@@ -10,5 +10,5 @@ mgf <- read.table("Raw_Data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names
 
 source('code/R-functions.r')
 
-plot_chromsome(chrom = 21)
+plot_chromsome(chrom = 21, output_dir = 'Plots/')
   
