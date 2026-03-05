@@ -110,15 +110,13 @@ plot_chromsome <- function(chrom, output_dir = 'Plots/'){
   me_p1_out$plotpoint <- ifelse(me_p1_out$par1_gt == me_p1_out$p1_allele_1,0.5,1.5)
   me_p1_out$cols <- ifelse(me_p1_out$par1_gt == me_p1_out$p1_allele_1,'red','blue')
 
-
-
   p <- plot(me_p1_out$plotpoint,me_p1_out$position, col = me_p1_out$cols, xlim = c(0,2), pch = 16, main = paste('chromosome', chrom))
 
-  p
-
   png(paste(output_dir, paste(chrom,'_chromosome.png'), sep = ''), width = 1000, height = 2000)
-  plot(me_p1_out$plotpoint,me_p1_out$position, col = me_p1_out$cols, xlim = c(0,2), pch = 16, main = paste('chromosome', chrom))
+  p
   dev.off()
+
+  return(p)
 
   write.csv(me_p1_out, paste(output_dir, paste(chrom,'_chromosome.csv'), sep = ''))
 }
