@@ -1,15 +1,11 @@
-
-setwd('C:/Users/lukei/OneDrive/Desktop/GEN Honors Analysis')
-
-
 ### added 'row.names=1' to each time we read in file
-me <- read.table("AncestryDNA_LI.txt", sep="\t", header=TRUE,row.names=1)
-mom <- read.table("AncestryDNA_BM.txt", sep="\t", header=TRUE,row.names=1)
-dad <- read.table("AncestryDNA_DI.txt", sep="\t", header=TRUE,row.names=1)
+me <- read.table("raw data/AncestryDNA_LI.txt", sep="\t", header=TRUE,row.names=1)
+mom <- read.table("raw data/AncestryDNA_BM.txt", sep="\t", header=TRUE,row.names=1)
+dad <- read.table("raw data/AncestryDNA_DI.txt", sep="\t", header=TRUE,row.names=1)
 
-pgf <- read.table("AncestryDNA_FI.txt", sep="\t", header=TRUE,row.names=1)
-mgm <- read.table("AncestryDNA_MH.txt", sep="\t", header=TRUE,row.names=1)
-mgf <- read.table("AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names=1)
+pgf <- read.table("raw data/AncestryDNA_FI.txt", sep="\t", header=TRUE,row.names=1)
+mgm <- read.table("raw data/AncestryDNA_MH.txt", sep="\t", header=TRUE,row.names=1)
+mgf <- read.table("raw data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names=1)
 
 
 
