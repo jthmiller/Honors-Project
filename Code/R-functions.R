@@ -92,7 +92,7 @@ phase_alleles <- function(tophase, par1, par2){
 
 ## runniung the functions
 
-plot_chromsome <- function(chrom){
+plot_chromsome <- function(chrom, output_dir = 'Plots/'){
 
   me_phased <- phase_alleles(tophase = me[me$chromosome == chrom,], par1 = mom, par2 = dad)
   par1_phased <- phase_alleles(tophase = mom[mom$chromosome == chrom,], par1 = mgm, par2 = mgf)
@@ -110,17 +110,15 @@ plot_chromsome <- function(chrom){
   me_p1_out$plotpoint <- ifelse(me_p1_out$par1_gt == me_p1_out$p1_allele_1,0.5,1.5)
   me_p1_out$cols <- ifelse(me_p1_out$par1_gt == me_p1_out$p1_allele_1,'red','blue')
 
-
-
   p <- plot(me_p1_out$plotpoint,me_p1_out$position, col = me_p1_out$cols, xlim = c(0,2), pch = 16, main = paste('chromosome', chrom))
 
+  png(paste(output_dir, paste(chrom,'_chromosome.png'), sep = ''), width = 1000, height = 2000)
   p
-
-  png(paste(chrom,'_chromosome.png'))
-  plot(me_p1_out$plotpoint,me_p1_out$position, col = me_p1_out$cols, xlim = c(0,2), pch = 16, main = paste('chromosome', chrom))
   dev.off()
 
-  write.csv(me_p1_out, paste(chrom,'_chromosome.csv'))
+  return(p)
+
+  write.csv(me_p1_out, paste(output_dir, paste(chrom,'_chromosome.csv'), sep = ''))
 }
   
 
