@@ -53,11 +53,11 @@ plot_chromosome_simple <- function(chrom, output_dir = 'Plots/') {
   final_df$color  <- ifelse(final_df$source == "MGM", "red", "blue")
 
   # --- Output ---
-  png(file.path(output_dir, paste0(chrom, "_chromosome.png")), width = 800, height = 1200)
+  png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
   plot(final_df$plot_y, final_df$position, 
        col = final_df$color, pch = 16, xlim = c(0, 2),
        main = paste("Maternal Recombination: Chromosome", chrom),
-       xlab = "Source (0.5=MGM, 1.5=MGF)", ylab = "Position")
+       xlab = "(Red=Grandmother, Blue=Grandfather)", ylab = "Position")
   dev.off()
   
   write.csv(final_df, file.path(output_dir, paste0(chrom, "_chromosome.csv")))

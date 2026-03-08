@@ -10,5 +10,5 @@ mgf <- read.table("Raw_Data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names
 
 source('code/R-Functions-2GP.r')
 
-plot_chromosome(chrom = 21, output_dir = 'TESTING_Plots/')
+plot_chromosome_simple(chrom = 21, output_dir = 'TESTING_2GP_Plots/')
   

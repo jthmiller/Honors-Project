@@ -27,13 +27,13 @@ plot_chromosome_single_parent <- function(chrom, output_dir = 'Plots/') {
   # 5. Logical Assignment
   me_mgf_out$origin <- ifelse(me_mgf_out$maternal_allele == me_mgf_out$mgf_allele, 'MGF', 'MGM')
   me_mgf_out$plotpoint <- ifelse(me_mgf_out$origin == 'MGM', 0.5, 1.5)
-  me_mgf_out$cols <- ifelse(me_mgf_out$origin == 'MGM', 'red', 'blue') 
+  me_mgf_out$cols <- ifelse(me_mgf_out$origin == 'MGM', 'red', 'blue')
 
   # 6. Output - Change filename to avoid overwriting!
-  png(file.path(output_dir, paste0(chrom, '_vs_Grandpa_ONLY.png')), width = 800, height = 1200)
+  png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
   plot(me_mgf_out$plotpoint, me_mgf_out$position, 
        col = me_mgf_out$cols, xlim = c(0, 2), pch = 16, 
-       main = paste('Chromosome', chrom, '- Phased via MGF only'))
+       main = paste("Maternal Recombination: Chromosome", chrom))
   dev.off()
   
   return(me_mgf_out)
