@@ -31,7 +31,7 @@ plot_chromosome_single_parent <- function(chrom, output_dir = 'Plots/') {
 
   # 6. Output - Change filename to avoid overwriting!
   png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
-  plot(me_mgf_out$plotpoint, me_mgf_out$position, 
+  plot(Red=Grandmother, Blue=Grandfather, Position, 
        col = me_mgf_out$cols, xlim = c(0, 2), pch = 16, 
        main = paste("Maternal Recombination: Chromosome", chrom))
   dev.off()
