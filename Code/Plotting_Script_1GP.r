@@ -10,4 +10,4 @@ mgf <- read.table("Raw_Data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names
 
 source('code/R-Functions-1GP.r')
 
-plot_chromosome_single_parent(chrom = 21, output_dir = 'TESTING_1GP_Plots/')
+plot_chromosome_single_parent(chrom = 18, output_dir = 'TESTING_1GP_Plots/')

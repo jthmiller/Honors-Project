@@ -52,13 +52,24 @@ plot_chromosome_simple <- function(chrom, output_dir = 'Plots/') {
   final_df$plot_y <- ifelse(final_df$source == "MGM", 0.5, 1.5)
   final_df$color  <- ifelse(final_df$source == "MGM", "red", "blue")
 
-  # --- Output ---
-  png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
-  plot(final_df$plot_y, final_df$position, 
-       col = final_df$color, pch = 16, xlim = c(0, 2),
-       main = paste("Maternal Recombination: Chromosome", chrom),
-       xlab = "(Red=Grandmother, Blue=Grandfather)", ylab = "Position")
-  dev.off()
+ # --- Output ---
+png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
+
+# Use final_df instead of me_phased!
+plot(y = final_df$position, 
+     x = final_df$plot_y,       # Use the y-coordinates (0.5 or 1.5) we made in final_df
+     col = final_df$color,      # Use the colors we assigned in final_df
+     pch = 16, 
+     xlim = c(0, 2),
+     xaxt = 'n', 
+     ylab = "Genomic Position",
+     xlab = "Grandparent of Origin",
+     main = paste("Maternal Recombination: Chromosome", chrom))
+
+# Add the labels we fixed earlier
+axis(1, at = c(0.5, 1.5), labels = c("Grandmother", "Grandfather"))
+
+dev.off()
   
   write.csv(final_df, file.path(output_dir, paste0(chrom, "_chromosome.csv")))
 }
