@@ -8,6 +8,6 @@ pgf <- read.table("Raw_Data/AncestryDNA_FI.txt", sep="\t", header=TRUE,row.names
 mgm <- read.table("Raw_Data/AncestryDNA_MH.txt", sep="\t", header=TRUE,row.names=1)
 mgf <- read.table("Raw_Data/AncestryDNA_RM.txt", sep="\t", header=TRUE,row.names=1)
 
-source('code/NEW-R-Functions-1GP.r')
+source('code/R-Functions-DAD-1GP.r')
 
-plot_chromosome_single_parent(chrom = 17, output_dir = 'TESTING_1GP_Plots/')
+plot_chromosome_one_grandparent(chrom = 22, output_dir = 'TESTING_1GP_Plots/')
