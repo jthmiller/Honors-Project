@@ -107,21 +107,21 @@ plot_chromosome_one_grandparent <- function(chrom, output_dir = 'Plots/') {
   final_df$color  <- ifelse(final_df$source == "MGM", "red", "blue")
 
   # --- Output ---
-  png(file.path(output_dir, paste0(chrom, "_maternal_no_mgm.png")), width = 500, height = 500)
+  png(file.path(output_dir, paste0(chrom, "_maternal_chromosome.png")), width = 500, height = 500)
 
-  plot(y = final_df$position, 
-       x = final_df$plot_y, 
-       col = final_df$color, 
-       pch = 16, 
+  plot(y = final_df$position,
+       x = final_df$plot_y,
+       col = final_df$color,
+       pch = 16,
        xlim = c(0, 2),
        xaxt = 'n', 
        ylab = "Genomic Position",
-       xlab = "Grandparent of Origin (Inferred)",
-       main = paste("Maternal Recombination (MGM Inferred): Chromosome", chrom))
+       xlab = "Grandparent of Origin",
+       main = paste("Maternal Recombination: Chromosome", chrom))
 
-  axis(1, at = c(0.5, 1.5), labels = c("Grandmother (Inferred)", "Grandfather"))
+  axis(1, at = c(0.5, 1.5), labels = c("Grandmother", "Grandfather"))
 
   dev.off()
   
-  write.csv(final_df, file.path(output_dir, paste0(chrom, "_chromosome_inferred.csv")))
+  write.csv(final_df, file.path(output_dir, paste0(chrom, "_chromosome.csv")))
 }

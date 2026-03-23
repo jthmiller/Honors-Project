@@ -90,31 +90,32 @@ plot_chromosome_one_grandparent <- function(chrom, output_dir = 'Plots/') {
                                   dad_phased$allele2, 
                                   dad_phased$allele1)
   
-  # 3. Join the data
+# 3. Join the data (Match the Mom version structure)
   common_snps <- intersect(rownames(me_phased), rownames(dad_phased))
-  
-  # 'paternal_allele' is what YOU got from Dad
-  # 'pgm_allele' is what Dad got from Grandma (inferred)
+
   final_df <- data.frame(
     position = me_phased[common_snps, "position"],
     paternal_allele = me_phased[common_snps, "p1_val"],
-    pgm_allele = dad_phased[common_snps, "pgm_allele"] # Use the inferred column
+    pgm_allele = dad_phased[common_snps, "pgm_allele"] 
   )
   
-  # --- Remainder of your plotting code stays the same ---
-  final_df$source <- ifelse(final_df$paternal_allele == final_df$pgm_allele, "PGM", "PGF")
+  # --- Logic that matches the Mom version exactly ---
+  # If your allele matches Grandma (PGM), label it PGM
+  final_df$source <- ifelse(final_df$paternal_allele == final_df$pgm_allele, "PGF", "PGM")
+  
+  # PGM (Grandmother) = 0.5 and Red
   final_df$plot_y <- ifelse(final_df$source == "PGM", 0.5, 1.5)
   final_df$color  <- ifelse(final_df$source == "PGM", "red", "blue")
 
   # --- Output ---
   png(file.path(output_dir, paste0(chrom, "_paternal_chromosome.png")), width = 500, height = 500)
 
-  plot(y = final_df$position, 
-       x = final_df$plot_y, 
-       col = final_df$color, 
-       pch = 16, 
+  plot(y = final_df$position,
+       x = final_df$plot_y,
+       col = final_df$color,
+       pch = 16,
        xlim = c(0, 2),
-       xaxt = 'n', 
+       xaxt = 'n',
        ylab = "Genomic Position",
        xlab = "Grandparent of Origin",
        main = paste("Paternal Recombination: Chromosome", chrom))
