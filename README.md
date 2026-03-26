@@ -49,10 +49,10 @@ With just a few genetic markers (~5% of then genome according to R Studio), we c
 | Figure 4. Maternal Copy of Chromosome 1 | Figure 5. Paternal Copy of Chromosome 1 |
 
 
-
-![chr2](./Plots/2_chromosome.png?raw=true)
-
-Figure 5. Maternal Copy of Chromosome 2
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/2_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/2_paternal_chromosome.png?raw=true) |
+| Figure 6. Maternal Copy of Chromosome 2 | Figure 7. Paternal Copy of Chromosome 2 |
 
 
 
