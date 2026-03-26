@@ -103,88 +103,92 @@ With just a few genetic markers (~5% of then genome according to R Studio), we c
 | Figure 22. Maternal Copy of Chromosome 10 | Figure 23. Paternal Copy of Chromosome 10 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/11_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/11_paternal_chromosome.png?raw=true) |
+| Figure 24. Maternal Copy of Chromosome 11 | Figure 25. Paternal Copy of Chromosome 11 |
 
 
-![chr11](./Plots/11_chromosome.png?raw=true)
-
-Figure 14. Maternal Copy of Chromosome 11
-
-
-
-
-![chr12](./Plots/12_chromosome.png?raw=true)
-
-Figure 15. Maternal Copy of Chromosome 12
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/12_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/12_paternal_chromosome.png?raw=true) |
+| Figure 26. Maternal Copy of Chromosome 12 | Figure 27. Paternal Copy of Chromosome 12 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/13_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/13_paternal_chromosome.png?raw=true) |
+| Figure 28. Maternal Copy of Chromosome 13 | Figure 29. Paternal Copy of Chromosome 13 |
 
 
-![chr13](./Plots/13_chromosome.png?raw=true)
-
-Figure 16. Maternal Copy of Chromosome 13
-
-
-
-
-![chr14](./Plots/14_chromosome.png?raw=true)
-
-Figure 17. Maternal Copy of Chromosome 14
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/14_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/14_paternal_chromosome.png?raw=true) |
+| Figure 30. Maternal Copy of Chromosome 14 | Figure 31. Paternal Copy of Chromosome 14 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/15_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/15_paternal_chromosome.png?raw=true) |
+| Figure 32. Maternal Copy of Chromosome 15 | Figure 33. Paternal Copy of Chromosome 15 |
 
 
-![chr15](./Plots/15_chromosome.png?raw=true)
-
-Figure 18. Maternal Copy of Chromosome 15
-
-
-
-
-![chr16](./Plots/16_chromosome.png?raw=true)
-
-Figure 19. Maternal Copy of Chromosome 16
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/16_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/16_paternal_chromosome.png?raw=true) |
+| Figure 34. Maternal Copy of Chromosome 16 | Figure 35. Paternal Copy of Chromosome 16 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/17_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/17_paternal_chromosome.png?raw=true) |
+| Figure 36. Maternal Copy of Chromosome 17 | Figure 37. Paternal Copy of Chromosome 17 |
 
 
-![chr17](./Plots/17_chromosome.png?raw=true)
-
-Figure 20. Maternal Copy of Chromosome 17
-
-
-
-
-![chr18](./Plots/18_chromosome.png?raw=true)
-
-Figure 21. Maternal Copy of Chromosome 18
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/18_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/18_paternal_chromosome.png?raw=true) |
+| Figure 38. Maternal Copy of Chromosome 18 | Figure 39. Paternal Copy of Chromosome 18 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/19_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/19_paternal_chromosome.png?raw=true) |
+| Figure 40. Maternal Copy of Chromosome 19 | Figure 41. Paternal Copy of Chromosome 19 |
 
 
-![chr19](./Plots/19_chromosome.png?raw=true)
-
-Figure 22. Maternal Copy of Chromosome 19
-
-
-
-
-![chr20](./Plots/20_chromosome.png?raw=true)
-
-Figure 23. Maternal Copy of Chromosome 20
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/20_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/20_paternal_chromosome.png?raw=true) |
+| Figure 42. Maternal Copy of Chromosome 20 | Figure 43. Paternal Copy of Chromosome 20 |
 
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/21_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/21_paternal_chromosome.png?raw=true) |
+| Figure 44. Maternal Copy of Chromosome 21 | Figure 45. Paternal Copy of Chromosome 21 |
 
 
-![chr21](./Plots/21_chromosome.png?raw=true)
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/22_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/22_paternal_chromosome.png?raw=true) |
+| Figure 46. Maternal Copy of Chromosome 22 | Figure 47. Paternal Copy of Chromosome 22 |
 
-Figure 24. Maternal Copy of Chromosome 21
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/X_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/Y_paternal_chromosome.png?raw=true) |
+| Figure 48. Maternal Chromosome X | Figure 49. Paternal Chromosome Y |
 
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/PAR_maternal_chromosome.png?raw=true) | ![Paternal Side](./Paternal_Plots/PAR_paternal_chromosome.png?raw=true) |
+| Figure 48. Maternal Chromosome PAR | Figure 49. Paternal Chromosome PAR |
 
-
-![chr22](./Plots/22_chromosome.png?raw=true)
-
-Figure 25. Maternal Copy of Chromosome 22
+| Maternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_Plots/Mitochondrial_DNA.png?raw=true) |
+| Figure 50. Maternal Chromosome PAR |
 
 
 
