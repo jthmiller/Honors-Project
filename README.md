@@ -44,9 +44,9 @@ With just a few genetic markers (~5% of then genome according to R Studio), we c
 # Genome Plots Color Coded By Grandparent of Origin
 
 
-![chr1](./Plots/1_chromosome.png?raw=true)
+![chr1](./Maternal_Plots/1_maternal_chromosome.png?raw=true) ![chr1](./Paternal_Plots/1_paternal_chromosome.png?raw=true)
 
-Figure 4. Maternal Copy of Chromosome 1
+Figure 4. Maternal Copy of Chromosome 1                      Figure 5. Paternal Copy of Chromosome 1
 
 
 
