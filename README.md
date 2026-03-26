@@ -186,9 +186,9 @@ With just a few genetic markers (~5% of then genome according to R Studio), we c
 | Figure 48. Maternal Chromosome PAR | Figure 49. Paternal Chromosome PAR |
 
 | Maternal Side |
-| :---: | :---: |
+| :---: |
 | ![Maternal Side](./Maternal_Plots/Mitochondrial_DNA.png?raw=true) |
-| Figure 50. Maternal Chromosome PAR |
+| Figure 50. Mitocnodrial Genome |
 
 
 
