@@ -1,0 +1,23 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs2823093",16520832,"A","A","PGM",0.5,0.492368230298162,"firebrick2","Breast_cancer, Vaginal_microbiome_relative_abundance_(p_Firmicutes)",3,16520832
+"rs2070419",32933024,"A","A","PGM",0.5,0.531153825931251,"firebrick2","Venlafaxine_response_in_generalised_anxiety_disorder_(responders_vs_non-responders_after_12_weeks)",10.5,32933024
+"rs2833460",32958367,"G","G","PGM",0.5,0.499598953314126,"firebrick2","Height",3,32958367
+"rs13047733",33419639,"A","A","PGM",0.5,0.498000177424401,"firebrick2","Educational_attainment",10.5,33796453.526
+"rs9305556",36014908,"A","A","PGM",0.5,0.517111181020737,"firebrick2","Psoriasis",3,36014908
+"rs1571695",36023355,"A","A","PGM",0.5,0.47193160250783,"firebrick2","Epigenetic_age_acceleration_in_alcohol_use_disorder",10.5,36023355
+"rs2834618",36119111,"G","G","PGM",0.5,0.526784719713032,"firebrick2","Atrial_fibrillation_(MTAG), Atrial_fibrillation",3,36878337.526
+"rs2252175",36238199,"G","G","PGM",0.5,0.463931287247688,"firebrick2","TIMD4_protein_levels",10.5,36886784.526
+"rs2834655",36238507,"A","A","PGM",0.5,0.524138159099966,"firebrick2","Age-related_cognitive_decline_(language)_(slope_of_z-scores), Eosinophill_percentage_(UKB_data_field_30210), Monocyte_percentage_of_white_cells",3,37741767.052
+"rs7281771",36864457,"C","C","PGM",0.5,0.491977780964226,"firebrick2","Height",10.5,37750214.052
+"rs218634",37794921,"A","A","PGM",0.5,0.463412341121584,"firebrick2","Urea_levels",3,38605196.578
+"rs857958",39092297,"T","T","PGM",0.5,0.526773511003703,"firebrick2","Intestinal_permeability_measurement",10.5,39092297
+"rs1064273",39673299,"C","C","PGM",0.5,0.535039622783661,"firebrick2","Gamma_glutamyl_transferase_levels",3,39673299
+"rs2836565",39976701,"A","A","PGM",0.5,0.52879622861743,"firebrick2","Gut_microbiota_relative_abundance_(Blautia)",10.5,39976701
+"rs2252576",42615293,"T","T","PGM",0.5,0.531211414653808,"firebrick2","KIT_protein_levels, LIFR_protein_levels",3,42615293
+"rs7276343",42728433,"C","C","PGM",0.5,0.527777475565672,"firebrick2","Protein_FAM3B_levels",10.5,42728433
+"rs459482",42793791,"C","C","PGM",0.5,0.478020732700825,"firebrick2","IgG_glycosylation",3,43478722.526
+"rs469382",42817612,"A","A","PGM",0.5,0.488189947847277,"firebrick2","FAM3B_protein_levels",10.5,43591862.526
+"rs8126575",46435610,"T","G","PGF",1.5,1.50254580251873,"dodgerblue3","Body_mass_index_(MTAG)",3,46435610
+"rs2838986",47145374,"A","A","PGM",0.5,0.536905896943063,"firebrick2","Highest_math_class_taken_(MTAG)",10.5,47145374
+"rs61735836",47572887,"T","T","PGM",0.5,0.527915233355016,"firebrick2","Formimidoyltransferase-cyclodeaminase_levels, Creatinine_levels",3,47572887
+"rs2839188",47692798,"T","T","PGM",0.5,0.466980934925377,"firebrick2","Height",10.5,48008803.526

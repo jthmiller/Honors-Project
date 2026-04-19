@@ -1,0 +1,65 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs3809107",290158,"T","T","PGM",0.5,0.511780507266521,"firebrick2","Alkaline_phosphatase_levels",3,290158
+"rs7111803",300364,"C","C","PGM",0.5,0.46838055273518,"firebrick2","Platelet_count",10.5,300364
+"rs1044707",491334,"C","C","PGM",0.5,0.47644582580775,"firebrick2","Height",3,2713298.992
+"rs1138714",825110,"G","A","PGF",1.5,1.51144729739055,"dodgerblue3","Impedance_of_whole_body_(UKB_data_field_23106), Fuchs's_corneal_dystrophy",10.5,2723504.992
+"rs12296050",2489342,"T","C","PGF",1.5,1.48068733476102,"dodgerblue3","Electrocardiographic_traits, QT_interval",3,5136439.984
+"rs12576239",2502319,"T","C","PGF",1.5,1.46887414207682,"dodgerblue3","QT_interval",10.5,5146645.984
+"rs81205",2798804,"C","A","PGF",1.5,1.49728356514126,"dodgerblue3","Estimated_glomerular_filtration_rate_(creatinine), Estimated_glomerular_filtration_rate_(cystatin_c)",3,7559580.976
+"rs1908177",4659419,"T","G","PGF",1.5,1.46769144464284,"dodgerblue3","Smoking_initiation",10.5,7569786.976
+"rs317787",5525543,"T","C","PGF",1.5,1.52339713005349,"dodgerblue3","Odorant_perception",3,9982721.968
+"rs4758212",7702063,"C","T","PGF",1.5,1.48791988337412,"dodgerblue3","Vaginal_microbiome_MetaCyc_pathway_(PWY0-321|phenylacetate_degradation_I_(aerobic))",10.5,9992927.968
+"rs3794012",8270244,"C","T","PGF",1.5,1.50692577375099,"dodgerblue3","Smoking_initiation",3,12405862.96
+"rs11041833",8282786,"A","G","PGF",1.5,1.52714933080599,"dodgerblue3","Body_mass_index",10.5,12416068.96
+"rs11042454",9661603,"A","G","PGF",1.5,1.46324646081775,"dodgerblue3","Glycated_hemoglobin_levels",3,14829003.952
+"rs373894",9763094,"C","A","PGF",1.5,1.53530840061605,"dodgerblue3","Systolic_blood_pressure",10.5,14839209.952
+"rs360140",9776567,"A","C","PGF",1.5,1.48327681427822,"dodgerblue3","Glycated_hemoglobin_levels",3,17252144.944
+"rs10500715",9973062,"T","G","PGF",1.5,1.46649305701256,"dodgerblue3","Pancreatic_cancer",10.5,17262350.944
+"rs4757956",12876666,"A","G","PGF",1.5,1.47930769719183,"dodgerblue3","Neutrophil_count, Smoking_initiation",3,19675285.936
+"rs2618516",14021639,"T","C","PGF",1.5,1.49363686036319,"dodgerblue3","Brain_connectivity",10.5,19685491.936
+"rs1919309",14029854,"T","C","PGF",1.5,1.47779150797054,"dodgerblue3","Apolipoprotein_A1_levels",3,22098426.928
+"rs7479680",14154711,"C","A","PGF",1.5,1.50656384719536,"dodgerblue3","Diastolic_blood_pressure_(MTAG), Systolic_blood_pressure_(MTAG)",10.5,22108632.928
+"rs4353250",18323517,"C","T","PGF",1.5,1.50035719538108,"dodgerblue3","Insulin-like_growth_factor_1_levels",3,24521567.92
+"rs7946331",18400973,"A","G","PGF",1.5,1.486256241519,"dodgerblue3","Glutamine_levels",10.5,24531773.92
+"rs7938942",18466247,"T","C","PGF",1.5,1.50633435891941,"dodgerblue3","Alanine_levels",3,26944708.912
+"rs1587704",19270031,"C","T","PGF",1.5,1.47326665809378,"dodgerblue3","Mean_reticulocyte_volume",10.5,26954914.912
+"rs2403547",19988412,"A","G","PGF",1.5,1.48712693085894,"dodgerblue3","Post-bronchodilator_FEV1_x_air_pollution_(CO)_interaction_in_childhood_asthma",3,29367849.904
+"rs10766627",20134869,"A","G","PGF",1.5,1.50482647646219,"dodgerblue3","Nonalcoholic_fatty_liver_disease_(without_comorbidities)",10.5,29378055.904
+"rs16930094",34521649,"T","C","PGF",1.5,1.51438596369699,"dodgerblue3","COVID-19_(hospitalized_covid_vs_population)",3,34521649
+"rs10466455",34780936,"C","T","PGF",1.5,1.47809497192502,"dodgerblue3","Prostate-specific_antigen_levels",10.5,34780936
+"rs7929679",34805849,"G","A","PGF",1.5,1.47705650953576,"dodgerblue3","Lung_disease_severity_in_cystic_fibrosis, Chronic_obstructive_pulmonary_disease-related_biomarkers",3,36944789.992
+"rs10838433",45233473,"G","A","PGF",1.5,1.53407656379044,"dodgerblue3","Pulse_pressure",10.5,45233473
+"rs10501320",47293799,"G","C","PGF",1.5,1.51411025775597,"dodgerblue3","Proinsulin_levels, Childhood_body_mass_index",3,47293799
+"rs7944584",47336320,"A","T","PGF",1.5,1.46558377243578,"dodgerblue3","Fasting_blood_glucose, Fasting_blood_glucose_(BMI_interaction), Fasting_glucose",10.5,47656613.992
+"rs11039182",47346723,"T","C","PGF",1.5,1.46583518126979,"dodgerblue3","Neurociticism, Chronic_kidney_disease, Neuroticism, General_factor_of_neuroticism",3,49716939.992
+"rs10838702",47410888,"G","T","PGF",1.5,1.50391960531473,"dodgerblue3","estimated_glomerular_filtration_rate_(eGFR_mean_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_maximum_inv-norm_transformed)",10.5,50079754.984
+"rs12361415",47474146,"T","G","PGF",1.5,1.46855743139982,"dodgerblue3","Waist-hip_ratio, heart_rate_(HR_mean_inv-normal_transformed)",3,52140080.984
+"rs12224672",47500400,"C","T","PGF",1.5,1.46022335961461,"dodgerblue3","Pallidum_iron_levels_(quantitative_susceptibility_mapping)",10.5,52502895.976
+"rs490358",57157405,"A","G","PGF",1.5,1.48402085280046,"dodgerblue3","Pappalysin-1_levels",3,57157405
+"rs10897056",60166455,"A","G","PGF",1.5,1.51524446709082,"dodgerblue3","Platelet_count",10.5,60166455
+"rs4939452",60537578,"C","T","PGF",1.5,1.51191031850874,"dodgerblue3","Obstructive_sleep_apnea_trait_(average_oxyhemoglobin_saturation_across_sleep_episode)",3,60537578
+"rs555835",60689445,"T","C","PGF",1.5,1.4728110322915,"dodgerblue3","Serum_levels_of_protein_TMEM132A, Transmembrane_protein_132A_levels",10.5,62589595.992
+"rs13966",61664992,"C","T","PGF",1.5,1.48253237944096,"dodgerblue3","Alkylphosphatidylethanolamine_(O-16:0/20:3)_levels, Alkenylphosphatidylethanolamine_(P-18:1/20:3)_(b)_levels",3,62960718.992
+"rs44205",65564786,"A","G","PGF",1.5,1.5212021891959,"dodgerblue3","Whole_body_fat_mass_(UKB_data_field_23100), BMI_(standard_GWA)",10.5,65564786
+"rs10898112",69934085,"A","G","PGF",1.5,1.48945867365226,"dodgerblue3","Height",3,69934085
+"rs7124405",70891161,"T","C","PGF",1.5,1.53606712440029,"dodgerblue3","Kawasaki_disease",10.5,70891161
+"rs1532312",84841573,"T","C","PGF",1.5,1.5046204524301,"dodgerblue3","Highest_math_class_taken_(MTAG), Educational_attainment",3,84841573
+"rs2263368",93264680,"C","A","PGF",1.5,1.48389473861083,"dodgerblue3","Smoking_initiation",10.5,93264680
+"rs1284108",93498833,"G","T","PGF",1.5,1.53467815265059,"dodgerblue3","Protein_quantitative_trait_loci_(liver)",3,93498833
+"rs2895570",94463093,"C","T","PGF",1.5,1.4605322333239,"dodgerblue3","Basal_cell_carcinoma",10.5,95687820.992
+"rs2077510",94964931,"C","T","PGF",1.5,1.52473971873522,"dodgerblue3","Hypothyroidism",3,95921973.992
+"rs11224302",100456604,"T","C","PGF",1.5,1.51247182969004,"dodgerblue3","Lymphocyte_count, Glycated_hemoglobin_levels, Mean_sphered_cell_volume_(UKB_data_field_30270)",10.5,100456604
+"rs7103004",103526024,"C","T","PGF",1.5,1.52812909698114,"dodgerblue3","Disc_degeneration_(lumbar)",3,103526024
+"rs4554859",103530366,"G","T","PGF",1.5,1.50407339219004,"dodgerblue3","Disc_degeneration_(lumbar)",10.5,103530366
+"rs974819",103660567,"T","C","PGF",1.5,1.48180590327829,"dodgerblue3","Coronary_artery_disease, Coronary_heart_disease, Carotid_intima-media_thickness_(MTAG), Pulse_pressure, Coronary_artery_/_coronary_heart_disease_(including_heart_attack_angina), Takes_medication_for_coronary_artery/_coronary_heart_disease?, Other_chronic_ischemic_heart_disease_unspecified_(PheCode_411.8), Coronary_atherosclerosis_(PheCode_411.4)",3,105949164.992
+"rs2019090",103668962,"A","T","PGF",1.5,1.50113506155089,"dodgerblue3","Carotid_intima_media_thickness_(mean), Carotid_intima_media_thickness_(mean-maximum), Myocardial_infarction, Carotid_intima_media_thickness_(minimum), Other_chronic_ischemic_heart_disease_unspecified_(PheCode_411.8), Ischemic_heart_disease_(PheCode_411), Myocardial_infarction_(PheCode_411.2), Coronary_atherosclerosis_(PheCode_411.4), Takes_medication_for_coronary_artery/_coronary_heart_disease?",10.5,105953506.992
+"rs2128739",103673277,"A","C","PGF",1.5,1.47089510921389,"dodgerblue3","Coronary_artery_disease, Coronary_artery_disease_(MTAG)",3,108372305.984
+"rs641574",105812839,"A","G","PGF",1.5,1.49126267759129,"dodgerblue3","Cognitive_performance_(MTAG)",10.5,108376647.984
+"rs238913",113984489,"A","G","PGF",1.5,1.50002855956554,"dodgerblue3","Neutrophil_count",3,113984489
+"rs11215932",116310115,"T","C","PGF",1.5,1.49530689511448,"dodgerblue3","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG), Smoking_initiation",10.5,116310115
+"rs3809046",119018766,"T","G","PGF",1.5,1.51814199239016,"dodgerblue3","Body_mass_index_(MTAG)",3,119018766
+"rs1557488",126619190,"T","C","PGF",1.5,1.48118855975568,"dodgerblue3","Attention_deficit_hyperactivity_disorder_and_conduct_disorder",10.5,126619190
+"rs7101595",126629031,"C","T","PGF",1.5,1.48057346558198,"dodgerblue3","Depression",3,126629031
+"rs609017",128582944,"C","T","PGF",1.5,1.47715516818687,"dodgerblue3","Height",10.5,129042330.992
+"rs984176",129327691,"A","G","PGF",1.5,1.51094520863146,"dodgerblue3","Gut_microbiota_relative_abundance_(unassigned_genus_belonging_to_family_Lachnospiraceae)",3,129327691
+"rs7104201",131143643,"C","A","PGF",1.5,1.52270534800366,"dodgerblue3","Serum_levels_of_protein_NTM",10.5,131465471.984

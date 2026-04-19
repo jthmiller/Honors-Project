@@ -1,0 +1,54 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs8178977",1106477,"C","C","PGM",0.5,0.468734588827938,"firebrick2","Basal_cell_carcinoma, Hypothyroidism",3,1106477
+"rs4807569",1123378,"C","C","PGM",0.5,0.520403026100248,"firebrick2","Lymphocyte_count_(UKB_data_field_30120)",10.5,1123378
+"rs2024092",1124031,"A","A","PGM",0.5,0.50214259147644,"firebrick2","Crohn's_disease, Inflammatory_bowel_disease",3,2166201.512
+"rs740495",1124835,"G","G","PGM",0.5,0.537439994290471,"firebrick2","Crohn's_disease, Height",10.5,2183102.512
+"rs7253456",2098015,"C","T","PGF",1.5,1.51328713729978,"dodgerblue3","Izumo_sperm-egg_fusion_protein_4_levels",3,3225926.024
+"rs2289863",4028783,"C","T","PGF",1.5,1.50676675722003,"dodgerblue3","HDL_cholesterol_levels",10.5,4028783
+"rs350911",4099187,"T","C","PGF",1.5,1.52805741546676,"dodgerblue3","Educational_attainment",3,4285650.536
+"rs10415488",5246717,"T","C","PGF",1.5,1.53693791441619,"dodgerblue3","Educational_attainment",10.5,5246717
+"rs778805",5832209,"A","G","PGF",1.5,1.47188695071265,"dodgerblue3","Human_milk_oligosaccharide_concentration_(Sialic_acid-bound), Human_milk_oligosaccharide_concentration_(lacto-N-fucopentaose-I), Human_milk_oligosaccharide_concentration_(lacto-N-fucopentaose-II), Human_milk_oligosaccharide_concentration_(2'-fucosyllactose), Human_milk_oligosaccharide_concentration_(3'-sialyllactose), Human_milk_oligosaccharide_concentration_(fucodisialyllacto-N-hexaose), Human_milk_oligosaccharide_concentration_(difucosyllacto-N-hexaose), Human_milk_oligosaccharide_concentration_(difucosyllacto-N-tetrose)",3,5832209
+"rs3760776",5839746,"A","G","PGF",1.5,1.51870346985757,"dodgerblue3","N-glycan_levels",10.5,6306441.512
+"rs8101625",5866073,"A","C","PGF",1.5,1.52316865671426,"dodgerblue3","Alpha-(13)-fucosyltransferase_5_levels",3,6891933.512
+"rs10427021",7259346,"T","G","PGF",1.5,1.51595075530931,"dodgerblue3","Diastolic_blood_pressure, Systolic_blood_pressure",10.5,7366166.024
+"rs12981234",7763878,"T","C","PGF",1.5,1.47912321612239,"dodgerblue3","Low_affinity_immunoglobulin_epsilon_Fc_receptor_levels",3,7951658.024
+"rs11878235",7976698,"A","G","PGF",1.5,1.49509561024606,"dodgerblue3","Appendicular_lean_mass, Whole_body_fat_free_mass_(UKB_data_field_23101)",10.5,8425890.536
+"rs1466448",8289519,"C","A","PGF",1.5,1.46103465275839,"dodgerblue3","Phosphatidylglycerol-O_38:0_[M-H]1-_levels, Phosphatidylglycerol-O_40:0_[M-H]1-_levels, Sphingomyelin_38:2_[M+H]1+_levels, Sphingomyelin_38:1_[M+H]1+_levels, Sphingomyelin_36:2_[M+H]1+_levels, Sphingomyelin_36:0_[M+H]1+_levels, Sphingomyelin_36:1_[M+H]1+_levels, Sphingomyelin_37:1_[M+H]1+_levels",3,9011382.536
+"rs7251031",11266693,"G","T","PGF",1.5,1.50065260276198,"dodgerblue3","High_light_scatter_reticulocyte_percentage_of_red_cells, High_light_scatter_reticulocyte_count, Reticulocyte_fraction_of_red_cells, Reticulocyte_count, Carpal_tunnel_syndrome",10.5,11266693
+"rs501537",16425503,"G","A","PGF",1.5,1.53115045150742,"dodgerblue3","Height_(baseline)",3,16425503
+"rs8100241",17392894,"G","A","PGF",1.5,1.4902813131921,"dodgerblue3","Breast_cancer",10.5,17392894
+"rs2363956",17394124,"T","G","PGF",1.5,1.50796274492517,"dodgerblue3","Breast_cancer, Ovarian_cancer",3,17485227.512
+"rs67234314",18218610,"T","A","PGF",1.5,1.50892983643338,"dodgerblue3","Cholesteryl_Esters_to_Total_Lipids_in_Chylomicrons_and_Extremely_Large_VLDL_percentage",10.5,18452618.512
+"rs1075403",18384950,"T","G","PGF",1.5,1.53894806271419,"dodgerblue3","monocyte_(absolute_count_minimum_inv-norm_transformed), monocyte_(fraction_minimum_inv-norm_transformed)",3,18544952.024
+"rs12608504",18389135,"A","G","PGF",1.5,1.53854506205767,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_BMI, Waist-hip_ratio, Waist_circumference_adjusted_for_BMI_in_non-smokers, Waist-to-hip_ratio_adjusted_for_BMI_in_non-smokers, Waist-to-hip_ratio_adjusted_for_BMI_x_sex_x_age_interaction_(4df_test), Waist-to-hip_ratio_adjusted_for_body_mass_index, Waist_circumference_adjusted_for_body_mass_index, Waist-to-hip_ratio_adjusted_for_BMI_(adjusted_for_smoking_behaviour), Waist_circumference_adjusted_for_BMI_(adjusted_for_smoking_behaviour), Waist_circumference_adjusted_for_BMI_(joint_analysis_main_effects_and_smoking_interaction), Waist-to-hip_ratio_adjusted_for_BMI_(joint_analysis_main_effects_and_smoking_interaction), Monocyte_count, monocyte_(fraction_maximum_inv-norm_transformed)",10.5,19512343.024
+"rs17711565",18407643,"A","G","PGF",1.5,1.5372481462732,"dodgerblue3","High-density_lipoprotein_levels",3,19604676.536
+"rs7247433",19795560,"A","C","PGF",1.5,1.4679457837157,"dodgerblue3","Type_2_diabetes",10.5,20572067.536
+"rs28633123",30772256,"T","C","PGF",1.5,1.50902520615607,"dodgerblue3","Falling_risk",3,30772256
+"rs4499344",33073431,"A","G","PGF",1.5,1.49691670257598,"dodgerblue3","Mean_platelet_volume, Blood_protein_levels, Mean_corpuscular_volume_(UKB_data_field_30040), Serum_levels_of_protein_PDCD5, Serum_levels_of_protein_PFDN5, Mean_reticulocyte_volume, Mean_spheric_corpuscular_volume, Programmed_cell_death_protein_5_levels_(PDCD5.12517.52.3), Mean_reticulocyte_volume_(UKB_data_field_30260), Mean_sphered_cell_volume_(UKB_data_field_30270), Mean_corpuscular_haemoglobin_(UKB_data_field_30050), Mean_platelet_thrombocyte_volume_(UKB_data_field_30100), Mean_corpuscular_hemoglobin, Mean_corpuscular_volume, Hemoglobin_A1c_levels, Methionine_aminopeptidase_2_levels, Programmed_cell_death_protein_5_levels",10.5,33073431
+"rs2772",33873435,"G","T","PGF",1.5,1.51959937563166,"dodgerblue3","Waist-hip_index, Waist-to-hip_ratio_adjusted_for_BMI",3,33873435
+"rs10425465",33897934,"G","T","PGF",1.5,1.52025371229276,"dodgerblue3","Waist-hip_index, Waist-to-hip_ratio_adjusted_for_BMI",10.5,34133155.512
+"rs4805885",33906123,"C","T","PGF",1.5,1.48867253180593,"dodgerblue3","Adiponectin_levels, Free_Cholesterol_to_Total_Lipids_in_Very_Large_HDL_percentage, Phospholipids_in_large_HDL, Concentration_of_medium_HDL_particles, Free_cholesterol_in_medium_HDL, Apolipoprotein_A1_levels, Phospholipids_in_HDL, Cholesterol_in_Medium_HDL, Cholesteryl_Esters_in_Medium_HDL, HDL_cholesterol_levels, Cholesteryl_Esters_in_HDL, Total_Lipids_in_HDL, Free_Cholesterol_in_HDL",3,34933159.512
+"rs12975240",33924548,"G","A","PGF",1.5,1.48827004110441,"dodgerblue3","A_body_shape_index",10.5,35192880.024
+"rs7258937",33938800,"T","C","PGF",1.5,1.47214511305094,"dodgerblue3","Body_fat_percentage, Metabolic_biomarkers_(multivariate_analysis), Alanine_aminotransferase_levels, Aspartate_aminotransferase_levels, Sex_hormone-binding_globulin_levels, Triglycerides, High_density_lipoprotein_cholesterol_levels",3,35992884.024
+"rs10420551",33973913,"A","G","PGF",1.5,1.49593672309071,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_BMI",10.5,36252604.536
+"rs7250175",33988482,"T","C","PGF",1.5,1.53136429833248,"dodgerblue3","Aspartate_aminotransferase_levels_(UKB_data_field_30650), Total_Lipids_in_VLDL, Cholesteryl_esters_in_very_large_VLDL, Cholesterol_levels_in_very_large_VLDL, Cholesterol_in_Large_VLDL, Total_lipids_in_small_VLDL, Concentration_of_small_VLDL_particles",3,37052608.536
+"rs33823",34000725,"T","C","PGF",1.5,1.53580249987543,"dodgerblue3","Thigh_slabs_internal_fat_to_muscle_ratio",10.5,37312329.048
+"rs11882409",34019685,"A","C","PGF",1.5,1.53681963304058,"dodgerblue3","Body_mass_index_(MTAG)",3,38112333.048
+"rs587259",34656406,"T","C","PGF",1.5,1.46973511815071,"dodgerblue3","Mean_corpuscular_hemoglobin",10.5,38372053.56
+"rs2279011",41269288,"T","G","PGF",1.5,1.53798646148294,"dodgerblue3","Post_bronchodilator_FEV1",3,41269288
+"rs7937",41302706,"T","C","PGF",1.5,1.47996546672657,"dodgerblue3","Chronic_obstructive_pulmonary_disease, Emphysema_imaging_phenotypes, Post_bronchodilator_FEV1, Post_bronchodilator_FEV1/FVC_ratio",10.5,41302706
+"rs2241715",41856886,"A","C","PGF",1.5,1.51018844880164,"dodgerblue3","Serum_levels_of_protein_TGFB1",3,42329012.512
+"rs1800469",41860296,"A","G","PGF",1.5,1.5327715662308,"dodgerblue3","Colorectal_cancer, Coronary_artery_disease",10.5,42362430.512
+"rs2965106",45232374,"G","A","PGF",1.5,1.52193102128804,"dodgerblue3","Polyunsaturated_fatty_acid_levels, Omega-6_fatty_acid_levels, Linoleic_acid_levels",3,45232374
+"rs307896",47661493,"G","A","PGF",1.5,1.4687139236927,"dodgerblue3","Multiple_sclerosis",10.5,47661493
+"rs2302985",47761543,"C","T","PGF",1.5,1.46929568590596,"dodgerblue3","SIGLEC7_protein_levels",3,47761543
+"rs3094287",49122248,"C","T","PGF",1.5,1.47860360754654,"dodgerblue3","Protein_FAM3D_levels",10.5,49122248
+"rs632115",49329433,"T","C","PGF",1.5,1.53692318649963,"dodgerblue3","Alkaline_phosphatase_(UKB_data_field_30610), Serum_alkaline_phosphatase_levels, BPIFA2_protein_levels, SERPINI2_protein_levels",3,49329433
+"rs2569488",51579646,"C","T","PGF",1.5,1.51449149217457,"dodgerblue3","KLK14_protein_levels",10.5,51579646
+"rs9304708",51583936,"T","G","PGF",1.5,1.46992763318121,"dodgerblue3","RSPO1_protein_levels",3,51583936
+"rs2569491",51584916,"A","G","PGF",1.5,1.50498301852494,"dodgerblue3","LECT2_protein_levels, ELN_protein_levels, Serum_levels_of_protein_DKK2, Serum_levels_of_protein_KLK14, Kallikrein-14_levels_(KLK14.8620.56.3), CCL27_protein_levels",10.5,52639370.512
+"rs736574",52054826,"C","T","PGF",1.5,1.49722223496065,"dodgerblue3","SIGLEC5_protein_levels",3,52643660.512
+"rs7245506",52296292,"T","C","PGF",1.5,1.49229528917,"dodgerblue3","MARCKS-related_protein_levels",10.5,53699095.024
+"rs272411",55111727,"T","C","PGF",1.5,1.53933897122741,"dodgerblue3","KIR3DL1_protein_levels",3,55111727
+"rs17771967",55380214,"G","A","PGF",1.5,1.47869444372132,"dodgerblue3","Inflammatory_bowel_disease, Ulcerative_colitis",10.5,55380214
+"rs11672983",55383051,"A","G","PGF",1.5,1.52451195767149,"dodgerblue3","Inflammatory_bowel_disease",3,56171451.512

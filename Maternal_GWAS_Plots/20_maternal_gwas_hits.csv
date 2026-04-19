@@ -1,0 +1,29 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs3746804",744415,"A","A","MGM",0.5,0.501993689704686,"firebrick2","Height",3,744415
+"rs6075340",1894335,"A","A","MGM",0.5,0.511473547760397,"firebrick2","Tyrosine-protein_phosphatase_non-receptor_type_substrate_1_level_in_Chronic_kidney_disease_with_hypertension_and_no_diabetes_(5430_66), Height",10.5,1894335
+"rs66815411",1894789,"C","C","MGM",0.5,0.472286394927651,"firebrick2","Skeletal_muscle_SIRPA_levels, Liver_SIRPA_levels",3,1894789
+"rs41281862",3211304,"A","A","MGM",0.5,0.476770402584225,"firebrick2","Corneal_resistance_factor_(MTAG)",10.5,3211304
+"rs45437096",3844929,"T","T","MGM",0.5,0.529468465000391,"firebrick2","MAVS_protein_levels",3,3844929
+"rs6084875",4742705,"A","A","MGM",0.5,0.522642555776983,"firebrick2","Systemic_lupus_erythematosus",10.5,4742705
+"rs415023",5785540,"A","A","MGM",0.5,0.486581600941718,"firebrick2","Cholesteryl_Esters_to_Total_Lipids_in_Large_LDL_percentage",3,5785540
+"rs4813802",6699595,"G","G","MGM",0.5,0.533403953500092,"firebrick2","Colorectal_cancer, Colorectal_cancer_or_advanced_adenoma",10.5,6699595
+"rs6055748",8315317,"G","G","MGM",0.5,0.519370004348457,"firebrick2","Blood_urea_nitrogen_levels, Estimated_glomerular_filtration_rate_(creatinine), Kidney_stone_disease, Estimated_glomerular_filtration_rate_(creatinine_cystatin_c), Estimated_glomerular_filtration_rate_(cystatin_c)",3,8315317
+"rs4419296",8607426,"G","T","MGF",1.5,1.48682982970029,"dodgerblue3","Mean_corpuscular_volume_(UKB_data_field_30040)",10.5,8607426
+"rs6055976",8630692,"A","C","MGF",1.5,1.46056385725737,"dodgerblue3","COVID-19_or_hypertension_(pleiotropy)",3,9439428.952
+"rs362987",10277452,"A","C","MGF",1.5,1.49801029611379,"dodgerblue3","Educational_attainment",10.5,10277452
+"rs3828002",19702049,"A","G","MGF",1.5,1.52485627947375,"dodgerblue3","Height",3,19702049
+"rs11698127",23185323,"A","G","MGF",1.5,1.48405222512782,"dodgerblue3","Cystatin_C_levels",10.5,23185323
+"rs6030171",40994094,"C","T","MGF",1.5,1.51098418006673,"dodgerblue3","IgG_glycosylation",3,40994094
+"rs3212183",43035138,"T","C","MGF",1.5,1.47943350596353,"dodgerblue3","Serum_creatinine_levels",10.5,43035138
+"rs1015519",43631436,"A","G","MGF",1.5,1.50025119809434,"dodgerblue3","Platelet_count",3,43631436
+"rs4239651",46340596,"T","C","MGF",1.5,1.5361145025678,"dodgerblue3","Apolipoprotein_A1_levels, HDL_cholesterol_levels, Cholesterol_levels_in_medium_HDL, Phospholipids_to_total_lipids_ratio_in_very_small_VLDL, Concentration_of_medium_HDL_particles, Concentration_of_HDL_particles, Free_cholesterol_levels_in_large_HDL, Free_cholesterol_levels_in_HDL, Cholesteryl_ester_levels_in_large_HDL, Phospholipid_levels_in_large_HDL, Concentration_of_large_HDL_particles, Cholesteryl_ester_levels_in_HDL, Phospholipid_levels_in_HDL, Total_lipid_levels_in_large_HDL, Total_lipid_levels_in_HDL, Average_diameter_for_HDL_particles, Cholesterol_levels_in_large_HDL, Free_cholesterol_levels_in_medium_HDL, Phospholipid_levels_in_medium_HDL, Total_lipid_levels_in_medium_HDL, Cholesteryl_ester_levels_in_medium_HDL, high_density_lipoprotein_cholesterol_(HDLC_minimm_inv-norm_transformed), high_density_lipoprotein_cholesterol_(HDLC_mean_inv-norm_transformed), high_density_lipoprotein_cholesterol_(HDLC_maximum_inv-norm_transformed)",10.5,46340596
+"rs6090719",46342197,"T","G","MGF",1.5,1.49792334362864,"dodgerblue3","Total_concentration_of_lipoprotein_particles, Cholesteryl_ester_levels_in_very_large_HDL, Cholesterol_levels_in_very_large_HDL, Free_cholesterol_to_total_lipids_ratio_in_very_large_HDL, Total_lipid_levels_in_very_large_HDL, Concentration_of_very_large_HDL_particles, Phospholipid_levels_in_very_large_HDL, Phosphoglycerides_levels, Phosphatidylcholine_levels, Total_cholines_levels, Free_cholesterol_to_total_lipids_ratio_in_medium_HDL",3,46342197
+"rs2024594",47517794,"G","A","MGF",1.5,1.51340348808095,"dodgerblue3","interferon-related_traits",10.5,47517794
+"rs2801008",51788718,"G","T","MGF",1.5,1.52236101588234,"dodgerblue3","Systolic_blood_pressure_(MTAG), Systolic_blood_pressure, Diastolic_blood_pressure",3,51788718
+"rs6068816",52781091,"T","C","MGF",1.5,1.46749126909301,"dodgerblue3","Creatinine_levels, Vitamin_D_levels, Calcium_levels, Estimated_glomerular_filtration_rate",10.5,52781091
+"rs3787555",52782691,"A","C","MGF",1.5,1.48657408831641,"dodgerblue3","Vaginal_discharge_(smell)",3,52912829.952
+"rs6025798",56390338,"A","G","MGF",1.5,1.53290721630678,"dodgerblue3","Asparaginase_hypersensitivity_in_acute_lymphoblastic_leukemia",10.5,56390338
+"rs6026567",57444915,"A","G","MGF",1.5,1.52848770318553,"dodgerblue3","Body_mass_index",3,57444915
+"rs3787492",57570854,"A","G","MGF",1.5,1.4794486797601,"dodgerblue3","CTSZ_protein_levels",10.5,57570854
+"rs1535271",57734753,"A","G","MGF",1.5,1.47122780740261,"dodgerblue3","Diastolic_blood_pressure_(MTAG), Systolic_blood_pressure_(MTAG)",3,58569026.952
+"rs6011155",62450664,"T","T","MGM",0.5,0.462082092668861,"firebrick2","Type_2_diabetes_(adjusted_for_BMI)",10.5,62450664

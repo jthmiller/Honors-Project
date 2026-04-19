@@ -1,0 +1,63 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs11729193",734351,"A","G","PGF",1.5,1.52294094672427,"dodgerblue3","Parkinson's_disease",3,734351
+"rs6818397",3434885,"G","T","PGF",1.5,1.50568527407944,"dodgerblue3","Calcium_levels, Serum_albumin_levels, Platelet_count_during__first_trimester_of_pregnancy, Height, Albumin_levels",10.5,3434885
+"rs2359009",7132365,"C","A","PGF",1.5,1.46029303079471,"dodgerblue3","Cognitive_performance_(attention)_(longitudinal)",3,7132365
+"rs7698858",9895070,"C","T","PGF",1.5,1.50497944541275,"dodgerblue3","Urate_levels",10.5,9895070
+"rs13131350",17877487,"G","A","PGF",1.5,1.46286266878247,"dodgerblue3","Systolic_blood_pressure, Weight, Height",3,17877487
+"rs6845078",17952208,"T","C","PGF",1.5,1.46090543888509,"dodgerblue3","Hip_circumference_adjusted_for_BMI",10.5,17952208
+"rs7684221",17957354,"A","G","PGF",1.5,1.53646653927863,"dodgerblue3","Waist_circumference_adjusted_for_BMI_in_non-smokers, Waist_circumference_adjusted_for_BMI_in_smokers, Waist_circumference_adjusted_for_body_mass_index, Waist_circumference_adjusted_for_BMI_(adjusted_for_smoking_behaviour), Waist_circumference_adjusted_for_BMI_(joint_analysis_main_effects_and_smoking_interaction)",3,21309814.588
+"rs6830062",18017730,"C","T","PGF",1.5,1.46065431313589,"dodgerblue3","Systolic_blood_pressure_(MTAG)",10.5,21384535.588
+"rs1380294",18024121,"T","C","PGF",1.5,1.53262656284496,"dodgerblue3","Infant_length",3,24742142.176
+"rs6449353",18033488,"C","T","PGF",1.5,1.52526056248695,"dodgerblue3","Appendicular_lean_mass",10.5,24816863.176
+"rs16898037",19056475,"A","G","PGF",1.5,1.52818068314344,"dodgerblue3","Educational_attainment_(MTAG)",3,28174469.764
+"rs13144232",37647234,"G","A","PGF",1.5,1.47047019662336,"dodgerblue3","IgG_glycosylation",10.5,37647234
+"rs1906292",38372995,"T","C","PGF",1.5,1.48264873700216,"dodgerblue3","Bipolar_disorder",3,38372995
+"rs12498763",43112603,"T","G","PGF",1.5,1.46409186597914,"dodgerblue3","IL7_protein_levels",10.5,43112603
+"rs12512921",44998994,"A","G","PGF",1.5,1.46623618807644,"dodgerblue3","Height",3,44998994
+"rs6831020",55500226,"A","C","PGF",1.5,1.48472499743104,"dodgerblue3","Body_mass_index, Hip_circumference_(UKB_data_field_49), Weight_(UKB_data_field_21002), Cystatin_C_levels, High_density_lipoprotein_cholesterol_levels",10.5,55500226
+"rs1902023",69536084,"A","C","PGF",1.5,1.51004929821938,"dodgerblue3","X-17340_levels, X-21286_levels",3,69536084
+"rs293428",69591782,"A","G","PGF",1.5,1.46362970832735,"dodgerblue3","Sex_hormone-binding_globulin_levels",10.5,69591782
+"rs1847366",70599073,"C","T","PGF",1.5,1.46856176428497,"dodgerblue3","White_matter_hyperintensity_volume",3,72968411.588
+"rs4859682",77410318,"C","A","PGF",1.5,1.51244942385703,"dodgerblue3","Kidney_volume, Blood_urea_nitrogen_(BUN_minimum_inv-norm_transformed), hematocrit_(minimum_inv-norm_transformed), hematocrit_(mean_inv-norm_transformed), hemoglobin_(mean_inv-norm_transformed), hematocrit_(maximum_inv-norm_transformed), creatinine_(mean_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_maximum_inv-norm_transformed), creatinine_(minimum_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_mean_inv-norm_transformed), hemoglobin_(maximum_inv-norm_transformed), magnesium_(Mg_maximum_inv-norm_transformed), hemoglobin_(minimum_inv-norm_transformed), red_blood_cell_count_(RBC_minimum_inv-norm_transformed), red_blood_cell_count_(RBC_mean_inv-norm_transformed), red_blood_cell_count_(RBC_maximum_inv-norm_transformed)",10.5,77410318
+"rs13146355",77412140,"G","A","PGF",1.5,1.52474890099838,"dodgerblue3","Magnesium_levels, Hematocrit, Estimated_glomerular_filtration_rate, red_blood_cell_count_(RBC_maximum_inv-norm_transformed), red_blood_cell_count_(RBC_minimum_inv-norm_transformed), red_blood_cell_count_(RBC_mean_inv-norm_transformed), Blood_urea_nitrogen_(BUN_mean_inv-norm_transformed), creatinine_(maximum_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_minimum_inv-norm_transformed), hematocrit_(maximum_inv-norm_transformed), magnesium_(Mg_minimum_inv-norm_transformed), magnesium_(Mg_mean_inv-norm_transformed), hematocrit_(minimum_inv-norm_transformed), hematocrit_(mean_inv-norm_transformed)",3,77412140
+"rs1986734",77420784,"C","T","PGF",1.5,1.47145194450393,"dodgerblue3","Parental_longevity_(combined_parental_attained_age_Martingale_residuals)",10.5,80842645.588
+"rs11932470",77468196,"A","G","PGF",1.5,1.4804244434461,"dodgerblue3","Cognitive_empathy",3,80844467.588
+"rs4975128",79408604,"A","G","PGF",1.5,1.46192343924195,"dodgerblue3","FEV1_FVC_ratio_Z_score_(UKB_data_field_20258), Lung_function_(FEV1/FVC)",10.5,84274973.176
+"rs60944451",88756359,"C","T","PGF",1.5,1.520200283546,"dodgerblue3","Urate_levels_(UKB_data_field_30880)",3,88756359
+"rs17014580",89724236,"C","T","PGF",1.5,1.49296034123749,"dodgerblue3","Obstructive_sleep_apnea_trait_(apnea_hypopnea_index_change_over_time)",10.5,89724236
+"rs3775375",89743582,"T","A","PGF",1.5,1.49695082174614,"dodgerblue3","Pulse_pressure",3,92188686.588
+"rs113444580",98110970,"A","G","PGF",1.5,1.49143485240638,"dodgerblue3","Gut_microbiome_abundance_(class_Clostridium_sensu_stricto_sp._17_(at_1_year)_x_Household_furry_pet_dog_(1_Year)_interaction",10.5,98110970
+"rs3733197",102839287,"G","A","PGF",1.5,1.4856268370524,"dodgerblue3","Body_mass_index",3,102839287
+"rs238449",103112813,"A","C","PGF",1.5,1.4647403998673,"dodgerblue3","Intelligence_(MTAG), Central_nucleus_volume",10.5,103112813
+"rs3733632",104640935,"G","A","PGF",1.5,1.52299087248743,"dodgerblue3","Height",3,106271614.588
+"rs3733631",104641103,"C","G","PGF",1.5,1.5125607585907,"dodgerblue3","Menarche_(age_at_onset)",10.5,106545140.588
+"rs2298989",110891673,"C","T","PGF",1.5,1.47852242548019,"dodgerblue3","High_light_scatter_reticulocyte_percentage_(UKB_data_field_30290), Platelet_distribution_width, Reticulocyte_count_(UKB_data_field_30250)",3,110891673
+"rs2237051",110901198,"A","G","PGF",1.5,1.51642014855519,"dodgerblue3","Glycated_hemoglobin_HbA1c_levels",10.5,110901198
+"rs244040",111229521,"A","G","PGF",1.5,1.49559219561517,"dodgerblue3","Ischemic_stroke_in_dyslipidemia",3,114324000.588
+"rs1048433",122748996,"A","C","PGF",1.5,1.48543977487832,"dodgerblue3","mean_corpuscular_hemoglobin_concentration_(MCHC_mean_inv-norm_transformed), mean_corpuscular_hemoglobin_concentration_(MCHC_maximum_inv-norm_transformed)",10.5,122748996
+"rs1347188",124743259,"G","A","PGF",1.5,1.52796442463994,"dodgerblue3","Nonsyndromic_cleft_lip_with_or_without_cleft_palate, Cleft_lip_with_cleft_palate, Cleft_lip_with_or_without_cleft_palate, Orofacial_clefts",3,124743259
+"rs4975300",129160316,"T","T","PGM",0.5,0.536535397768021,"firebrick2","Height",10.5,129160316
+"rs13105686",131468686,"C","C","PGM",0.5,0.499237485360354,"firebrick2","Uveal_melanoma_with_epithelioid_cells",3,131468686
+"rs6535028",135537719,"T","T","PGM",0.5,0.514077704641968,"firebrick2","Response_to_radiotherapy_in_prostate_cancer_(overall_toxicity)",10.5,135537719
+"rs17367750",140782542,"T","T","PGM",0.5,0.514816545024514,"firebrick2","Household_income_(MTAG)",3,140782542
+"rs2575570",145548933,"T","T","PGM",0.5,0.504222499821335,"firebrick2","Hip_circumference_adjusted_for_BMI",10.5,145548933
+"rs11727676",145659064,"C","C","PGM",0.5,0.49354982888326,"firebrick2","Colorectal_cancer_or_advanced_adenoma, Diverticular_disease, Alanine_aminotransferase_levels, Serum_levels_of_protein_HHIP, Cortical_thickness, Cortical_surface_area, aparc-Desikan_lh_volume_cuneus, aparc-Desikan_lh_area_pericalcarine, aparc-pial_rh_area_pericalcarine, aparc-DKTatlas_lh_area_pericalcarine, BA-exvivo_rh_area_V1, BA-exvivo_rh_area_V2, BA-exvivo_lh_area_V1, aparc-a2009s_lh_area_S-calcarine, aparc-DKTatlas_rh_area_lingual, aparc-DKTatlas_rh_area_pericalcarine, IDP_T1_FAST_ROIs_R_intracalc_cortex, BA-exvivo_lh_volume_V2, aparc-pial_rh_area_lingual, aparc-pial_lh_area_pericalcarine, aparc-Desikan_rh_area_lingual, aparc-Desikan_rh_area_pericalcarine, aparc-a2009s_rh_area_S-calcarine, aparc-a2009s_rh_area_G-cuneus, Waist_circumference_adjusted_for_body_mass_index, Forced_vital_capacity_FVC_Z_score_(UKB_data_field_20257), Impedance_of_arm_right_(UKB_data_field_23109), Impedance_of_arm_left_(UKB_data_field_23110), Impedance_of_whole_body_(UKB_data_field_23106), Vertex-wise_cortical_thickness, Vertex-wise_cortical_surface_area, Vertex-wise_sulcal_depth, Waist-hip_index, A_body_shape_index, Waist-to-hip_ratio_adjusted_for_BMI, FEV1_x_serum_25-hydroxyvitamin_D_interaction_in_ever_smokers_(2df_test), Colorectal_cancer, Body_mass_index, Type_2_diabetes, Cholesterol_levels_in_very_large_HDL, Cholesterol_esters_in_very_large_HDL, Total_lipids_in_very_large_HDL, Free_Cholesterol_to_Total_Lipids_in_Very_Large_HDL_percentage, Concentration_of_very_large_HDL_particles, Phospholipids_in_very_large_HDL, Cholesterol_in_Large_HDL, Average_diameter_for_HDL_particles, Free_cholesterol_in_large_HDL, Concentration_of_large_HDL_particles, Cholesteryl_Esters_in_Large_HDL",3,145659064
+"rs723794",146875551,"G","G","PGM",0.5,0.517576879300177,"firebrick2","Smooth-surface_caries, Height",10.5,148981260.588
+"rs4447840",153588500,"G","G","PGM",0.5,0.477330038584769,"firebrick2","Gut_microbiota_relative_abundance_(unclassified_genus_belonging_to_family_Lachnospiraceae)",3,153588500
+"rs13109457",155514879,"A","A","PGM",0.5,0.484181880373508,"firebrick2","D-dimer_levels",10.5,155514879
+"rs7659024",155520930,"A","A","PGM",0.5,0.487825851328671,"firebrick2","Venous_thromboembolism",3,157020827.588
+"rs2066865",155525276,"A","A","PGM",0.5,0.48337554872036,"firebrick2","Venous_thromboembolism, Pulmonary_embolism",10.5,158947206.588
+"rs7654093",155545072,"T","T","PGM",0.5,0.494287276398391,"firebrick2","Thrombosis",3,160453155.176
+"rs17035181",157678511,"G","G","PGM",0.5,0.483638391774148,"firebrick2","Systolic_blood_pressure_(MTAG), Systolic_blood_pressure, Diastolic_blood_pressure, Pulse_pressure",10.5,162379534.176
+"rs6847800",158932876,"T","T","PGM",0.5,0.531011318340898,"firebrick2","Height",3,163885482.764
+"rs11723207",163749607,"T","T","PGM",0.5,0.475728607382625,"firebrick2","Educational_attainment_(MTAG)",10.5,165811861.764
+"rs716357",174062064,"A","A","PGM",0.5,0.515030068792403,"firebrick2","Educational_attainment",3,174062064
+"rs11933956",174474597,"T","T","PGM",0.5,0.535206256676465,"firebrick2","Atrial_fibrillation_(MTAG)",10.5,174474597
+"rs6855088",182704551,"G","G","PGM",0.5,0.479896095171571,"firebrick2","Obesity-related_traits",3,182704551
+"rs60777214",183246170,"G","G","PGM",0.5,0.465626997798681,"firebrick2","Gut_microbial_network_clusters_(MidnightBlue_(at_1_year)_x_Any_Breastfeeding_(Duration)_interaction",10.5,183246170
+"rs3775290",187004217,"T","T","PGM",0.5,0.526717076897621,"firebrick2","RAB6A_protein_levels",3,187004217
+"rs4253238",187148387,"C","C","PGM",0.5,0.484770852569491,"firebrick2","Circulating_vasoactive_peptide_levels",10.5,187148387
+"rs4253252",187157458,"T","T","PGM",0.5,0.504498049151152,"firebrick2","Metabolic_traits, Phenylalanine_levels, X-11792_levels",3,190436544.588
+"rs4253311",187174683,"A","A","PGM",0.5,0.475233413409442,"firebrick2","Plasma_renin_activity_levels, Bradykinin_des-arg_9_levels",10.5,190580714.588
+"rs2306990",187518976,"T","T","PGM",0.5,0.485759317483753,"firebrick2","Height",3,193868872.176
+"rs4478239",188191306,"C","C","PGM",0.5,0.519125401992351,"firebrick2","Longevity",10.5,194013042.176

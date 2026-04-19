@@ -1,0 +1,99 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs2289731",8390888,"A","G","MGF",1.5,1.52770027866587,"dodgerblue3","High_light_scatter_reticulocyte_count, High_light_scatter_reticulocyte_percentage_of_red_cells, Height_(standard_GWA)",3,8390888
+"rs945425",16348412,"T","C","MGF",1.5,1.48364040104672,"dodgerblue3","Heart_failure, Right_ventricular_ejection_fraction, Cardiac_defibrillator_in_situ_(PheCode_426.92)",10.5,16348412
+"rs10803410",16368324,"A","G","MGF",1.5,1.53268338276073,"dodgerblue3","Alzheimer's_disease_proxy_Alzheimer's_disease_or_related_dementias",3,16368324
+"rs555115",18676961,"A","G","MGF",1.5,1.50214194869623,"dodgerblue3","Gut_microbiota_presence_(genus_Turicibacter_id.2162)",10.5,20822769.848
+"rs10916780",20707153,"G","G","MGM",0.5,0.471486849039793,"firebrick2","Type_2_diabetes",3,20842681.848
+"rs4649195",24485941,"T","T","MGM",0.5,0.518883911911398,"firebrick2","Vaginal_microbiome_relative_abundance_(g_Megasphaera), Vaginal_microbiome_presence_(g_Megasphaera)",10.5,25297127.696
+"rs11249187",25187952,"C","C","MGM",0.5,0.510546334683895,"firebrick2","Height",3,25317039.696
+"rs6600257",25472465,"A","A","MGM",0.5,0.513485862314701,"firebrick2","Male-pattern_baldness",10.5,29771485.544
+"rs1043879",25570081,"C","C","MGM",0.5,0.464425302613527,"firebrick2","Mean_corpuscular_hemoglobin_concentration, Low_density_lipoprotein_cholesterol_levels, Apolipoprotein_B_levels, Total_cholesterol_levels",3,29791397.544
+"rs3010109",27278553,"A","A","MGM",0.5,0.482987643517554,"firebrick2","Thyroid_stimulating_hormone_levels",10.5,34245843.392
+"rs7549164",31224193,"T","T","MGM",0.5,0.492893387526274,"firebrick2","White_blood_cell_count",3,34265755.392
+"rs6689801",34653038,"G","G","MGM",0.5,0.537297970689833,"firebrick2","Gut_microbiome_abundance_(class_Bacteroides_sp._32_(at_1_year)_x_Exclusive_Breastfeeding_(Duration)_interaction",10.5,38720201.24
+"rs12116935",36789546,"A","A","MGM",0.5,0.512593901008368,"firebrick2","Appendicular_lean_mass, Height",3,38740113.24
+"rs4653178",36795430,"C","C","MGM",0.5,0.463035098053515,"firebrick2","Height",10.5,43194559.088
+"rs1002656",37192741,"C","C","MGM",0.5,0.511915256064385,"firebrick2","Bipolar_disorder_or_major_depressive_disorder, General_factor_of_neuroticism, Neuroticism, Depression",3,43214471.088
+"rs525798",37240886,"T","T","MGM",0.5,0.483125277757645,"firebrick2","Neuroticism, Alanine_aminotransferase_levels_in_non-alcoholic_fatty_liver_disease",10.5,47668916.936
+"rs490647",37242743,"A","A","MGM",0.5,0.502725361250341,"firebrick2","Neuroticism",3,47688828.936
+"rs215820",37663143,"T","T","MGM",0.5,0.533218776360154,"firebrick2","Deliberate_self-harm",10.5,52143274.784
+"rs215811",37668630,"T","T","MGM",0.5,0.516503738500178,"firebrick2","Deliberate_self-harm",3,52163186.784
+"rs12742756",38347417,"G","G","MGM",0.5,0.492152527272701,"firebrick2","Type_1_diabetes",10.5,56617632.632
+"rs4634868",38465315,"A","A","MGM",0.5,0.488218171223998,"firebrick2","Red_blood_cell_count",3,56637544.632
+"rs12565767",38750042,"T","T","MGM",0.5,0.511980773378164,"firebrick2","Smoking_initiation",10.5,61091990.48
+"rs4660293",40028180,"G","G","MGM",0.5,0.519004170410335,"firebrick2","Diastolic_blood_pressure, Mean_arterial_pressure, HDL_cholesterol, Sex_hormone-binding_globulin_levels, Linoleic_acid_to_total_fatty_acids_percentage, Degree_of_unsaturation",3,61111902.48
+"rs4453027",41453453,"T","T","MGM",0.5,0.530226209778339,"firebrick2","Testosterone_levels_in_postmenopausal_women, Testosterone_levels",10.5,65566348.328
+"rs2991996",43741713,"A","A","MGM",0.5,0.497923328895122,"firebrick2","Kidney_injury_molecule_1_levels",3,65586260.328
+"rs11211006",44937974,"T","T","MGM",0.5,0.52446718621999,"firebrick2","UROD_protein_levels",10.5,70040706.176
+"rs10890311",45067768,"T","T","MGM",0.5,0.521806215848774,"firebrick2","Chronic_obstructive_pulmonary_disease",3,70060618.176
+"rs1768808",46503217,"C","C","MGM",0.5,0.477062651179731,"firebrick2","Glycoprotein_acetyls_levels",10.5,74515064.024
+"rs2065996",47275241,"A","A","MGM",0.5,0.506931676249951,"firebrick2","Glycine_conjugate_of_C10H12O2_levels",3,74534976.024
+"rs946836",48321221,"T","C","MGF",1.5,1.53743689676747,"dodgerblue3","White_matter_integrity",10.5,78989421.872
+"rs10493130",48341005,"G","A","MGF",1.5,1.4945832160674,"dodgerblue3","Heel_bone_mineral_density, Heel_bone_mineral_density_(MTAG), Total_body_bone_mineral_density_(MTAG)",3,79009333.872
+"rs657452",49589847,"A","G","MGF",1.5,1.47635573651642,"dodgerblue3","BMI_(adjusted_for_smoking_behaviour), Body_mass_index_(joint_analysis_main_effects_and_smoking_interaction), Body_mass_index, Body_mass_index_(MTAG)",10.5,83463779.72
+"rs11583200",50559820,"C","T","MGF",1.5,1.53640089191496,"dodgerblue3","Body_mass_index",3,83483691.72
+"rs12138061",50572096,"A","C","MGF",1.5,1.53416558774188,"dodgerblue3","Schizophrenia",10.5,87938137.568
+"rs4926853",50709222,"A","A","MGM",0.5,0.510044525470585,"firebrick2","Body_mass_index_(MTAG)",3,87958049.568
+"rs706497",53114736,"T","C","MGF",1.5,1.49490319451317,"dodgerblue3","Dementia",10.5,92412495.416
+"rs6662617",57269521,"G","A","MGF",1.5,1.5135521296598,"dodgerblue3","Obesity-related_traits",3,92432407.416
+"rs4326648",59332599,"T","C","MGF",1.5,1.47403909547254,"dodgerblue3","TACSTD2_protein_levels",10.5,96886853.264
+"rs7535730",61871356,"G","A","MGF",1.5,1.52685686606914,"dodgerblue3","Homeostasis_model_assessment_of_insulin_resistance",3,96906765.264
+"rs1056513",62380298,"A","G","MGF",1.5,1.52340042473748,"dodgerblue3","Obesity-related_traits",10.5,101361211.112
+"rs4915866",63488228,"G","T","MGF",1.5,1.46521045396104,"dodgerblue3","Post-bronchodilator_FEV1_x_air_pollution_(CO)_interaction_in_childhood_asthma",3,101381123.112
+"rs1884444",67633812,"G","T","MGF",1.5,1.48734816677868,"dodgerblue3","Serum_levels_of_protein_IL23R",10.5,105835568.96
+"rs11805303",67675516,"C","T","MGF",1.5,1.48239478407428,"dodgerblue3","Regional_enteritis_(PheCode_555.1)",3,105855480.96
+"rs983034",68603586,"C","T","MGF",1.5,1.50660701949149,"dodgerblue3","Heel_bone_mineral_density",10.5,110309926.808
+"rs55914748",82884721,"T","G","MGF",1.5,1.48781570944935,"dodgerblue3","Breast_cancer_(early_onset)",3,110329838.808
+"rs233051",85838413,"G","A","MGF",1.5,1.50241579489782,"dodgerblue3","Protein_quantitative_trait_loci_(liver)",10.5,114784284.656
+"rs7418327",86655440,"T","C","MGF",1.5,1.50747118340805,"dodgerblue3","Gut_microbiome_abundance_(class_Bifidobacterium_longum_(at_1_year)_x_Homesmokers_interaction",3,114804196.656
+"rs658980",89045338,"A","C","MGF",1.5,1.49050447529182,"dodgerblue3","Educational_attainment_(MTAG)",10.5,119258642.504
+"rs11166440",100808363,"A","G","MGF",1.5,1.51248919339851,"dodgerblue3","Estimated_glomerular_filtration_rate, creatinine_(mean_inv-norm_transformed), creatinine_(minimum_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_maximum_inv-norm_transformed), estimated_glomerular_filtration_rate_(eGFR_mean_inv-norm_transformed)",3,119278554.504
+"rs12043814",108243851,"T","C","MGF",1.5,1.50924492288381,"dodgerblue3","Plasma_omega-3_polyunsaturated_fatty_acid_levels_(docosahexaenoic_acid)",10.5,123733000.352
+"rs1149178",110213000,"A","T","MGF",1.5,1.48945620510727,"dodgerblue3","Glutathione_S-transferase_Mu_4_levels",3,123752912.352
+"rs7411387",111837135,"C","T","MGF",1.5,1.48899936435744,"dodgerblue3","Interferon_alpha_levels_in_systemic_lupus_erythematosus",10.5,128207358.2
+"rs2800883",112143035,"C","T","MGF",1.5,1.4811846168153,"dodgerblue3","Lymphocyte_count",3,128227270.2
+"rs834233",150354276,"G","A","MGF",1.5,1.48414081683382,"dodgerblue3","Physical_function_(baseline)",10.5,150354276
+"rs12116970",150466925,"T","C","MGF",1.5,1.52792725900188,"dodgerblue3","Height",3,150466925
+"rs1552604",151940403,"A","C","MGF",1.5,1.46381061596796,"dodgerblue3","Cis-4-decenoate_(10:1n6)_(X-23293)_levels",10.5,154828633.848
+"rs3124314",152037515,"T","C","MGF",1.5,1.47545798957348,"dodgerblue3","Hair_morphology",3,154941282.848
+"rs11205006",152440176,"A","T","MGF",1.5,1.47051968256012,"dodgerblue3","Atopic_dermatitis",10.5,159302991.696
+"rs12144049",152440910,"C","T","MGF",1.5,1.50770733706653,"dodgerblue3","Atopic_dermatitis, FEV1_x_serum_25-hydroxyvitamin_D_interaction_(2df_test)",3,159415640.696
+"rs2146115",152443495,"T","C","MGF",1.5,1.47995779588819,"dodgerblue3","Cornulin_levels",10.5,163777349.544
+"rs499697",152493154,"G","A","MGF",1.5,1.49593292035162,"dodgerblue3","Common_traits_(Other)",3,163889998.544
+"rs10908539",157153900,"A","G","MGF",1.5,1.49610923778266,"dodgerblue3","FCRL3_protein_levels",10.5,168251707.392
+"rs13962",159175527,"A","G","MGF",1.5,1.46546924361959,"dodgerblue3","IgE_levels, C-C_motif_chemokine_14_levels_(CCL14.2900.53.3), CCL14_protein_levels",3,168364356.392
+"rs4657039",161462728,"A","G","MGF",1.5,1.50147996209562,"dodgerblue3","Systemic_lupus_erythematosus_(MTAG)",10.5,172726065.24
+"rs905720",162334100,"T","C","MGF",1.5,1.52460125496611,"dodgerblue3","Weight",3,172838714.24
+"rs6136",169563951,"G","T","MGF",1.5,1.49181076688692,"dodgerblue3","P-selectin_levels, Blood_protein_levels, P-selectin_levels_(SELP.4154.57.2)",10.5,177200423.088
+"rs17350579",172066592,"T","G","MGF",1.5,1.51671909308061,"dodgerblue3","Height",3,177313072.088
+"rs6694089",172083881,"A","G","MGF",1.5,1.49436857281253,"dodgerblue3","Height",10.5,181674780.936
+"rs17277008",172105162,"C","T","MGF",1.5,1.47076531494036,"dodgerblue3","Hip_circumference_adjusted_for_BMI, Whole_body_water_mass_(UKB_data_field_23102)",3,181787429.936
+"rs1063412",172410967,"G","A","MGF",1.5,1.51673723312095,"dodgerblue3","Hemoglobin_levels",10.5,186149138.784
+"rs12758548",172518896,"T","C","MGF",1.5,1.50922557197511,"dodgerblue3","Erythrocyte_cadmium_concentration_in_never_smokers",3,186261787.784
+"rs730278",172603940,"T","C","MGF",1.5,1.51797906011343,"dodgerblue3","IDUA_protein_levels",10.5,190623496.632
+"rs10913299",177189898,"G","T","MGF",1.5,1.52095685990527,"dodgerblue3","Physical_function_(baseline), Height_(baseline)",3,190736145.632
+"rs1047980",183192304,"G","T","MGF",1.5,1.5098079636693,"dodgerblue3","Maximum_habitual_alcohol_consumption",10.5,195097854.48
+"rs1047981",183206573,"A","G","MGF",1.5,1.53327214900404,"dodgerblue3","Lung_function_(FEV1/FVC)",3,195210503.48
+"rs756199",184002874,"G","A","MGF",1.5,1.51988424787298,"dodgerblue3","Height",10.5,199572212.328
+"rs3814333",184007119,"T","C","MGF",1.5,1.50848537737504,"dodgerblue3","Height, Weight, Trunk_fat_mass_(UKB_data_field_23128), Weight_(UKB_data_field_21002), Whole_body_water_mass_(UKB_data_field_23102), Surgical_hip_osteoarthritis, Whole_body_fat_mass_(UKB_data_field_23100)",3,199684861.328
+"rs1926872",184018475,"C","T","MGF",1.5,1.4872828076221,"dodgerblue3","Waist_circumference_adjusted_for_body_mass_index, Standing_height_(UKB_data_field_50)",10.5,204046570.176
+"rs2274432",184020945,"A","G","MGF",1.5,1.53053019331768,"dodgerblue3","Waist_circumference_adjusted_for_BMI_(joint_analysis_main_effects_and_smoking_interaction), Waist_circumference_adjusted_for_BMI_in_non-smokers, Waist_circumference_adjusted_for_BMI_in_inactive_individuals, Waist_circumference_adjusted_for_body_mass_index, Waist_circumference_adjusted_for_BMI_(adjusted_for_smoking_behaviour)",3,204159219.176
+"rs1046934",184023529,"C","A","MGF",1.5,1.53503063596785,"dodgerblue3","Waist_circumference_adjusted_for_BMI_in_active_individuals, Waist_circumference_adjusted_for_body_mass_index, Waist_circumference_adjusted_for_BMI_in_inactive_individuals, tRNA-splicing_endonuclease_subunit_Sen15_levels, Height",10.5,208520928.024
+"rs971572",184068508,"A","C","MGF",1.5,1.52466981977224,"dodgerblue3","Corneal_resistance_factor_(MTAG)",3,208633577.024
+"rs2489676",190804630,"T","G","MGF",1.5,1.52677477268502,"dodgerblue3","Body_mass_index_(MTAG)",10.5,212995285.872
+"rs2820292",201784287,"C","A","MGF",1.5,1.47207403283566,"dodgerblue3","Body_mass_index",3,213107934.872
+"rs903361",203091274,"G","A","MGF",1.5,1.50962409866974,"dodgerblue3","Asthma",10.5,217469643.72
+"rs6695980",203519194,"T","C","MGF",1.5,1.49846492642537,"dodgerblue3","High_density_lipoprotein_cholesterol_levels, Triglycerides",3,217582292.72
+"rs908702",207105641,"T","C","MGF",1.5,1.53037586195394,"dodgerblue3","LEG1_protein_levels, Polymeric_immunoglobulin_receptor_levels",10.5,221944001.568
+"rs17016821",210914471,"A","G","MGF",1.5,1.47482136147097,"dodgerblue3","Age_when_finished_full-time_education_(standard_GWA)",3,222056650.568
+"rs11119608",210989509,"T","G","MGF",1.5,1.48881785754114,"dodgerblue3","Cancer",10.5,226418359.416
+"rs4472734",214618185,"T","C","MGF",1.5,1.48174499971792,"dodgerblue3","Height, Estimated_glomerular_filtration_rate_(creatinine)",3,226531008.416
+"rs12120994",220673783,"G","A","MGF",1.5,1.4988519860059,"dodgerblue3","Saturated_fatty_acids_to_total_fatty_acids_percentage",10.5,230892717.264
+"rs6672925",234738338,"G","A","MGF",1.5,1.48875990143046,"dodgerblue3","Heel_bone_mineral_density",3,234738338
+"rs4659520",235575321,"T","C","MGF",1.5,1.47454403052107,"dodgerblue3","Cognitive_performance_(MTAG)",10.5,235575321
+"rs6429082",235600129,"C","T","MGF",1.5,1.48837089065462,"dodgerblue3","Adiposity, Household_income_(MTAG)",3,239212695.848
+"rs2805407",237741884,"C","T","MGF",1.5,1.52165416948497,"dodgerblue3","Gut_microbial_network_clusters_(Tan_(at_3_months)_x_Summer_Birth_(Jun-Aug)_interaction",10.5,240049678.848
+"rs876793",237852083,"C","T","MGF",1.5,1.47408256677911,"dodgerblue3","Lipid_traits, Smoking_initiation_(ever_regular_vs_never_regular), Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG)",3,243687053.696
+"rs9287237",240597214,"T","G","MGF",1.5,1.47669093064964,"dodgerblue3","Bone_mineral_density",10.5,244524036.696
+"rs7523793",242253024,"C","T","MGF",1.5,1.52580235505477,"dodgerblue3","Smoking_initiation",3,248161411.544
+"rs11583410",247614896,"C","A","MGF",1.5,1.52042662467808,"dodgerblue3","C-reactive_protein_levels",10.5,248998394.544

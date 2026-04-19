@@ -1,0 +1,46 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs9897348",1320113,"C","A","PGF",1.5,1.51437499249354,"dodgerblue3","Medication_use_(agents_acting_on_the_renin-angiotensin_system)",3,1320113
+"rs3026101",5280440,"T","C","PGF",1.5,1.50093847541139,"dodgerblue3","Body_mass_index",10.5,5280440
+"rs1000940",5283252,"A","G","PGF",1.5,1.46748177001253,"dodgerblue3","Body_mass_index, Body_mass_index_(MTAG)",3,5283252
+"rs2189336",5326162,"G","A","PGF",1.5,1.50029996441677,"dodgerblue3","Schizophrenia",10.5,6738217.016
+"rs4496215",6038074,"G","A","PGF",1.5,1.52996755478904,"dodgerblue3","Tanner_2_to_Tanner_4_pubertal_stage_transition_(joint_longitudinal_BMI_and_survival_model)",3,6741029.016
+"rs11078685",7411447,"T","C","PGF",1.5,1.47951084321365,"dodgerblue3","High_light_scatter_reticulocyte_percentage_(UKB_data_field_30290), Osteoarthritis_(hip), Body_mass_index_(MTAG)",10.5,8195994.032
+"rs12940684",7453919,"C","T","PGF",1.5,1.504295213148,"dodgerblue3","Body_fat_percentage, Aspartate_aminotransferase_levels, Sex_hormone-binding_globulin_levels, Metabolic_biomarkers_(multivariate_analysis)",3,8198806.032
+"rs4511593",7455536,"C","T","PGF",1.5,1.49844840114936,"dodgerblue3","Systolic_blood_pressure_(MTAG)",10.5,9653771.048
+"rs4227",7491177,"G","T","PGF",1.5,1.46167910300195,"dodgerblue3","IgA_nephropathy",3,9656583.048
+"rs1799941",7533423,"A","G","PGF",1.5,1.51361116962507,"dodgerblue3","Total_testosterone_levels, Serum_levels_of_protein_SHBG, Testosterone_levels_(UKB_data_field_30850), Sex_hormone-binding_globulin_levels_adjusted_for_BMI, Sex_hormone-binding_globulin_levels, Spontaneous_dizygotic_twinning, Hypogonadism, Omega-3_fatty_acid_levels, Testosterone_levels",10.5,11111548.064
+"rs727428",7537792,"C","T","PGF",1.5,1.49365717781708,"dodgerblue3","Hemoglobin_A1c_levels, Estradiol_levels, Free_testosterone_levels, Bioavailable_testosterone_levels, Sex_hormone-binding_globulin_levels, Smoking_cessation, Hypogonadism, Total_testosterone_levels, Cholesteryl_Esters_to_Total_Lipids_in_Large_HDL_percentage, Cholesterol_to_Total_Lipids_in_Large_HDL_percentage",3,11114360.064
+"rs2955617",7538785,"A","C","PGF",1.5,1.51745550470427,"dodgerblue3","Body_fat_percentage_and_HDL-C_(pairwise), Free_Cholesterol_in_HDL",10.5,12569325.08
+"rs12943477",13815860,"T","G","PGF",1.5,1.52254335248843,"dodgerblue3","Endometriosis",3,13815860
+"rs1634423",18844736,"T","C","PGF",1.5,1.47577711580321,"dodgerblue3","Ankle_injury",10.5,18844736
+"rs731870",21122322,"G","A","PGF",1.5,1.49127914981917,"dodgerblue3","Height_(standard_GWA)",3,21122322
+"rs2297518",26096597,"A","G","PGF",1.5,1.48072339445353,"dodgerblue3","Ankylosing_spondylitis, NOS2_protein_levels",10.5,26096597
+"rs11080150",29629326,"G","A","PGF",1.5,1.46030529487878,"dodgerblue3","Total_cholesterol_levels, Low_density_lipoprotein_cholesterol_levels",3,29629326
+"rs2269906",42294337,"A","C","PGF",1.5,1.50674292942509,"dodgerblue3","Parkinson's_disease_or_first_degree_relation_to_individual_with_Parkinson's_disease",10.5,42294337
+"rs2857078",42330171,"C","A","PGF",1.5,1.49430940460414,"dodgerblue3","Reticulocyte_count, Red_cell_distribution_width, Serum_total_protein_levels, Mean_corpuscular_haemoglobin_(UKB_data_field_30050)",3,42330171
+"rs45530735",42334012,"T","C","PGF",1.5,1.4996619351767,"dodgerblue3","Mean_reticulocyte_volume",10.5,43752114.016
+"rs12449792",43302259,"C","T","PGF",1.5,1.49381534995511,"dodgerblue3","Dementia",3,43787948.016
+"rs950608",55329305,"A","G","PGF",1.5,1.48080802310258,"dodgerblue3","Mean_corpuscular_volume, Mean_corpuscular_hemoglobin",10.5,55329305
+"rs12602408",56421270,"G","A","PGF",1.5,1.47303257720545,"dodgerblue3","ferritin_(minimum_inv-norm_transformed), ferritin_(maximum_inv-norm_transformed), ferritin_(mean_inv-norm_transformed)",3,56421270
+"rs757485",56424710,"T","C","PGF",1.5,1.51604799356312,"dodgerblue3","Intelligence, Prostate-specific_antigen_levels",10.5,56787082.016
+"rs12938538",56426027,"T","C","PGF",1.5,1.4769252772443,"dodgerblue3","Prostate_cancer",3,57879047.016
+"rs2526370",56487636,"G","C","PGF",1.5,1.4935473642312,"dodgerblue3","Prostate_cancer",10.5,58244859.032
+"rs4968431",59421778,"T","G","PGF",1.5,1.48840281909332,"dodgerblue3","Height_(baseline)",3,59421778
+"rs887797",64579445,"A","G","PGF",1.5,1.52287997150794,"dodgerblue3","Possible_neuropathic_pain_in_post_total_joint_replacement_surgery_for_osteoarthritis",10.5,64579445
+"rs9909210",65503165,"T","C","PGF",1.5,1.47122235203162,"dodgerblue3","Smoking_initiation",3,65503165
+"rs2706702",65578873,"T","C","PGF",1.5,1.46892178874463,"dodgerblue3","Blood_urea_nitrogen_levels",10.5,66037222.016
+"rs2642030",65605075,"G","A","PGF",1.5,1.49256014414132,"dodgerblue3","Duodenal_ulcer",3,66960942.016
+"rs11655341",70428784,"A","G","PGF",1.5,1.53154241727665,"dodgerblue3","Basal_metabolic_rate_in_chronic_obstructive_pulmonary_disease",10.5,70428784
+"rs4789580",76311991,"G","T","PGF",1.5,1.49222867935896,"dodgerblue3","IgG_glycosylation",3,76311991
+"rs12948394",76382791,"C","T","PGF",1.5,1.5382685010694,"dodgerblue3","LDL_cholesterol_levels, Apolipoprotein_B_levels, Total_cholesterol_levels, High_density_lipoprotein_cholesterol_levels, Low_density_lipoprotein_cholesterol_levels, HDL_cholesterol",10.5,76382791
+"rs4969178",76388202,"G","A","PGF",1.5,1.47132648633793,"dodgerblue3","Sphingomyelins_levels",3,77769768.016
+"rs4969184",76393413,"A","G","PGF",1.5,1.53130669791251,"dodgerblue3","Monounsaturated_fatty_acids_to_total_fatty_acids_percentage",10.5,77840568.016
+"rs4580257",76403028,"G","T","PGF",1.5,1.51335489045829,"dodgerblue3","Average_diameter_for_LDL_particles",3,79227545.032
+"rs4129767",76403984,"A","G","PGF",1.5,1.52651403130963,"dodgerblue3","HDL_cholesterol_levels, CA4_protein_levels, Docosahexaenoic_acid_levels",10.5,79298345.032
+"rs7220955",76700063,"G","A","PGF",1.5,1.52513909494504,"dodgerblue3","Heart_failure_(MTAG), Coronary_artery_disease_(MTAG)",3,80685322.048
+"rs1044486",76792179,"G","A","PGF",1.5,1.51510699365288,"dodgerblue3","Type_2_diabetes",10.5,80756122.048
+"rs3744802",76793600,"G","A","PGF",1.5,1.48922631666064,"dodgerblue3","height_(minimum_inv-normal_transformed)",3,82143099.064
+"rs9900972",76868614,"A","G","PGF",1.5,1.52022206654772,"dodgerblue3","Obesity-related_traits",10.5,82213899.064
+"rs898528",77166803,"T","C","PGF",1.5,1.51174795459956,"dodgerblue3","Chronic_obstructive_pulmonary_disease_liability_(machine_learning-based_score)",3,83600876.08
+"rs4889782",78640510,"C","T","PGF",1.5,1.46412504224107,"dodgerblue3","Body_mass_index",10.5,83671676.08
+"rs9894429",79596811,"C","T","PGF",1.5,1.47818223176524,"dodgerblue3","Body_mass_index",3,85058653.096

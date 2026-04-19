@@ -1,0 +1,30 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs11697918",895325,"G","A","PGF",1.5,1.51742912353948,"dodgerblue3","Lung_function",3,895325
+"rs44707",3651226,"T","G","PGF",1.5,1.53977458206937,"dodgerblue3","White_blood_cell_count, IL4R_protein_levels, COVID-19_(hospitalized_vs_tested_not_hospitalized)",10.5,3651226
+"rs1018493",3682011,"A","G","PGF",1.5,1.50556295976043,"dodgerblue3","Platelet_count, CD63_protein_levels",3,3682011
+"rs6053604",5664999,"C","A","PGF",1.5,1.4848232149519,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_BMI",10.5,5664999
+"rs805770",5668714,"T","C","PGF",1.5,1.47193421114236,"dodgerblue3","Hip_index, Waist_circumference_adjusted_for_body_mass_index, Hip_circumference_adjusted_for_BMI, Waist-hip_index, Waist-to-hip_ratio_adjusted_for_BMI, A_body_shape_index",3,5668714
+"rs1090536",5697947,"G","A","PGF",1.5,1.52103374416009,"dodgerblue3","Vaginal_microbiome_MetaCyc_pathway_(PWY-7332|superpathway_of_UDP-N-acetylglucosamine-derived_O-antigen_building_blocks_biosynthesis)",10.5,6795739.038
+"rs17804047",6726127,"T","C","PGF",1.5,1.53704047210515,"dodgerblue3","Amblyopia",3,6799454.038
+"rs6077089",6893194,"G","A","PGF",1.5,1.47178845588118,"dodgerblue3","DXA-Bone_mineral_density_(pelvis)_(UKB_data_field_23232)",10.5,7926479.076
+"rs852069",17122593,"A","G","PGF",1.5,1.46118998711929,"dodgerblue3","Menarche_(age_at_onset)",3,17122593
+"rs240752",17862550,"C","T","PGF",1.5,1.50815117582679,"dodgerblue3","Type_1_diabetes",10.5,17862550
+"rs4273288",24900873,"A","G","PGF",1.5,1.46938585953787,"dodgerblue3","Transmembrane_emp24_domain-containing_protein_10_protein_levels_(SomaScan_ID:14038-130)",3,24900873
+"rs6059958",30143278,"T","C","PGF",1.5,1.53655451549217,"dodgerblue3","Total_concentration_of_lipoprotein_particles, Cholesteryl_Esters_in_Medium_HDL, Concentration_of_medium_HDL_particles, Free_cholesterol_in_medium_HDL, Apolipoprotein_A1_levels, Phospholipids_in_HDL, Cholesterol_in_Medium_HDL, Phospholipids_in_medium_HDL, Free_Cholesterol_to_Total_Lipids_in_Medium_HDL_percentage, Total_lipids_in_medium_HDL, Total_lipids_in_large_HDL, Free_cholesterol_in_large_HDL, HDL_cholesterol_levels, Cholesteryl_Esters_in_HDL, Total_Lipids_in_HDL, Concentration_of_HDL_particles, Free_Cholesterol_in_HDL",10.5,30143278
+"rs293710",31939710,"C","T","PGF",1.5,1.51079313537106,"dodgerblue3","Hip_circumference_adjusted_for_BMI",3,31939710
+"rs3736802",33604042,"C","T","PGF",1.5,1.49993205500767,"dodgerblue3","Phospholipids_in_HDL, Total_Lipids_in_HDL",10.5,33604042
+"rs9875",42825487,"T","C","PGF",1.5,1.48459202064201,"dodgerblue3","Educational_attainment",3,42825487
+"rs1971447",42826555,"C","A","PGF",1.5,1.47873433340341,"dodgerblue3","Basophil_(absolute_count_maximum_inv-norm_transformed)",10.5,42826555
+"rs2143607",42838712,"C","G","PGF",1.5,1.50227762017399,"dodgerblue3","monocyte_(fraction_mean_inv-norm_transformed)",3,43956227.038
+"rs12625621",44440350,"A","G","PGF",1.5,1.53252989130095,"dodgerblue3","mean_platelet_volume_(MPV_minimum_inv-norm_transformed)",10.5,44440350
+"rs3746513",44594228,"A","G","PGF",1.5,1.53367247477174,"dodgerblue3","Total_cholesterol_to_total_lipids_ratio_in_medium_LDL, Total_cholesterol_to_total_lipids_ratio_in_small_LDL, Total_cholesterol_to_total_lipids_ratio_in_large_LDL",3,45086967.076
+"rs6104410",44607601,"G","A","PGF",1.5,1.50183376148343,"dodgerblue3","Total_cholesterol_levels, Low-density_lipoprotein_levels, Polyunsaturated_fatty_acids_to_saturated_fatty_acids_ratio, Saturated_fatty_acids_to_total_fatty_acids_percentage",10.5,45571090.038
+"rs6063208",46705682,"T","C","PGF",1.5,1.47068171642721,"dodgerblue3","Collagen_band_thickness_in_collagenous_colitis",3,46705682
+"rs17723576",48283633,"G","A","PGF",1.5,1.49486014198512,"dodgerblue3","Urate_levels_in_obese_individuals",10.5,48283633
+"rs6068216",51156432,"A","G","PGF",1.5,1.52897828146815,"dodgerblue3","Waist-hip_index, Waist-to-hip_ratio_adjusted_for_BMI",3,51156432
+"rs6063840",51208949,"G","A","PGF",1.5,1.46533284969628,"dodgerblue3","Stress_sensitivity_(neuroticism_score_x_major_depressive_disorder_status_interaction)",10.5,51208949
+"rs6025590",56070505,"A","G","PGF",1.5,1.51695504743606,"dodgerblue3","Obesity-related_traits",3,56070505
+"rs157092",56252260,"T","C","PGF",1.5,1.51287083389238,"dodgerblue3","Phenotypic_age_acceleration",10.5,56252260
+"rs157093",56252956,"T","C","PGF",1.5,1.46580951277167,"dodgerblue3","Verbal_declarative_memory",3,57201245.038
+"rs260019",57714225,"T","C","PGF",1.5,1.49933792000636,"dodgerblue3","Platelet-to-lymphocyte_ratio",10.5,57714225
+"rs6122051",62714026,"T","C","PGF",1.5,1.47054385444149,"dodgerblue3","Highest_math_class_taken_(MTAG)",3,62714026

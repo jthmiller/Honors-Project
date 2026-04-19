@@ -1,0 +1,19 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs2241044",17581838,"C","A","MGF",1.5,1.49836474318057,"dodgerblue3","Serum_levels_of_protein_IL17RA, IL17RA_protein_levels",3,17581838
+"rs9624216",23922552,"A","G","MGF",1.5,1.46533450225368,"dodgerblue3","Serum_levels_of_protein_IGLL1, Immunoglobulin_lambda-like_polypeptide_1_levels_(IGLL1.6485.59.3), Immunoglobulin_lambda-like_polypeptide_1_levels",10.5,23922552
+"rs140174",23922983,"G","A","MGF",1.5,1.47156678318977,"dodgerblue3","Blood_protein_levels, Migraine",3,23922983
+"rs5749579",33617801,"C","T","MGF",1.5,1.47098075717688,"dodgerblue3","TIMP3_protein_levels",10.5,33617801
+"rs229527",37581485,"C","A","MGF",1.5,1.49462603600696,"dodgerblue3","Thyroid_peroxidase_antibody_levels_in_pregnancy, Thyroid_peroxidase_antibody_positivity_in_pregnancy, Hypothyroidism_NOS_(PheCode_244.4), Hypothyroidism_(PheCode_244)",3,37581485
+"rs2018980",38450620,"A","G","MGF",1.5,1.48725147714838,"dodgerblue3","Regional_cortical_thickness_(cuneus)",10.5,38450620
+"rs2235573",38477930,"G","A","MGF",1.5,1.47118881015107,"dodgerblue3","Glioma, Glioblastoma",3,38500316.402
+"rs9622726",38506688,"C","T","MGF",1.5,1.48645295454189,"dodgerblue3","Non-HDL_cholesterol_levels",10.5,39369451.402
+"rs2284063",38544298,"G","A","MGF",1.5,1.50220091769472,"dodgerblue3","Cutaneous_nevi",3,39419147.804
+"rs5756931",38546033,"C","T","MGF",1.5,1.46968173298985,"dodgerblue3","Triglycerides, Platelet_distribution_width",10.5,40288282.804
+"rs2899319",39874314,"A","C","MGF",1.5,1.46046656075865,"dodgerblue3","Intelligence",3,40337979.206
+"rs7287617",39897163,"G","A","MGF",1.5,1.52223608843982,"dodgerblue3","Liver_enzyme_levels_(alkaline_phosphatase)",10.5,41207114.206
+"rs732381",40051166,"A","T","MGF",1.5,1.53912861948833,"dodgerblue3","Schizophrenia",3,41256810.608
+"rs141389097",43888353,"A","G","MGF",1.5,1.52835998687893,"dodgerblue3","Self-reported_math_ability",10.5,43888353
+"rs4823645",47852481,"T","T","MGM",0.5,0.524367348272353,"firebrick2","Facial_morphology_(factor_23)",3,47852481
+"rs6008573",48584919,"T","T","MGM",0.5,0.52333201456815,"firebrick2","TAFA5_protein_levels",10.5,48584919
+"rs11547731",50722134,"T","T","MGM",0.5,0.46356152433902,"firebrick2","Platelet_count, Plexin-B2_levels",3,50722134
+"rs11091008",51046189,"T","T","MGM",0.5,0.523936650212854,"firebrick2","ARSA_protein_levels, interferon-related_traits",10.5,51046189

@@ -1,0 +1,21 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs34466956",3353622,"T","C","MGF",1.5,1.47195771470666,"dodgerblue3","Eosinophil_count",3,3353622
+"rs10421472",3481213,"T","C","MGF",1.5,1.49192232381552,"dodgerblue3","High_light_scatter_reticulocyte_percentage_of_red_cells, Height",10.5,3481213
+"rs2240013",18883783,"A","G","MGF",1.5,1.53151014462113,"dodgerblue3","Height",3,18883783
+"rs10038",18892728,"A","C","MGF",1.5,1.5277414765954,"dodgerblue3","Osteoarthritis_biomarkers",10.5,18892728
+"rs10404671",29603807,"G","A","MGF",1.5,1.50545844111592,"dodgerblue3","Smoking_initiation",3,29603807
+"rs4805801",33183812,"T","C","MGF",1.5,1.49609426423907,"dodgerblue3","Urinary_metabolite_levels_in_chronic_kidney_disease, Creatinine_levels_(UKB_data_field_23478)",10.5,33183812
+"rs1827700",33196989,"G","A","MGF",1.5,1.49885737147182,"dodgerblue3","Height",3,33196989
+"rs8112297",33199783,"A","G","MGF",1.5,1.51656532185152,"dodgerblue3","Educational_attainment",10.5,34237327.178
+"rs1423056",33780444,"G","A","MGF",1.5,1.50257242945954,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_body_mass_index, Waist-to-hip_ratio_adjusted_for_BMI_in_active_individuals",3,34250504.178
+"rs410101",41090190,"T","C","MGF",1.5,1.50653949620202,"dodgerblue3","Total_bilirubin_levels",10.5,41090190
+"rs11879090",41917260,"T","C","MGF",1.5,1.524802680742,"dodgerblue3","Serum_total_protein_levels",3,41917260
+"rs284654",41928724,"A","G","MGF",1.5,1.50684522118419,"dodgerblue3","IL7R_protein_levels",10.5,42143705.178
+"rs4674",41930396,"G","A","MGF",1.5,1.5183556609787,"dodgerblue3","Height, UDP-GlcNAc:betaGal_beta-13-N-acetylglucosaminyltransferase_8_level_in_Chronic_kidney_disease_with_hypertension_and_no_diabetes_(9297_12)",3,42970775.178
+"rs284661",41932120,"T","C","MGF",1.5,1.51657027801499,"dodgerblue3","Height",10.5,43197220.356
+"rs1043413",41939297,"C","G","MGF",1.5,1.51608722331002,"dodgerblue3","Height_(baseline), Physical_function_(baseline)",3,44024290.356
+"rs2231940",41944237,"T","C","MGF",1.5,1.51419589480385,"dodgerblue3","height_(mean_inv-normal_transformed), Height_(maximum_inv-normal_transformed), height_(minimum_inv-normal_transformed)",10.5,44250735.534
+"rs2965163",45200526,"A","G","MGF",1.5,1.50799091268331,"dodgerblue3","APOE_protein_levels",3,45200526
+"rs11668847",46210365,"T","G","MGF",1.5,1.47540689887479,"dodgerblue3","Descending_thoracic_aortic_diameter, Descending_aorta_diameter",10.5,46210365
+"rs17728638",46952634,"A","G","MGF",1.5,1.48849470229819,"dodgerblue3","Height",3,46952634
+"rs2259067",55602115,"A","G","MGF",1.5,1.49315259920433,"dodgerblue3","PTPRH_protein_levels",10.5,55602115

@@ -1,0 +1,49 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs10848574",319791,"A","G","MGF",1.5,1.52047167327255,"dodgerblue3","Betaine_levels, Metabolite_peak_levels_(QI7338), Metabolite_peak_levels_(QI8853), Plasma_betaine_levels_in_chronic_kidney_disease, Metabolite_levels_(betaine)",3,319791
+"rs499368",320920,"A","T","MGF",1.5,1.47966143790632,"dodgerblue3","Metabolite_levels, Betaine_levels",10.5,320920
+"rs495360",327421,"A","C","MGF",1.5,1.52380689280108,"dodgerblue3","Standing_height_(UKB_data_field_50)",3,2724488.724
+"rs3748522",1058688,"C","A","MGF",1.5,1.53298888664693,"dodgerblue3","Squamous_cell_lung_carcinoma",10.5,2725617.724
+"rs11062162",2332104,"G","A","MGF",1.5,1.53996338218451,"dodgerblue3","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG)",3,5129186.448
+"rs2007044",2344960,"G","A","MGF",1.5,1.51749710604548,"dodgerblue3","Schizophrenia",10.5,5130315.448
+"rs1006737",2345295,"A","G","MGF",1.5,1.51021814016625,"dodgerblue3","Bipolar_disorder, Schizophrenia",3,7533884.172
+"rs2159100",2346393,"T","C","MGF",1.5,1.49159516105428,"dodgerblue3","Schizophrenia",10.5,7535013.172
+"rs4298967",2408194,"A","G","MGF",1.5,1.50887957828119,"dodgerblue3","Schizophrenia_(MTAG), Bipolar_disorder_(MTAG), Schizophrenia",3,9938581.896
+"rs10849144",4899032,"T","C","MGF",1.5,1.48937958911061,"dodgerblue3","Electrocardiogram_morphology_(amplitude_at_temporal_datapoints), QT_interval",10.5,9939710.896
+"rs11052877",9905690,"A","G","MGF",1.5,1.5239517242834,"dodgerblue3","Lymphocyte_count, Basophil_count, Platelet-to-lymphocyte_ratio, White_blood_cell_count, neutrophil_(fraction_minimum_inv-norm_transformed), Hypothyroidism_NOS_(PheCode_244.4), Hypothyroidism_(PheCode_244), monocyte_(fraction_maximum_inv-norm_transformed), monocyte_(fraction_mean_inv-norm_transformed), lymphocyte_(absolute_count_maximum_inv-norm_transformed), lymphocyte_(fraction_mean_inv-norm_transformed), lymphocyte_(fraction_maximum_inv-norm_transformed)",3,12343279.62
+"rs205534",11841117,"A","G","MGF",1.5,1.53980550706387,"dodgerblue3","Height_(baseline)",10.5,12344408.62
+"rs34322",12879570,"T","C","MGF",1.5,1.5061476636678,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_BMI, Mean_arterial_pressure, Waist-hip_ratio, Lymphocyte_count",3,14747977.344
+"rs10846378",16743434,"G","T","MGF",1.5,1.52065960701555,"dodgerblue3","Triglyceride_levels, Triglycerides",10.5,16743434
+"rs2160514",16756508,"C","A","MGF",1.5,1.5363814313896,"dodgerblue3","Household_income_(MTAG)",3,17152675.068
+"rs2417862",20870265,"C","T","MGF",1.5,1.53014363851398,"dodgerblue3","Vaginal_microbiome_MetaCyc_pathway_(PWY-6397|mycolyl-arabinogalactan-peptidoglycan_complex_biosynthesis)",10.5,20870265
+"rs1979679",28406515,"T","C","MGF",1.5,1.47359551506117,"dodgerblue3","Ossification_of_the_posterior_longitudinal_ligament_of_the_spine",3,28406515
+"rs10771427",28605426,"A","G","MGF",1.5,1.49809608019888,"dodgerblue3","IDP_T1_SIENAX_brain-normalised_volume, IDP_T1_SIENAX_brain-unnormalised_volume",10.5,28605426
+"rs10844154",32380501,"C","A","MGF",1.5,1.47866119898856,"dodgerblue3","Emphysema-related_traits, Weight",3,32380501
+"rs4768236",40756472,"C","A","MGF",1.5,1.47919082814828,"dodgerblue3","Crohn's_disease, Inflammatory_bowel_disease",10.5,40756472
+"rs836968",50267335,"T","C","MGF",1.5,1.49065568907186,"dodgerblue3","Blood_urea_nitrogen_levels, Serum_uric_acid_levels, Urate_levels, Serum_urate_levels, Urea_levels_(UKB_data_field_30670), Estimated_glomerular_filtration_rate_(creatinine), Serum_creatinine_levels, Creatinine_levels, Estimated_glomerular_filtration_rate, Urea_levels, Estimated_glomerular_filtration_rate_(cystatin_c), Estimated_glomerular_filtration_rate_(creatinine_cystatin_c)",3,50267335
+"rs1838173",54342822,"T","C","MGF",1.5,1.53081134645268,"dodgerblue3","Hip_circumference_adjusted_for_BMI, A_body_shape_index",10.5,54342822
+"rs10783615",54349773,"G","A","MGF",1.5,1.51300018260255,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_body_mass_index",3,54349773
+"rs167769",57503775,"T","C","MGF",1.5,1.51018995339051,"dodgerblue3","Asthma, Eosinophilic_esophagitis_(pediatric), Eosinophilic_esophagitis",10.5,57503775
+"rs11172113",57527283,"C","T","MGF",1.5,1.51665271226317,"dodgerblue3","Headache, LTBP2_protein_levels, Aortic_aneurysm, Pulse_pressure, Medication_use_(anilides), Medication_use_(antimigraine_preparations), FEV1_FVC_ratio_Z_score_(UKB_data_field_20258), Leg_fat_percentage_right_(UKB_data_field_23111), Leg_fat_percentage_left_(UKB_data_field_23115), Vertex-wise_cortical_thickness, CCN3_protein_levels, Body_fat_percentage, Metabolic_biomarkers_(multivariate_analysis), SMOC2_protein_levels, Abdominal_aortic_aneurysm, Body_mass_index, Migraine",3,57527283
+"rs4759277",57533690,"A","C","MGF",1.5,1.47152545409277,"dodgerblue3","Moyamoya_disease, Colorectal_cancer_or_advanced_adenoma",10.5,59908472.724
+"rs12815303",62387183,"G","A","MGF",1.5,1.52324075018987,"dodgerblue3","Post_bronchodilator_FEV1/FVC_ratio",3,62387183
+"rs12817007",62387282,"C","T","MGF",1.5,1.46896444298327,"dodgerblue3","Post_bronchodilator_FEV1/FVC_ratio",10.5,62387282
+"rs12817011",62387287,"C","T","MGF",1.5,1.52727585062385,"dodgerblue3","Post_bronchodilator_FEV1/FVC_ratio",3,64791880.724
+"rs10784496",66160971,"G","A","MGF",1.5,1.50076462926343,"dodgerblue3","Cerebrospinal_fluid_AB1-42_levels",10.5,66160971
+"rs2567140",70940683,"T","C","MGF",1.5,1.53944927403703,"dodgerblue3","Height",3,70940683
+"rs7314493",77435791,"A","G","MGF",1.5,1.47807146375999,"dodgerblue3","Tinnitus",10.5,77435791
+"rs1123680",78241285,"G","A","MGF",1.5,1.49957149431109,"dodgerblue3","Cortical_surface_area, Vertex-wise_sulcal_depth, Vertex-wise_cortical_surface_area",3,78241285
+"rs1511589",84061431,"A","G","MGF",1.5,1.50847864989191,"dodgerblue3","Optic_cup_area, Optic_disc_area",10.5,84061431
+"rs10735341",96604447,"A","G","MGF",1.5,1.46194384463131,"dodgerblue3","Thyroid_stimulating_hormone_levels",3,96604447
+"rs7304605",96813866,"A","C","MGF",1.5,1.53583346575499,"dodgerblue3","Height",10.5,96813866
+"rs7307248",96830278,"T","C","MGF",1.5,1.53012576272711,"dodgerblue3","Systolic_blood_pressure, Diastolic_blood_pressure",3,99009144.724
+"rs12229292",104153633,"T","G","MGF",1.5,1.47438649281859,"dodgerblue3","OMD_protein_levels",10.5,104153633
+"rs3782690",106464063,"T","G","MGF",1.5,1.53914366234094,"dodgerblue3","Rheumatoid_arthritis",3,106464063
+"rs12426673",109490296,"T","G","MGF",1.5,1.48205849310383,"dodgerblue3","Mitochondrial_DNA_copy_number",10.5,109490296
+"rs1001484",111536822,"G","A","MGF",1.5,1.51690475186333,"dodgerblue3","Body_mass_index",3,111536822
+"rs7304462",115894190,"G","A","MGF",1.5,1.52430860383436,"dodgerblue3","Apolipoprotein_A1_levels",10.5,115894190
+"rs75661051",122599020,"G","A","MGF",1.5,1.53300111526623,"dodgerblue3","Gamma_glutamyl_transferase_levels",3,122599020
+"rs4758684",122627371,"A","G","MGF",1.5,1.52777427531779,"dodgerblue3","Height",10.5,122627371
+"rs10846617",124662131,"C","G","MGF",1.5,1.49648900814354,"dodgerblue3","Optic_cup_area",3,125003717.724
+"rs12580803",125317247,"G","A","MGF",1.5,1.46864408904687,"dodgerblue3","Apolipoprotein_A1_levels, High_density_lipoprotein_cholesterol_levels",10.5,125317247
+"rs11060860",130879783,"A","C","MGF",1.5,1.51855840869248,"dodgerblue3","Gut_microbiome_abundance_(class_Parasutterella_sp._1_(at_1_year)_x_Any_Breastfeeding_(12_Months)_interaction",3,130879783
+"rs10848218",131332064,"T","C","MGF",1.5,1.46569774121046,"dodgerblue3","Height",10.5,131332064

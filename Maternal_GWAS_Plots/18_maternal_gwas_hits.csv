@@ -1,0 +1,40 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs3897709",936512,"G","A","MGF",1.5,1.48281935056672,"dodgerblue3","Periodontal_disease",3,936512
+"rs2346628",2436748,"C","T","MGF",1.5,1.52470380449668,"dodgerblue3","Height",10.5,2436748
+"rs28481672",4107441,"T","C","MGF",1.5,1.48035947078839,"dodgerblue3","Phosphatidylethanolamine_(O-18:2_18:1)_levels",3,4107441
+"rs264272",10923808,"T","G","MGF",1.5,1.46227544521913,"dodgerblue3","Major_depressive_disorder",10.5,10923808
+"rs9967119",20895049,"C","T","MGF",1.5,1.50671770118177,"dodgerblue3","white_blood_cell_count_(WBC_minimum_inv-norm_transformed)",3,20895049
+"rs2878879",20940588,"A","G","MGF",1.5,1.49582507539541,"dodgerblue3","Height",10.5,20940588
+"rs9964798",21587322,"T","T","MGM",0.5,0.486452842298895,"firebrick2","Height",3,22297949.218
+"rs4800173",21619931,"G","G","MGM",0.5,0.507188661117107,"firebrick2","Neutrophil_count, Monocyte_percentage_(UKB_data_field_30190), Neutrophill_count_(UKB_data_field_30140)",10.5,22343488.218
+"rs13381024",25200398,"T","T","MGM",0.5,0.465703771691769,"firebrick2","Smoking_initiation",3,25200398
+"rs12232680",25251708,"T","T","MGM",0.5,0.487412134129554,"firebrick2","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG)",10.5,25251708
+"rs1007779",28015411,"T","T","MGM",0.5,0.517463867403567,"firebrick2","Smoking_initiation",3,28015411
+"rs2289543",29772976,"C","C","MGM",0.5,0.538851935602725,"firebrick2","Height",10.5,29772976
+"rs1403755",30263492,"T","T","MGM",0.5,0.512364080492407,"firebrick2","CD25++_CD8+_T_cell_Absolute_Count",3,30263492
+"rs12969158",34117792,"G","G","MGM",0.5,0.494422909468412,"firebrick2","COVID-19_(hospitalized_vs_not_hospitalized)",10.5,34117792
+"rs954794",42081925,"A","A","MGM",0.5,0.529809621796012,"firebrick2","Intrinsic_epigenetic_age_acceleration",3,42081925
+"rs4890487",42230172,"A","A","MGM",0.5,0.52660729136318,"firebrick2","Neutrophil_count, White_blood_cell_count",10.5,42230172
+"rs2653657",45314528,"A","A","MGM",0.5,0.460017607975751,"firebrick2","Height",3,45314528
+"rs2118369",48161483,"G","G","MGM",0.5,0.537165063917637,"firebrick2","Height",10.5,48161483
+"rs9951619",56882326,"T","T","MGM",0.5,0.476002661921084,"firebrick2","Weight",3,56882326
+"rs7240884",57568693,"G","G","MGM",0.5,0.497160377576947,"firebrick2","KRT5_protein_levels",10.5,57568693
+"rs9319962",57864141,"T","T","MGM",0.5,0.535285933986306,"firebrick2","Body_mass_index_(MTAG)",3,58285226.218
+"rs4941139",60162791,"C","C","MGM",0.5,0.46461416490376,"firebrick2","Headache",10.5,60162791
+"rs1473980",60206676,"G","G","MGM",0.5,0.475379452109337,"firebrick2","C1QA_protein_levels",3,60206676
+"rs637151",60454785,"T","T","MGM",0.5,0.538697875123471,"firebrick2","Alcohol_withdrawal_factor_score",10.5,61565691.218
+"rs17070653",60775839,"T","T","MGM",0.5,0.535814404245466,"firebrick2","Gut_microbial_network_clusters_(Pink_(at_1_year)_x_Homesmokers_interaction",3,61609576.218
+"rs17070659",60781023,"C","C","MGM",0.5,0.466878797113895,"firebrick2","Monocyte_count_(UKB_data_field_30130)",10.5,62968591.436
+"rs12454712",60845884,"T","T","MGM",0.5,0.501348677072674,"firebrick2","Waist-to-hip_ratio_adjusted_for_BMI, Body_mass_index, Systolic_blood_pressure, Triglyceride_levels, Type_2_diabetes, Waist-to-hip_ratio_adjusted_for_BMI_x_sex_x_age_interaction_(4df_test), Modified_Stumvoll_Insulin_Sensitivity_Index_(BMI_interaction), Modified_Stumvoll_Insulin_Sensitivity_Index_(model_adjusted_for_BMI), Waist-to-hip_ratio_adjusted_for_body_mass_index, Waist-to-hip_ratio_adjusted_for_BMI_(adjusted_for_smoking_behaviour), Triglyceride_to_HDL_cholesterol_ratio, Triglycerides, Two-hour_glucose, Fasting_insulin, Alanine_aminotransferase_levels, Adult_body_size, Body_mass_index_(MTAG), Modified_Stumvoll_Insulin_Sensitivity_Index_(adjusted_for_BMI), Weight, triglyceride_(maximum_inv-norm_transformed), triglyceride_(minimum_inv-norm_transformed), triglyceride_(mean_inv-norm_transformed), Weight_(maximum_inv-normal_transformed), Weight_(minimum_inv-normal_transformed), What_is_your_weight?_(pounds_inv-normal_transformed), Hemoglobin_A1c_(HbA1c_mean_inv-norm_transformed), Body_mass_index_(BMI_minimum_inv-normal_transformed), Body_mass_index_(BMI_mean_inv-normal_transformed), Body_mass_index_(BMI_maximum_inv-normal_transformed), Type_2_diabetes_(PheCode_250.2), Diabetes_mellitus_(PheCode_250), high_density_lipoprotein_cholesterol_(HDLC_mean_inv-norm_transformed), high_density_lipoprotein_cholesterol_(HDLC_maximum_inv-norm_transformed), Glucose_(fasting_status_unknown_maximum_inv-norm_transformed), Weight_(mean_inv-normal_transformed), mean_corpuscular_volume_(MCV_mean_inv-norm_transformed), Glucose_(fasting_status_unknown_mean_inv-norm_transformed), Albumin_(mean_inv-norm_transformed), Hemoglobin_A1c_(HbA1c_maximum_inv-norm_transformed), Diabetes_/_Sugar, high_density_lipoprotein_cholesterol_(HDLC_minimm_inv-norm_transformed), Fasting_blood_glucose, Albumin_levels, Gamma_glutamyl_transferase_levels, High-density_lipoprotein_levels, Albumin_(maximum_inv-norm_transformed)",3,63012476.436
+"rs954954",60902328,"C","C","MGM",0.5,0.468915383834392,"firebrick2","Eosinophil_count, Eosinophill_percentage_(UKB_data_field_30210), Eosinophill_count_(UKB_data_field_30150)",10.5,64371491.654
+"rs4941189",60907927,"C","C","MGM",0.5,0.485579657349736,"firebrick2","monocyte_(fraction_mean_inv-norm_transformed)",3,64415376.654
+"rs4553720",62170726,"T","T","MGM",0.5,0.460268472507596,"firebrick2","Adverse_response_to_chemotherapy_(neutropenia/leucopenia)_(docetaxel)",10.5,65774391.872
+"rs637644",62898666,"G","G","MGM",0.5,0.508426840286702,"firebrick2","Adverse_response_to_chemotherapy_in_breast_cancer_(alopecia)_(cyclophosphamide+doxorubicin+/-5FU)",3,65818276.872
+"rs7226831",67847005,"C","G","MGF",1.5,1.46818468052894,"dodgerblue3","Mean_reticulocyte_volume",10.5,67847005
+"rs8088832",69926757,"C","C","MGM",0.5,0.485171587578952,"firebrick2","Cervical_cancer",3,69926757
+"rs2217560",70150939,"G","G","MGM",0.5,0.461462619584054,"firebrick2","Pulmonary_arterial_hypertension_(without_BMPR2_mutations)",10.5,70150939
+"rs7227996",71341156,"A","A","MGM",0.5,0.496031272038817,"firebrick2","Clostridioides_difficle_infection",3,71341156
+"rs17088339",71476133,"A","A","MGM",0.5,0.466479250285774,"firebrick2","Coronary_artery_calcification",10.5,71553839.218
+"rs12962744",71749359,"A","A","MGM",0.5,0.529903406687081,"firebrick2","Facial_wrinkles",3,72744056.218
+"rs4329999",72228269,"A","A","MGM",0.5,0.485018521752208,"firebrick2","CNDP1_protein_levels, Beta-Ala-His_dipeptidase_levels",10.5,72956739.436
+"rs2002311",77173979,"G","G","MGM",0.5,0.479302857425064,"firebrick2","Medication_use_(thyroid_preparations), Hypothyroidism, Height",3,77173979

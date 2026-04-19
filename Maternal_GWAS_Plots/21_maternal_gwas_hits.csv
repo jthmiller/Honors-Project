@@ -1,0 +1,15 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs2064040",16584341,"A","G","MGF",1.5,1.47600597666576,"dodgerblue3","Coronary_artery_disease",3,16584341
+"rs1491781",19484138,"C","T","MGF",1.5,1.53449127878994,"dodgerblue3","Verbal_learning",10.5,19484138
+"rs2828785",25437505,"T","C","MGF",1.5,1.46124703075737,"dodgerblue3","Urinary_albumin-to-creatinine_ratio",3,25437505
+"rs11702779",36368659,"A","G","MGF",1.5,1.52080214776099,"dodgerblue3","Plateletcrit, Platelet_count",10.5,36368659
+"rs2834902",36688528,"A","C","MGF",1.5,1.52777504177764,"dodgerblue3","Corneal_curvature",3,36688528
+"rs218642",37802629,"T","C","MGF",1.5,1.5317296557501,"dodgerblue3","Hemoglobin_concentration",10.5,37802629
+"rs2836162",39504356,"A","G","MGF",1.5,1.47675848307088,"dodgerblue3","Waist-to-hip_ratio_adjusted_for_BMI",3,39504356
+"rs2837112",41042699,"A","G","MGF",1.5,1.51568501859903,"dodgerblue3","Influenza",10.5,41042699
+"rs2837113",41048124,"A","G","MGF",1.5,1.503183053229,"dodgerblue3","OBP2B_protein_levels, CEACAM5_protein_levels",3,41048124
+"rs220249",43472148,"G","A","MGF",1.5,1.46338466508314,"dodgerblue3","systolic_blood_pressure_(SBP_mean_inv-normal_transformed), potassium_(mean_inv-norm_transformed), diastolic_blood_pressure_(DBP_mean_inv-normal_transformed)",10.5,43472148
+"rs234709",44486964,"T","C","MGF",1.5,1.53371819963679,"dodgerblue3","Blood_and_toenail_selenium_levels, Homocysteine_levels",3,44486964
+"rs4819090",46809884,"T","C","MGF",1.5,1.4773638599366,"dodgerblue3","COL4A1_protein_levels",10.5,46809884
+"rs13053065",47420723,"C","G","MGF",1.5,1.47760113881901,"dodgerblue3","Collagen_alpha-1(VI)_chain_levels",3,47420723
+"rs1053312",47423389,"A","G","MGF",1.5,1.50029880909249,"dodgerblue3","Collagen_alpha-1(VI)_chain_(analyte_X16828.8)_levels, Collagen_alpha-1(VI)_chain_level_in_Chronic_kidney_disease_with_hypertension_and_no_diabetes_(16828_8)",10.5,47674304.822

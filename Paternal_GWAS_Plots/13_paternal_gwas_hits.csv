@@ -1,0 +1,36 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs17064136",21815869,"A","A","PGM",0.5,0.513587360996753,"firebrick2","Obesity-related_traits",3,21815869
+"rs749170",22350875,"T","T","PGM",0.5,0.474488533008844,"firebrick2","Sex_hormone-binding_globulin_levels, Sex_hormone-binding_globulin_levels_adjusted_for_BMI, Posterior_thigh_muscle_fat_infiltration_percentage, Height",10.5,22350875
+"rs7318731",22709670,"A","A","PGM",0.5,0.524766189269722,"firebrick2","RR_interval_(heart_rate)",3,23887431.22
+"rs9580312",22754093,"G","G","PGM",0.5,0.506075674146414,"firebrick2","Adverse_response_to_chemotherapy_(neutropenia/leucopenia)_(all_antimetabolite_drugs)",10.5,24422437.22
+"rs2940232",23025141,"A","A","PGM",0.5,0.476323035564274,"firebrick2","MEPE_protein_levels",3,25958993.44
+"rs4770433",23903791,"A","A","PGM",0.5,0.504734069276601,"firebrick2","Triglyceride_levels",10.5,26493999.44
+"rs9510795",24216012,"A","A","PGM",0.5,0.51807544881478,"firebrick2","Diabetic_kidney_disease",3,28030555.66
+"rs9508005",28789794,"G","T","PGF",1.5,1.51859804587439,"dodgerblue3","Hypothyroidism",10.5,28789794
+"rs12431309",31071237,"C","T","PGF",1.5,1.47788139982149,"dodgerblue3","Height",3,31071237
+"rs7997912",33562505,"C","T","PGF",1.5,1.47837277820334,"dodgerblue3","Glucose_levels",10.5,33562505
+"rs7337310",42300323,"C","T","PGF",1.5,1.47352724865079,"dodgerblue3","Type_1_diabetes",3,42300323
+"rs9525638",43128577,"C","T","PGF",1.5,1.48747210290283,"dodgerblue3","TB-LM_or_TBLH-BMD_(pleiotropy), Bone_mineral_density_(paediatric_total_body_less_head), Bone_mineral_density_(paediatric_upper_limb)",10.5,43128577
+"rs9533154",43140102,"T","C","PGF",1.5,1.47856179729104,"dodgerblue3","Alkaline_phosphatase_levels",3,44371885.22
+"rs17536328",43143029,"T","C","PGF",1.5,1.46199178317562,"dodgerblue3","Bone_mineral_density_(paediatric_total_body_less_head)",10.5,45200139.22
+"rs9567488",45429434,"T","C","PGF",1.5,1.4829240844585,"dodgerblue3","Facial_morphology_(factor_15_philtrum_width)",3,46443447.44
+"rs9568292",50209351,"C","T","PGF",1.5,1.53681708829477,"dodgerblue3","Resistance_to_antihypertensive_treatment_in_hypertension, Treatment_effectiveness_of_calcium_channel_blocker-dihydropyridine_in_hypertension, Treatment_effectiveness_of_calcium_channel_blocker_in_hypertension",10.5,50209351
+"rs9535307",50291842,"A","C","PGF",1.5,1.49246311476454,"dodgerblue3","Obesity-related_traits",3,50291842
+"rs3736830",50306221,"G","C","PGF",1.5,1.52854661339894,"dodgerblue3","Menopause_(age_at_onset)",10.5,52280913.22
+"rs9562987",51095908,"A","G","PGF",1.5,1.46952915040776,"dodgerblue3","Breast_cancer, Type_2_diabetes",3,52363404.22
+"rs279072",51119737,"C","T","PGF",1.5,1.51244131423533,"dodgerblue3","Height",10.5,54352475.44
+"rs279070",51133655,"G","A","PGF",1.5,1.52727206461132,"dodgerblue3","Hemoglobin",3,54434966.44
+"rs592333",51340315,"A","G","PGF",1.5,1.49732287989929,"dodgerblue3","Snoring",10.5,56424037.66
+"rs9598088",60692067,"T","C","PGF",1.5,1.53277676418424,"dodgerblue3","Type_2_diabetes",3,60692067
+"rs7992587",100515935,"T","C","PGF",1.5,1.46888147490099,"dodgerblue3","X-11787_levels",10.5,100515935
+"rs3783185",100518580,"A","G","PGF",1.5,1.53955412590876,"dodgerblue3","Citrate_lyase_subunit_beta-like_protein_mitochondrial_levels",3,100518580
+"rs1886033",100558473,"T","C","PGF",1.5,1.49095799634233,"dodgerblue3","Height",10.5,102587497.22
+"rs1475550",107592100,"A","A","PGM",0.5,0.497065521944314,"firebrick2","Educational_attainment",3,107592100
+"rs965628",107613088,"C","C","PGM",0.5,0.507193606551737,"firebrick2","Bitter_alcoholic_beverage_consumption",10.5,107613088
+"rs4772857",107817669,"G","G","PGM",0.5,0.473209471516311,"firebrick2","Neurocognitive_impairment_in_HIV-1_infection_(dichotomous)",3,109663662.22
+"rs9521265",109912326,"A","A","PGM",0.5,0.516280898340046,"firebrick2","Lung_function_(FEV1/FVC)",10.5,109912326
+"rs57225762",110954169,"T","T","PGM",0.5,0.467626530397683,"firebrick2","COL4A1_protein_levels, Non-albumin_protein_levels, Serum_total_protein_levels",3,111735224.44
+"rs7993934",111074915,"T","T","PGM",0.5,0.460434929076582,"firebrick2","Colorectal_cancer",10.5,111983888.22
+"rs7991229",111091995,"G","G","PGM",0.5,0.462189076077193,"firebrick2","Retinal_arteriolar_tortuosity",3,113806786.66
+"rs4103",111098226,"T","T","PGM",0.5,0.494343383889645,"firebrick2","Peak_expiratory_flow",10.5,114055450.44
+"rs383599",114918084,"G","G","PGM",0.5,0.464186933692545,"firebrick2","Monocyte_count",3,115878348.88

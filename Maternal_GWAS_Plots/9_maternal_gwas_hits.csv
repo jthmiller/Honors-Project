@@ -1,0 +1,50 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs4742419",804436,"T","C","MGF",1.5,1.51244289588183,"dodgerblue3","Chronotype_(sMEQ_score)",3,804436
+"rs1931388",11203149,"A","G","MGF",1.5,1.53944004407153,"dodgerblue3","Major_depressive_disorder_(MTAG), Depression",10.5,11203149
+"rs4740554",13688437,"C","A","MGF",1.5,1.50624026518315,"dodgerblue3","Developmental_dysplasia_of_the_hip",3,13688437
+"rs7850903",13921788,"T","C","MGF",1.5,1.4992099028267,"dodgerblue3","Height",10.5,13921788
+"rs7846812",18258312,"T","G","MGF",1.5,1.52182755384594,"dodgerblue3","Uveal_melanoma",3,18258312
+"rs10757282",22133984,"C","T","MGF",1.5,1.49027632696554,"dodgerblue3","Type_2_diabetes",10.5,22133984
+"rs10757283",22134172,"T","C","MGF",1.5,1.50635412005708,"dodgerblue3","Type_2_diabetes",3,22134172
+"rs7018475",22137685,"G","T","MGF",1.5,1.50958499351516,"dodgerblue3","Medication_use_(drugs_used_in_diabetes), Diabetes, Glycated_hemoglobin_levels, Blood_glucose_levels",10.5,24649366.946
+"rs2210865",22669166,"G","A","MGF",1.5,1.46278530927375,"dodgerblue3","Post_bronchodilator_FEV1/FVC_ratio_in_smoking",3,24649554.946
+"rs3842979",28359979,"G","G","MGM",0.5,0.50921130431816,"firebrick2","Gestational_age_at_birth_in_premature_rupture_of_membrane-initiated_deliveries_(maternal_effect)",10.5,28359979
+"rs10812882",28891817,"T","T","MGM",0.5,0.513634397704154,"firebrick2","Schizophrenia",3,28891817
+"rs10046843",34631159,"T","T","MGM",0.5,0.511426020823419,"firebrick2","Educational_attainment",10.5,34631159
+"rs10124246",34713129,"T","T","MGM",0.5,0.53093597535044,"firebrick2","Height",3,34713129
+"rs951005",34743681,"G","G","MGM",0.5,0.504738406687975,"firebrick2","Rheumatoid_arthritis",10.5,37146541.946
+"rs2249250",35711806,"G","G","MGM",0.5,0.496651770677418,"firebrick2","Monocyte_count",3,37228511.946
+"rs12554596",37002142,"G","G","MGM",0.5,0.49012619420886,"firebrick2","Composite_immunoglobulin_trait_(IgA/IgM), CD20_on_IgD+_CD38-_B_cell, FCRL2_protein_levels, IL5RA_protein_levels, SEMA7A_protein_levels",10.5,39661924.892
+"rs776022",37934780,"C","C","MGM",0.5,0.51831868223846,"firebrick2","IGFBPL1_protein_levels",3,39743894.892
+"rs7042950",77149837,"G","G","MGM",0.5,0.462287338133901,"firebrick2","Refractive_error",10.5,77149837
+"rs9886703",82246351,"A","T","MGF",1.5,1.50785937290639,"dodgerblue3","Educational_attainment_(years_of_education), Educational_attainment_(MTAG), Highest_math_class_taken_(MTAG), Educational_attainment",3,82246351
+"rs2027005",82275591,"T","G","MGF",1.5,1.49475989783183,"dodgerblue3","Atrial_fibrillation",10.5,82275591
+"rs1020120",87226088,"T","C","MGF",1.5,1.50110350303352,"dodgerblue3","Serum_metabolite_concentrations_in_chronic_kidney_disease",3,87226088
+"rs2274558",89371743,"T","C","MGF",1.5,1.51944384410977,"dodgerblue3","High_light_scatter_reticulocyte_percentage_of_red_cells, High_light_scatter_reticulocyte_count, High_light_scatter_reticulocyte_percentage_(UKB_data_field_30290), Reticulocyte_fraction_of_red_cells, Reticulocyte_count",10.5,89371743
+"rs10761129",94486321,"C","T","MGF",1.5,1.53394007002935,"dodgerblue3","Height_(baseline)",3,94486321
+"rs4743894",95905552,"A","C","MGF",1.5,1.53368816807866,"dodgerblue3","Golgi-associated_plant_pathogenesis-related_protein_1_levels",10.5,95905552
+"rs7851726",97503985,"T","C","MGF",1.5,1.47629827095196,"dodgerblue3","Urinary_albumin-to-creatinine_ratio",3,97503985
+"rs4385527",97648587,"A","G","MGF",1.5,1.47491722980514,"dodgerblue3","Atrial_fibrillation, Cardioembolic_stroke_(MTAG)",10.5,98420934.946
+"rs10821415",97713459,"A","C","MGF",1.5,1.53766162408516,"dodgerblue3","Atrial_fibrillation, Atrial_fibrillation_(MTAG), Educational_attainment",3,100019367.946
+"rs7047415",98541232,"T","C","MGF",1.5,1.4645894036442,"dodgerblue3","Alzheimer_disease_and_age_of_onset",10.5,100936317.892
+"rs4743150",100740124,"T","C","MGF",1.5,1.48888713797554,"dodgerblue3","Coronary_artery_disease, Immature_fraction_of_reticulocytes, Mean_corpuscular_hemoglobin, Mean_corpuscular_volume, Weight",3,102534750.892
+"rs16914931",101092316,"A","G","MGF",1.5,1.46963212750852,"dodgerblue3","Response_to_simvastatin_treatment_(PCSK9_protein_level_change)",10.5,103451700.838
+"rs7023634",107731789,"G","A","MGF",1.5,1.484691441264,"dodgerblue3","Hip_circumference_adjusted_for_BMI",3,107731789
+"rs4556142",107734714,"A","G","MGF",1.5,1.48235181048512,"dodgerblue3","Waist-hip_ratio",10.5,107734714
+"rs11792106",109389147,"G","A","MGF",1.5,1.47073695955798,"dodgerblue3","Drinks_per_week",3,110247171.946
+"rs1769657",110736914,"C","T","MGF",1.5,1.53704446759075,"dodgerblue3","Kidney_sinus_volume",10.5,110736914
+"rs646234",111807394,"A","G","MGF",1.5,1.50144352672622,"dodgerblue3","Schizophrenia",3,112762554.892
+"rs2025875",112596911,"G","A","MGF",1.5,1.50536051517352,"dodgerblue3","Obesity-related_traits",10.5,113252296.946
+"rs1861881",119312256,"T","G","MGF",1.5,1.51348317498341,"dodgerblue3","Diastolic_blood_pressure_(MTAG)",3,119312256
+"rs10818964",127190340,"A","G","MGF",1.5,1.52247518092394,"dodgerblue3","neutrophil_(absolute_count_mean_inv-norm_transformed), neutrophil_(absolute_count_minimum_inv-norm_transformed)",10.5,127190340
+"rs512445",128329179,"C","T","MGF",1.5,1.46982932707295,"dodgerblue3","Broad_bean_liking",3,128329179
+"rs631287",128412676,"A","G","MGF",1.5,1.47706899031997,"dodgerblue3","Educational_attainment_(years_of_education), Educational_attainment_(MTAG), Highest_math_class_taken_(MTAG), Educational_attainment",10.5,129705722.946
+"rs1250736",128438005,"G","A","MGF",1.5,1.48668946217746,"dodgerblue3","Mean_arterial_pressure",3,130844561.946
+"rs10739679",129294471,"G","A","MGF",1.5,1.48841594615951,"dodgerblue3","Calcium_levels, Serum_phosphate_levels",10.5,132221105.892
+"rs10819178",129294976,"G","T","MGF",1.5,1.46516696562991,"dodgerblue3","Calcium_levels_(UKB_data_field_30680), Calcium_levels",3,133359944.892
+"rs10793939",133442778,"C","T","MGF",1.5,1.51873469546437,"dodgerblue3","Height_(standard_GWA)",10.5,134736488.838
+"rs7044834",136040899,"A","C","MGF",1.5,1.5229397543706,"dodgerblue3","LGALS4_protein_levels, Alkaline_phosphatase_(UKB_data_field_30610), CUZD1_protein_levels, ICAM2_protein_levels, FAM3D_protein_levels, ALPI_protein_levels, ABO_protein_levels, IL3RA_protein_levels, GP2_protein_levels, SELE_protein_levels",3,136040899
+"rs3124757",136346103,"G","A","MGF",1.5,1.46215351032093,"dodgerblue3","CDH5_protein_levels",10.5,137251871.784
+"rs2797826",136629399,"G","A","MGF",1.5,1.50007235914469,"dodgerblue3","RBC_levels_of_D-Glucose_(mM)_(uM)",3,138556281.946
+"rs11791747",137106879,"G","A","MGF",1.5,1.50376838991418,"dodgerblue3","Sex_hormone-binding_globulin_levels_adjusted_for_BMI, Sex_hormone-binding_globulin_levels, Sex_hormone-binding_globulin_levels_in_postmenopausal_women",10.5,139767254.73
+"rs13302475",137110907,"A","G","MGF",1.5,1.53347825819626,"dodgerblue3","Total_bilirubin_levels",3,141071664.892

@@ -1,0 +1,67 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs746779",1793283,"T","T","MGM",0.5,0.521835345588624,"firebrick2","Hip_circumference_adjusted_for_BMI",3,1793283
+"rs1203808",2452087,"T","T","MGM",0.5,0.521634153071791,"firebrick2","Height",10.5,2452087
+"rs35780153",2845274,"T","T","MGM",0.5,0.474170216210186,"firebrick2","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG), Coffee_intake_(standard_GWA), Age_when_finished_full-time_education_(standard_GWA), Age_when_finished_full-time_education_(weighted_GWA)",3,5215757.478
+"rs10026792",2862190,"A","A","MGM",0.5,0.518276899978518,"firebrick2","Migraine_or_type_2_diabetes",10.5,5874561.478
+"rs624833",2881256,"G","G","MGM",0.5,0.483266213685274,"firebrick2","Age_of_smoking_initiation, Age_of_smoking_initiation_(MTAG)",3,8638231.956
+"rs3775068",2888441,"G","G","MGM",0.5,0.510678399801254,"firebrick2","Monocyte_percentage_of_white_cells",10.5,9297035.956
+"rs16843589",2916931,"A","A","MGM",0.5,0.503238761462271,"firebrick2","Cigarettes_smoked_per_day",3,12060706.434
+"rs2515960",2951804,"G","G","MGM",0.5,0.524833174776286,"firebrick2","Height_(standard_GWA)",10.5,12719510.434
+"rs2960306",2990499,"T","T","MGM",0.5,0.534900529738516,"firebrick2","Smoking_behaviour_(cigarettes_smoked_per_day)",3,15483180.912
+"rs1024323",3006043,"T","T","MGM",0.5,0.536694376170635,"firebrick2","Smoking_behaviour_(cigarettes_smoked_per_day)",10.5,16141984.912
+"rs762855",3074795,"G","G","MGM",0.5,0.491752005182207,"firebrick2","Estimated_glomerular_filtration_rate_(creatinine)",3,18905655.39
+"rs6855981",3148276,"A","A","MGM",0.5,0.507336193639785,"firebrick2","Neutrophill_count_(UKB_data_field_30140)",10.5,19564459.39
+"rs363092",3196029,"A","A","MGM",0.5,0.482608991414309,"firebrick2","Estimated_glomerular_filtration_rate, neutrophil_(absolute_count_minimum_inv-norm_transformed)",3,22328129.868
+"rs362272",3234980,"A","A","MGM",0.5,0.499755513649434,"firebrick2","Apolipoprotein_B_levels, Triglyceride_levels",10.5,22986933.868
+"rs3135064",3285389,"T","T","MGM",0.5,0.483342555463314,"firebrick2","Medication_use_(HMG_CoA_reductase_inhibitors)",3,25750604.346
+"rs767092",15509291,"A","A","MGM",0.5,0.46738098019734,"firebrick2","ADP-ribosyl_cyclase/cyclic_ADP-ribose_hydrolase_2_levels",10.5,26409408.346
+"rs2302465",15709192,"A","A","MGM",0.5,0.487355657704174,"firebrick2","ADP-ribosyl_cyclase/cyclic_ADP-ribose_hydrolase_2_levels, Metabolite_levels_(3-methylcytidine)",3,29173078.824
+"rs2531166",15874104,"G","G","MGM",0.5,0.485552800986916,"firebrick2","Vaginal_microbiome_MetaCyc_pathway_(PWY-6737|starch_degradation_V)",10.5,29831882.824
+"rs1966374",15914034,"A","A","MGM",0.5,0.522934913523495,"firebrick2","CD38_protein_levels",3,32595553.302
+"rs317900",16135475,"T","T","MGM",0.5,0.478420984912664,"firebrick2","ENPP6_protein_levels",10.5,33254357.302
+"rs13113158",16551576,"A","A","MGM",0.5,0.507422668281943,"firebrick2","Vaginal_microbiome_MetaCyc_pathway_(METH-ACETATE-PWY|methanogenesis_from_acetate)",3,36018027.78
+"rs12642968",17738292,"A","A","MGM",0.5,0.490079639758915,"firebrick2","Height",10.5,36676831.78
+"rs2074974",17812615,"A","A","MGM",0.5,0.518927528560162,"firebrick2","Hip_circumference_adjusted_for_BMI",3,39440502.258
+"rs6842303",17854055,"T","T","MGM",0.5,0.475679460223764,"firebrick2","BMI_at_1_year_old, BMI_at_1.5_years_old",10.5,40099306.258
+"rs207282",19108884,"T","T","MGM",0.5,0.525345894079655,"firebrick2","Schizophrenia",3,42862976.736
+"rs17613848",23485012,"A","A","MGM",0.5,0.520218672882766,"firebrick2","Adiponectin_levels",10.5,43521780.736
+"rs2970876",23888619,"G","G","MGM",0.5,0.480825643353164,"firebrick2","Hematocrit, Hemoglobin",3,46285451.214
+"rs2308974",25584201,"G","G","MGM",0.5,0.47890987355262,"firebrick2","Gut_microbiota_relative_abundance_(Eubacterium_belonging_to_family_Erysipelotrichaceae)",10.5,46944255.214
+"rs959903",25810096,"A","A","MGM",0.5,0.533200962226838,"firebrick2","Non-alcoholic_fatty_liver_disease_histology_(other)",3,49707925.692
+"rs2256587",30184038,"A","A","MGM",0.5,0.488015195932239,"firebrick2","PC3_of_Congitive_Measures",10.5,50366729.692
+"rs17428931",38689042,"G","G","MGM",0.5,0.498784756008536,"firebrick2","Eosinophil_percentage_of_white_cells, Neutrophil_percentage_of_granulocytes",3,53130400.17
+"rs167692",47986088,"T","T","MGM",0.5,0.500205799713731,"firebrick2","Vaginal_microbiome_MetaCyc_pathway_(PWY-5741|ethylmalonyl-CoA_pathway)",10.5,53789204.17
+"rs224799",48021925,"A","A","MGM",0.5,0.486214108932763,"firebrick2","Metabolite_levels_(glycosyl-N-(2-hydroxynervonoyl)-sphingosine_(d18:1/24:1(2OH)))",3,56552874.648
+"rs2412488",54330867,"A","A","MGM",0.5,0.525063727144152,"firebrick2","DNA_methylation_(variation)",10.5,57211678.648
+"rs2590784",54575432,"T","T","MGM",0.5,0.493562656100839,"firebrick2","Fibromuscular_dysplasia",3,59975349.126
+"rs13132085",56460085,"A","G","MGF",1.5,1.46506633503363,"dodgerblue3","Urinary_albumin-to-creatinine_ratio",10.5,60634153.126
+"rs11133403",56476113,"C","T","MGF",1.5,1.52642248241231,"dodgerblue3","Medial_nucleus_volume",3,63397823.604
+"rs9998008",57766052,"A","G","MGF",1.5,1.52706367036328,"dodgerblue3","Height",10.5,64056627.604
+"rs12506899",74319283,"G","T","MGF",1.5,1.47349826484919,"dodgerblue3","Tumor_biomarkers",3,74319283
+"rs6535270",76212995,"A","G","MGF",1.5,1.51849566400051,"dodgerblue3","Height",10.5,76212995
+"rs236996",88005203,"A","G","MGF",1.5,1.49567614492029,"dodgerblue3","Triglyceride_levels",3,88005203
+"rs442177",88030261,"G","T","MGF",1.5,1.49571310956031,"dodgerblue3","High_density_lipoprotein_cholesterol_levels, Triglycerides",10.5,88030261
+"rs13138404",88312504,"T","C","MGF",1.5,1.48897718245164,"dodgerblue3","SPARC-like_protein_1_levels",3,91427677.478
+"rs11730582",88896421,"T","C","MGF",1.5,1.48111139368266,"dodgerblue3","Corneal_resistance_factor_(MTAG)",10.5,91452735.478
+"rs2725236",88919106,"A","G","MGF",1.5,1.51571944452822,"dodgerblue3","Caffeine_consumption",3,94850151.956
+"rs2725220",88959922,"C","G","MGF",1.5,1.51102344095707,"dodgerblue3","Renal_function-related_traits_(urate)",10.5,94875209.956
+"rs1434536",96075965,"C","T","MGF",1.5,1.50455235078931,"dodgerblue3","Body_mass_index",3,98272626.434
+"rs2289043",96106322,"A","G","MGF",1.5,1.46645918911323,"dodgerblue3","Type_2_diabetes",10.5,98297684.434
+"rs1470618",111510571,"T","C","MGF",1.5,1.52685626838356,"dodgerblue3","Atrial_fibrillation_(MTAG)",3,111510571
+"rs2723296",111604483,"G","A","MGF",1.5,1.50865674911067,"dodgerblue3","Body_mass_index",10.5,111604483
+"rs7659604",122665514,"T","C","MGF",1.5,1.52831100899726,"dodgerblue3","Type_2_diabetes",3,122665514
+"rs6836610",123601697,"G","A","MGF",1.5,1.4699294029735,"dodgerblue3","eosinophil_(fraction_mean_inv-norm_transformed)",10.5,123601697
+"rs2391291",129581554,"T","C","MGF",1.5,1.5105536551401,"dodgerblue3","Thyroid_stimulating_hormone_levels",3,129581554
+"rs17014760",130340880,"A","G","MGF",1.5,1.53598657242954,"dodgerblue3","Cerebral_amyloid_angiopathy",10.5,130340880
+"rs6844670",145024799,"G","A","MGF",1.5,1.52337913719937,"dodgerblue3","Glycated_hemoglobin_levels",3,145024799
+"rs13118083",145227600,"G","A","MGF",1.5,1.47341200321913,"dodgerblue3","Essential_tremor",10.5,145227600
+"rs1517137",148477877,"C","T","MGF",1.5,1.49137951472774,"dodgerblue3","Height",3,148477877
+"rs6823767",151295085,"C","T","MGF",1.5,1.51654600216076,"dodgerblue3","Systolic_blood_pressure_(MTAG), Systolic_blood_pressure, Diastolic_blood_pressure, Pulse_pressure",10.5,151295085
+"rs9312509",172557879,"A","G","MGF",1.5,1.46061424117535,"dodgerblue3","Spatial_processing",3,172557879
+"rs2581761",176641467,"A","G","MGF",1.5,1.478866056595,"dodgerblue3","Highest_math_class_taken",10.5,176641467
+"rs6818081",176840816,"T","C","MGF",1.5,1.49905360626057,"dodgerblue3","Depressed_affect",3,176840816
+"rs1106568",176861301,"G","A","MGF",1.5,1.53440633373335,"dodgerblue3","Schizophrenia",10.5,180063941.478
+"rs6553899",176922278,"A","G","MGF",1.5,1.51948812024668,"dodgerblue3","Cognitive_performance_(MTAG)",3,180263290.478
+"rs908084",183543648,"A","G","MGF",1.5,1.46564803048968,"dodgerblue3","Diisocyanate-induced_asthma",10.5,183543648
+"rs7676928",185735054,"G","A","MGF",1.5,1.53353224106133,"dodgerblue3","Pallidum_iron_levels_(quantitative_susceptibility_mapping)",3,185735054
+"rs1280096",187518980,"T","C","MGF",1.5,1.513661265634,"dodgerblue3","Gut_microbiome_abundance_(class_Clostridium_sensu_stricto_sp._17_(at_1_year)_x_Exclusive_Breastfeeding_(6_Months)_interaction",10.5,187518980

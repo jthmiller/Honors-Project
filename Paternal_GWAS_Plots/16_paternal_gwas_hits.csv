@@ -1,0 +1,44 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs6600233",143503,"T","C","PGF",1.5,1.47802323723212,"dodgerblue3","High_light_scatter_reticulocyte_percentage_of_red_cells",3,143503
+"rs870288",5585852,"A","G","PGF",1.5,1.46407292103395,"dodgerblue3","Subcutaneous_adipose_tissue",10.5,5585852
+"rs716508",6336912,"C","T","PGF",1.5,1.52150323346257,"dodgerblue3","Depression",3,6336912
+"rs4780544",13881649,"T","C","PGF",1.5,1.50626166142523,"dodgerblue3","Smoking_initiation",10.5,13881649
+"rs1704528",14388750,"C","T","PGF",1.5,1.49361655682325,"dodgerblue3","Male-pattern_baldness, Whole_body_fat_free_mass_(UKB_data_field_23101)",3,14388750
+"rs246185",14395432,"C","T","PGF",1.5,1.49439202738926,"dodgerblue3","QT_interval, Menarche_(age_at_onset), Hip_circumference_adjusted_for_BMI, Height",10.5,15496312.342
+"rs194809",23804956,"A","G","PGF",1.5,1.49013431027532,"dodgerblue3","Body_mass_index",3,23804956
+"rs9927848",23833071,"C","A","PGF",1.5,1.46006245169789,"dodgerblue3","Body_mass_index",10.5,23833071
+"rs2239349",27358888,"A","G","PGF",1.5,1.4872897400707,"dodgerblue3","Gut_microbial_network_clusters_(Pink_(at_1_year)_x_Any_Breastfeeding_(3_Months)_interaction",3,27358888
+"rs8046707",30916233,"A","G","PGF",1.5,1.49527040071785,"dodgerblue3","Eosinophil_count",10.5,30916233
+"rs11649653",30918487,"G","C","PGF",1.5,1.46335778206587,"dodgerblue3","Triglycerides",3,30918487
+"rs11076496",49733063,"A","G","PGF",1.5,1.52129899378866,"dodgerblue3","Smoking_initiation",10.5,49733063
+"rs933561",49874676,"G","A","PGF",1.5,1.4690613119863,"dodgerblue3","Standing_height_(UKB_data_field_50)",3,49874676
+"rs12928717",50427661,"G","A","PGF",1.5,1.46028872383758,"dodgerblue3","Gut_microbiome_abundance_(class_Bifidobacterium_longum_(at_1_year)_x_Homesmokers_interaction",10.5,51347726.342
+"rs17221417",50739582,"G","C","PGF",1.5,1.47786340296268,"dodgerblue3","Crohn's_disease",3,51489339.342
+"rs5743289",50756774,"T","C","PGF",1.5,1.47284916350618,"dodgerblue3","Inflammatory_bowel_disease",10.5,52962389.684
+"rs1564981",50986308,"A","G","PGF",1.5,1.4886313036643,"dodgerblue3","Femoral_neck_bone_mineral_density, Lumbar_spine_bone_mineral_density",3,53104002.684
+"rs8053277",51469726,"C","T","PGF",1.5,1.49971015285701,"dodgerblue3","Benign_nodular_goiter",10.5,54577053.026
+"rs1080014",51900171,"C","T","PGF",1.5,1.50332225389779,"dodgerblue3","Digit_length_ratio_(left_hand), Digit_length_ratio",3,54718666.026
+"rs11075994",53850079,"G","A","PGF",1.5,1.46462207127362,"dodgerblue3","Body_mass_index",10.5,56191716.368
+"rs1949072",56006108,"A","G","PGF",1.5,1.49996487360448,"dodgerblue3","Ease_of_getting_up_in_the_morning",3,56333329.368
+"rs12720917",57019392,"C","T","PGF",1.5,1.50766535406932,"dodgerblue3","Apolipoprotein_A_levels_(UKB_data_field_30630), Haematocrit_percentage_(UKB_data_field_30030)",10.5,57806379.71
+"rs4784934",58459926,"A","G","PGF",1.5,1.52397486444563,"dodgerblue3","QT_interval",3,58459926
+"rs1424077",58462627,"G","A","PGF",1.5,1.46855290066451,"dodgerblue3","TPE_interval_(resting)",10.5,59421043.052
+"rs4784939",58468211,"T","C","PGF",1.5,1.47784058041871,"dodgerblue3","Electrocardiogram_morphology_(amplitude_at_temporal_datapoints)",3,60074589.342
+"rs8043948",65603269,"A","G","PGF",1.5,1.46827646130696,"dodgerblue3","Educational_attainment",10.5,65603269
+"rs1728785",68591230,"C","A","PGF",1.5,1.50492619914934,"dodgerblue3","Ulcerative_colitis",3,68591230
+"rs6499188",68674788,"A","G","PGF",1.5,1.47301978601143,"dodgerblue3","Ulcerative_colitis",10.5,68674788
+"rs11644435",68678746,"G","A","PGF",1.5,1.52989788996056,"dodgerblue3","CDH3_protein_levels",3,70205893.342
+"rs3759982",69140747,"C","T","PGF",1.5,1.50717491935939,"dodgerblue3","Smoking_cessation",10.5,70289451.342
+"rs17604349",72210865,"A","G","PGF",1.5,1.46743320645764,"dodgerblue3","Educational_attainment_(years_of_education), Morningness",3,72210865
+"rs11643192",72214276,"A","C","PGF",1.5,1.49838205914944,"dodgerblue3","Bipolar_disorder_or_major_depressive_disorder, Major_depressive_disorder_(broad), Depression, Ease_of_getting_up_in_the_morning",10.5,72214276
+"rs7189864",73633936,"C","G","PGF",1.5,1.53512205790728,"dodgerblue3","Subjective_well-being",3,73825528.342
+"rs11545029",78420775,"A","G","PGF",1.5,1.50608520485461,"dodgerblue3","WW_domain-containing_oxidoreductase_levels",10.5,78420775
+"rs1121985",79363079,"A","C","PGF",1.5,1.53512757174671,"dodgerblue3","Low-density_lipoprotein_levels",3,79363079
+"rs9925015",82615741,"C","T","PGF",1.5,1.46901677714661,"dodgerblue3","Drinks_per_week",10.5,82615741
+"rs8060632",83625563,"A","C","PGF",1.5,1.4795657934621,"dodgerblue3","Bortezomib-induced_peripheral_neuropathy_in_multiple_myeloma",3,83625563
+"rs1568387",86024879,"A","G","PGF",1.5,1.53682528773323,"dodgerblue3","Monocyte_count_(UKB_data_field_30130)",10.5,86024879
+"rs8050326",86104142,"A","G","PGF",1.5,1.48910417119041,"dodgerblue3","Major_depressive_disorder",3,86104142
+"rs3111601",86400081,"T","C","PGF",1.5,1.4884033614397,"dodgerblue3","Esophageal_adenocarcinoma",10.5,87639542.342
+"rs4843718",87878476,"A","G","PGF",1.5,1.52669636104256,"dodgerblue3","Kynurenine_levels",3,87878476
+"rs8051149",87878822,"A","G","PGF",1.5,1.47277299636975,"dodgerblue3","Kynurenine_levels",10.5,89254205.684
+"rs4843719",87882695,"A","C","PGF",1.5,1.4814630176127,"dodgerblue3","BPIFA2_protein_levels",3,89493139.342

@@ -1,0 +1,30 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs2764980",3284007,"A","G","PGF",1.5,1.47005234181881,"dodgerblue3","Attention_deficit_hyperactivity_disorder_and_conduct_disorder",3,3284007
+"rs1043003",3820787,"T","C","PGF",1.5,1.53502872293815,"dodgerblue3","Heel_bone_mineral_density, Aspartate_aminotransferase_levels",10.5,3820787
+"rs7909832",16556710,"C","T","PGF",1.5,1.50402163634077,"dodgerblue3","Urine_N-acetyltaurine_levels_in_chronic_kidney_disease, N-acetyl-beta-alanine_levels",3,16556710
+"rs10508517",16997891,"A","G","PGF",1.5,1.52310541059822,"dodgerblue3","Quantitative_traits",10.5,16997891
+"rs10764446",24322509,"C","T","PGF",1.5,1.47825122101232,"dodgerblue3","Smoking_cessation",3,24322509
+"rs2839686",44881455,"A","G","PGF",1.5,1.48106558399275,"dodgerblue3","White_blood_cell_count",10.5,44881455
+"rs1184089",61645590,"G","A","PGF",1.5,1.4899382439442,"dodgerblue3","Monocyte_percentage_of_white_cells, Monocyte_count",3,61645590
+"rs7068231",61784928,"T","G","PGF",1.5,1.49900742143393,"dodgerblue3","Alzheimer's_disease, Dementia",10.5,61784928
+"rs7089814",64187564,"C","T","PGF",1.5,1.50453710855916,"dodgerblue3","Breast_size",3,64187564
+"rs10997817",69563811,"G","A","PGF",1.5,1.50708455273882,"dodgerblue3","Estimated_glomerular_filtration_rate_(creatinine)",10.5,69563811
+"rs7924176",76295789,"A","G","PGF",1.5,1.50867802387103,"dodgerblue3","Primary_tooth_development_(number_of_teeth), Primary_tooth_development_(time_to_first_tooth_eruption), Dental_development, Weight_(minimum_inv-normal_transformed), Weight_(maximum_inv-normal_transformed), Body_mass_index_(BMI_maximum_inv-normal_transformed), Weight_(mean_inv-normal_transformed)",3,76295789
+"rs603788",79211262,"G","C","PGF",1.5,1.51693838631734,"dodgerblue3","Blood_pressure",10.5,79211262
+"rs7911917",79961222,"T","A","PGF",1.5,1.48974007161334,"dodgerblue3","Gut_microbiome_abundance_(class_Veillonella_atypica_(at_1_year)_x_Household_furry_pet_dog_(1_Year)_interaction",3,79961222
+"rs1414909",82815674,"A","G","PGF",1.5,1.48334260433912,"dodgerblue3","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG)",10.5,82815674
+"rs7075426",88216402,"A","G","PGF",1.5,1.52651659877971,"dodgerblue3","Migraine_without_aura",3,88216402
+"rs10881996",93674933,"G","T","PGF",1.5,1.47282075772062,"dodgerblue3","Height_(baseline)",10.5,93674933
+"rs11188601",97856899,"C","T","PGF",1.5,1.51013527018949,"dodgerblue3","Sex_hormone-binding_globulin_levels_adjusted_for_BMI, Sex_hormone-binding_globulin_levels, Sex_hormone-binding_globulin_levels_in_postmenopausal_women",3,97856899
+"rs11188604",97862580,"G","T","PGF",1.5,1.47079521501437,"dodgerblue3","Sex_hormone-binding_globulin_levels, Standing_height_(UKB_data_field_50)",10.5,97862580
+"rs56189004",99086632,"A","G","PGF",1.5,1.53165559925139,"dodgerblue3","Liver_enzyme_levels_(alanine_transaminase)",3,100283488.342
+"rs12415670",102893840,"A","G","PGF",1.5,1.5262306340225,"dodgerblue3","Mean_spheric_corpuscular_volume",10.5,102893840
+"rs11191206",103832689,"G","C","PGF",1.5,1.47845282034948,"dodgerblue3","Vascular_dementia",3,103832689
+"rs10883710",103885557,"C","T","PGF",1.5,1.52754001095891,"dodgerblue3","Breast_cancer, Mean_corpuscular_volume",10.5,105320429.342
+"rs12772375",104082688,"T","G","PGF",1.5,1.47844352219254,"dodgerblue3","Intelligence_(MTAG), Intelligence, Cognitive_performance, Cognitive_performance_(MTAG)",3,106259278.342
+"rs927821",104207799,"A","C","PGF",1.5,1.49350215805694,"dodgerblue3","Social_autistic-like_traits",10.5,107747018.684
+"rs9633680",112603026,"G","A","PGF",1.5,1.49928126068786,"dodgerblue3","Lymphocyte_side_fluorescence",3,112603026
+"rs3781458",126343931,"T","C","PGF",1.5,1.48291324842721,"dodgerblue3","Male-pattern_baldness, Neutrophil_side_fluorescence",10.5,126343931
+"rs4450131",126383363,"C","T","PGF",1.5,1.49311301646754,"dodgerblue3","White_blood_cell_count_(basophil)",3,126383363
+"rs10901863",126812270,"T","C","PGF",1.5,1.47901803692803,"dodgerblue3","Hearing_loss_difficulty_in_hearing, Age-related_hearing_impairment, Hearing_problems",10.5,128770520.342
+"rs10734105",133172119,"G","A","PGF",1.5,1.46473856726661,"dodgerblue3","Crohn's_disease",3,133172119

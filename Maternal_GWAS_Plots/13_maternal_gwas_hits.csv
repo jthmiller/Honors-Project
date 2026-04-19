@@ -1,0 +1,33 @@
+"SNP","position","maternal_allele","mgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs17356983",21915114,"G","G","MGM",0.5,0.539281035587192,"firebrick2","Obesity-related_traits",3,21915114
+"rs9507223",24612478,"T","G","MGF",1.5,1.48768486367539,"dodgerblue3","Height",10.5,24612478
+"rs9315688",40045598,"A","G","MGF",1.5,1.48361710187048,"dodgerblue3","Insomnia",3,40045598
+"rs1040962",40080132,"G","A","MGF",1.5,1.53604068573564,"dodgerblue3","Height",10.5,40080132
+"rs1926447",46629944,"A","G","MGF",1.5,1.47629394117743,"dodgerblue3","Serum_levels_of_protein_MIF, Serum_levels_of_protein_TOM1L1, Serum_levels_of_protein_TOR1AIP1, Serum_levels_of_protein_ALPI, Serum_levels_of_protein_IFNA10, Serum_levels_of_protein_CRLF2, Serum_levels_of_protein_RAET1E, Macrophage_Migration_Inhibitory_Factor_levels, MAP_kinase-activated_protein_kinase_3_levels, Prolactin_receptor_levels, CBPB2_protein_level_(protein_group_normalized_intensity)",3,46629944
+"rs3903768",50396755,"A","C","MGF",1.5,1.49713093118742,"dodgerblue3","Height",10.5,50396755
+"rs341516",60404033,"T","C","MGF",1.5,1.51207074526697,"dodgerblue3","Regional_cortical_thickness_(paracentral)",3,60404033
+"rs9600235",74704287,"T","C","MGF",1.5,1.48844570966437,"dodgerblue3","Eosinophil_percentage_of_white_cells, Hypothyroidism",10.5,74704287
+"rs7319334",76097291,"A","A","MGM",0.5,0.525138100180775,"firebrick2","Appendicular_lean_mass",3,76097291
+"rs7337929",76244318,"A","A","MGM",0.5,0.489163350909948,"firebrick2","Height",10.5,76770720.228
+"rs629443",76386075,"T","T","MGM",0.5,0.533592931125313,"firebrick2","Weight",3,78163724.228
+"rs61959580",76392911,"A","A","MGM",0.5,0.483906252738088,"firebrick2","Color_vision_defects_(Deutan-Protan)",10.5,78837153.456
+"rs4628837",78805278,"A","A","MGM",0.5,0.46219959301874,"firebrick2","Height",3,80230157.456
+"rs2806592",79152524,"C","C","MGM",0.5,0.471288330368698,"firebrick2","Height",10.5,80903586.684
+"rs2274554",79940529,"A","A","MGM",0.5,0.481276031527668,"firebrick2","Age_at_menopause",3,82296590.684
+"rs12585625",80012196,"T","T","MGM",0.5,0.491732451058924,"firebrick2","Educational_attainment",10.5,82970019.912
+"rs9523848",93581791,"T","T","MGM",0.5,0.530726488661021,"firebrick2","Breast_size",3,93581791
+"rs7990769",94745755,"C","C","MGM",0.5,0.500376094188541,"firebrick2","Gut_microbiome_abundance_(class_[Ruminococcus]_torques__sp._13_(at_1_year)_x_Any_Breastfeeding_(3_Months)_interaction",10.5,94745755
+"rs1877475",96537274,"G","G","MGM",0.5,0.527795833032578,"firebrick2","Height",3,96537274
+"rs17675800",96826213,"A","A","MGM",0.5,0.46917598169297,"firebrick2","Gut_microbiome_abundance_(class_Clostridioides_difficile_(at_3_months)_x_Fall_Birth_(Sept-Nov)_interaction",10.5,96826213
+"rs1792",99088006,"A","A","MGM",0.5,0.519174579977989,"firebrick2","Gamma_glutamyl_transferase_levels",3,99088006
+"rs4646211",99395594,"C","C","MGM",0.5,0.465672847535461,"firebrick2","Nonsyndromic_cleft_palate",10.5,99395594
+"rs2027442",100332708,"G","G","MGM",0.5,0.533725469782949,"firebrick2","Height",3,101154439.228
+"rs9557635",102051090,"A","A","MGM",0.5,0.475584883857518,"firebrick2","Non-small_cell_lung_cancer",10.5,102051090
+"rs9514131",104090848,"T","T","MGM",0.5,0.46030917994678,"firebrick2","Body_mass_index, Body_mass_index_(MTAG)",3,104090848
+"rs7337127",105275930,"T","T","MGM",0.5,0.53974239250645,"firebrick2","Binge_eating_behaviour_and_bipolar_disorder",10.5,105275930
+"rs4771506",106496000,"C","C","MGM",0.5,0.46957661094144,"firebrick2","Diabetic_macular_edema_in_type_2_diabetes",3,106496000
+"rs277834",109710082,"C","C","MGM",0.5,0.467226888667792,"firebrick2","Schizophrenia",10.5,109710082
+"rs2391776",110243425,"C","C","MGM",0.5,0.483192102573812,"firebrick2","White_matter_lesion_progression, White_matter_lesion_progression_(adjusted_for_white_matter_lesion_burden_at_baseline)",3,110243425
+"rs1556124",110991189,"G","G","MGM",0.5,0.467440771013498,"firebrick2","Triglyceride_levels",10.5,111776515.228
+"rs2277425",111522258,"G","G","MGM",0.5,0.499423486161977,"firebrick2","Sitting_height_ratio",3,112309858.228
+"rs2277424",111522420,"T","T","MGM",0.5,0.501080875340849,"firebrick2","Paceibacteria_abundance_in_stool",10.5,113842948.456

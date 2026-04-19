@@ -1,0 +1,41 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs1043207",23369994,"A","G","PGF",1.5,1.52616845136508,"dodgerblue3","Educational_attainment",3,23369994
+"rs2145542",23419036,"C","T","PGF",1.5,1.4615016335994,"dodgerblue3","Retinal_thickness_(pixel_104_243)",10.5,23419036
+"rs11850957",25479542,"T","C","PGF",1.5,1.48460452789441,"dodgerblue3","Subcutaneous_adipose_tissue",3,25479542
+"rs11627573",26834627,"A","G","PGF",1.5,1.47449169181287,"dodgerblue3","Gut_microbial_network_clusters_(Salmon_(at_1_year)_x_Spring_Birth_(Mar-May)_interaction",10.5,26834627
+"rs1959947",41523462,"A","A","PGM",0.5,0.506786388643086,"firebrick2","Hemostatic_factors_and_hematological_phenotypes",3,41523462
+"rs3015469",51157160,"G","G","PGM",0.5,0.507079135347158,"firebrick2","Plasma_amyloid_beta_peptide_concentrations_(ABx-40)",10.5,51157160
+"rs11157866",52371313,"T","T","PGM",0.5,0.473177246470004,"firebrick2","Vaginal_microbiome_relative_abundance_(s_Megasphaera_genomosp_type_1)",3,52371313
+"rs28707162",55179243,"A","A","PGM",0.5,0.531552390959114,"firebrick2","Creatinine_levels",10.5,55179243
+"rs35543418",62888070,"A","A","PGM",0.5,0.461959593109787,"firebrick2","Psychological_wellbeing_index_12_(lack_of_enjoying_daily_life)",3,62888070
+"rs227425",70456699,"G","G","PGM",0.5,0.517471354026347,"firebrick2","Bone_mineral_density",10.5,70456699
+"rs4903133",74131575,"T","T","PGM",0.5,0.51175329817459,"firebrick2","PNMA1_protein_levels",3,74131575
+"rs4899518",74985544,"A","A","PGM",0.5,0.465578284189105,"firebrick2","Lung_function_(FEV1/FVC)",10.5,74985544
+"rs12893597",76812695,"T","T","PGM",0.5,0.534332749657333,"firebrick2","Maximal_oxygen_uptake_response",3,76812695
+"rs2193595",77845121,"G","G","PGM",0.5,0.524578170608729,"firebrick2","Activator_of_90_kDa_heat_shock_protein_ATPase_homolog_1_levels",10.5,77845121
+"rs11621908",78495761,"T","T","PGM",0.5,0.486311531830579,"firebrick2","Sleep_duration",3,78741274.292
+"rs12101261",81451229,"T","T","PGM",0.5,0.523811386842281,"firebrick2","Graves'_disease",10.5,81451229
+"rs8020969",81586674,"T","T","PGM",0.5,0.460100916028023,"firebrick2","Thyroid_stimulating_hormone_levels",3,81586674
+"rs7140285",88462988,"T","T","PGM",0.5,0.460689993891865,"firebrick2","Pulmonary_artery_enlargement_in_chronic_obstructive_pulmonary_disease",10.5,88462988
+"rs8005161",88472595,"T","T","PGM",0.5,0.526131017431617,"firebrick2","Crohn's_disease, Inflammatory_bowel_disease",3,88472595
+"rs3742704",88477882,"C","C","PGM",0.5,0.529704620111734,"firebrick2","Eosinophil_percentage_of_white_cells",10.5,90391567.292
+"rs34105469",89741908,"T","T","PGM",0.5,0.50433755973354,"firebrick2","Systolic_blood_pressure, Diastolic_blood_pressure",3,90401174.292
+"rs1005421",89886940,"T","T","PGM",0.5,0.524481453355402,"firebrick2","Sex_hormone-binding_globulin_levels, Sex_hormone-binding_globulin_levels_in_postmenopausal_women, Alanine_aminotransferase_levels, Gamma_glutamyl_transferase_levels",10.5,92320146.584
+"rs7158300",92482948,"T","T","PGM",0.5,0.51411458529532,"firebrick2","Height",3,92482948
+"rs12589059",92509986,"A","A","PGM",0.5,0.519578192792833,"firebrick2","Weight",10.5,94248725.876
+"rs12590630",93132080,"C","C","PGM",0.5,0.46628614185378,"firebrick2","Composite_immunoglobulin_trait_(IgA/IgM)",3,94411527.292
+"rs12437403",93174972,"A","A","PGM",0.5,0.525836231317371,"firebrick2","TMEM106A_protein_levels",10.5,96177305.168
+"rs1303",94844843,"G","G","PGM",0.5,0.465953394062817,"firebrick2","Galactokinase_levels, mRNA-decapping_enzyme_1B_levels, Cas_scaffolding_protein_family_member_4_levels, 39S_ribosomal_protein_L33_mitochondrial_levels, Cyclin-dependent_kinase-like_2_levels, Glycogen_synthase_kinase-3_beta_(analyte_X3236.12)_levels, PH_and_SEC7_domain-containing_protein_1_levels_(PSD.13055.53.3), ASPN_protein_levels, ACP5_protein_levels, FSTL1_protein_levels, Cholesteryl_Esters_to_Total_Lipids_in_Very_Large_VLDL_percentage, Cholesteryl_Esters_to_Total_Lipids_in_Chylomicrons_and_Extremely_Large_VLDL_percentage, Monounsaturated_fatty_acids_to_total_fatty_acids_percentage, Linoleic_acid_to_total_fatty_acids_percentage",3,96340106.584
+"rs709932",94849201,"T","T","PGM",0.5,0.514958012867719,"firebrick2","Serum_levels_of_protein_MMP14, IL4R_protein_levels, ITM2A_protein_levels, SERPINA1_protein_levels, Histone-lysine_N-methyltransferase_2C_levels, Matrix_metalloproteinase-14_levels, Triglycerides_to_Total_Lipids_in_Very_Large_HDL_percentage, Triglycerides_to_Total_Lipids_in_Large_HDL_percentage, Histidine_levels, Cholesteryl_Esters_to_Total_Lipids_in_Small_LDL_percentage, Phospholipids_to_Total_Lipids_in_Small_LDL_percentage, Cholesteryl_Esters_to_Total_Lipids_in_Medium_LDL_percentage",10.5,98105884.46
+"rs17752110",94892344,"T","C","PGF",1.5,1.49347915904596,"dodgerblue3","SERPINA11_protein_levels",3,98268685.876
+"rs3850422",99671788,"A","G","PGF",1.5,1.51731916723773,"dodgerblue3","Body_mass_index_(MTAG)",10.5,100034463.752
+"rs2693698",99719219,"A","G","PGF",1.5,1.47837056165561,"dodgerblue3","Bipolar_disorder, Medial_thalamic_nuclei_volume",3,100197265.168
+"rs7153665",100730920,"A","G","PGF",1.5,1.46762365072966,"dodgerblue3","Metastasis_in_stage_I-III_microsatellite_instability_low/stable_colorectal_cancer_(time_to_event)",10.5,101963043.044
+"rs12893951",101005215,"T","C","PGF",1.5,1.48946680178866,"dodgerblue3","Gamma_glutamyl_transferase_levels",3,102125844.46
+"rs7161194",101529005,"A","G","PGF",1.5,1.46556775545701,"dodgerblue3","Body_mass_index, Body_mass_index_(MTAG)",10.5,103891622.336
+"rs7143468",103237778,"A","G","PGF",1.5,1.47251038253307,"dodgerblue3","Total_protein_levels_(UKB_data_field_30860), Non-albumin_protein_levels, Serum_total_protein_levels",3,104054423.752
+"rs11160835",105587644,"T","C","PGF",1.5,1.49538736447692,"dodgerblue3","Platelet_count",10.5,105820201.628
+"rs3825761",105638931,"C","T","PGF",1.5,1.53330405024812,"dodgerblue3","White_blood_cell_count, Neutrophil_count",3,105983003.044
+"rs11625865",105644421,"A","G","PGF",1.5,1.51960561050102,"dodgerblue3","High_light_scatter_reticulocyte_percentage_of_red_cells, High_light_scatter_reticulocyte_count, High_light_scatter_reticulocyte_percentage_(UKB_data_field_30290), Immature_reticulocyte_fraction_(UKB_data_field_30280), High_light_scatter_reticulocyte_count_(UKB_data_field_30300), Neutrophil_count",10.5,107748780.92
+"rs4983590",105646179,"A","G","PGF",1.5,1.51036389961839,"dodgerblue3","Neutrophil_count, White_blood_cell_count, Reticulocyte_fraction_of_red_cells, Reticulocyte_count, Neutrophill_count_(UKB_data_field_30140)",3,107911582.336
+"rs11160838",105648901,"C","T","PGF",1.5,1.51615262629464,"dodgerblue3","Reticulocyte_count_(UKB_data_field_30250), Reticulocyte_percentage_(UKB_data_field_30240)",10.5,109677360.212

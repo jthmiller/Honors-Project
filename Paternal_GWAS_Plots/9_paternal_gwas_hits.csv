@@ -1,0 +1,92 @@
+"SNP","position","p2_allele","pgm_allele","source","plot_x","plot_x_jittered","color","DISEASE.TRAIT","text_x","text_y"
+"rs3209441",286491,"A","A","PGM",0.5,0.510403610765934,"firebrick2","Neutrophil_count, White_blood_cell_count, Sum_basophil_neutrophil_counts, Neutrophill_count_(UKB_data_field_30140), Neutrophill_percentage_(UKB_data_field_30200)",3,286491
+"rs10959548",1121085,"T","T","PGM",0.5,0.488869192413986,"firebrick2","Language_impairment_in_frontotemporal_lobe_dementia",10.5,1121085
+"rs7043199",2621145,"A","A","PGM",0.5,0.527698768284172,"firebrick2","Vascular_endothelial_growth_factor_levels",3,2824702.878
+"rs7032549",2623615,"A","A","PGM",0.5,0.511804902721196,"firebrick2","Hematocrit, Red_blood_cell_count, Red_blood_cell_erythrocyte_count_(UKB_data_field_30010)",10.5,3659296.878
+"rs10813032",2933171,"T","T","PGM",0.5,0.495774853285402,"firebrick2","Vaginal_microbiome_MetaCyc_pathway_(PWY-7373|superpathway_of_demethylmenaquinol-6_biosynthesis_II)",3,5362914.756
+"rs515380",4036449,"A","A","PGM",0.5,0.507133204992861,"firebrick2","Height",10.5,6197508.756
+"rs2185405",4078851,"T","T","PGM",0.5,0.49316662620753,"firebrick2","Corneal_resistance_factor_(MTAG)",3,7901126.634
+"rs409801",4744743,"C","C","PGM",0.5,0.467431225851178,"firebrick2","Platelet_count, CD244_protein_levels, TREML2_protein_levels, CD84_protein_levels, F11R_protein_levels, GP6_protein_levels, SEMA4D_protein_levels, SH2B3_protein_levels",10.5,8735720.634
+"rs385893",4763176,"C","C","PGM",0.5,0.469473110251129,"firebrick2","Granulocyte_percentage_of_myeloid_white_cells, Sum_neutrophil_eosinophil_counts, Granulocyte_count, Myeloid_white_cell_count, Neutrophil_count, Sum_basophil_neutrophil_counts, Neutrophil_percentage_of_white_cells, Hematological_parameters, Platelet_count, VEGFC_protein_levels, SPARC_protein_levels, PDGFA_protein_levels, EDAR_protein_levels, DKK1_protein_levels, Lymphocyte_percentage_(UKB_data_field_30180), CPXM1_protein_levels, White_blood_cell_count, Mitochondrial_DNA_copy_number, Neutrophill_count_(UKB_data_field_30140), Neutrophill_percentage_(UKB_data_field_30200), BDNF_protein_levels, AMIGO2_protein_levels, HBEGF_protein_levels, CD226_protein_levels, GP1BA_protein_levels, GP5_protein_levels, PLXNB3_protein_levels, SDC4_protein_levels, SORT1_protein_levels, SELP_protein_levels, Lymphocyte_percentage_of_white_cells, Mean_corpuscular_hemoglobin, Mean_corpuscular_volume, Immature_platelet_count, Acetate_levels",3,10439338.512
+"rs7870456",8454921,"T","T","PGM",0.5,0.51810471823439,"firebrick2","Parkinson's_disease_progression_(motor)",10.5,11273932.512
+"rs72704308",8834613,"A","A","PGM",0.5,0.503433100730181,"firebrick2","Insomnia",3,12977550.39
+"rs1975197",8846955,"A","A","PGM",0.5,0.460897302199155,"firebrick2","Restless_legs_syndrome",10.5,13812144.39
+"rs4626664",9261737,"A","A","PGM",0.5,0.478009428475052,"firebrick2","Restless_legs_syndrome, Systolic_blood_pressure, Diastolic_blood_pressure",3,15515762.268
+"rs291269",10043773,"G","G","PGM",0.5,0.536617851797491,"firebrick2","Menarche_(age_at_onset)",10.5,16350356.268
+"rs67344877",12566080,"C","C","PGM",0.5,0.470403771661222,"firebrick2","Gut_microbial_network_clusters_(Aquamarine_(at_1_year)_x_Household_furry_pet_cat_or_dog_(3_Months)_interaction",3,18053974.146
+"rs1325154",12582565,"C","C","PGM",0.5,0.508518716730177,"firebrick2","Attention_deficit_hyperactivity_disorder_(time_to_onset)",10.5,18888568.146
+"rs13291898",12861280,"C","C","PGM",0.5,0.529957930333912,"firebrick2","Hospitalization_rate_in_serious_mental_illnesses",3,20592186.024
+"rs10810073",13992283,"C","C","PGM",0.5,0.477690770663321,"firebrick2","Height",10.5,21426780.024
+"rs1341729",15898228,"T","T","PGM",0.5,0.469672497380525,"firebrick2","Adventurousness",3,23130397.902
+"rs6415726",16247629,"G","G","PGM",0.5,0.521577710062265,"firebrick2","Height",10.5,23964991.902
+"rs12056994",16492516,"C","C","PGM",0.5,0.535136365331709,"firebrick2","Cortical_thickness",3,25668609.78
+"rs4961722",16529174,"C","C","PGM",0.5,0.509420786816627,"firebrick2","Cortical_surface_area",10.5,26503203.78
+"rs2029247",17117875,"C","C","PGM",0.5,0.507580913063139,"firebrick2","Height",3,28206821.658
+"rs465423",19210177,"A","A","PGM",0.5,0.473098367769271,"firebrick2","Putamen_iron_levels_(quantitative_susceptibility_mapping), Pallidum_iron_levels_(R2*_MRI), Substantia_nigra_iron_levels_(quantitative_susceptibility_mapping), Putamen_iron_levels_(R2*_MRI), Thalamus_iron_levels_(quantitative_susceptibility_mapping), Caudate_iron_levels_(R2*_MRI), Caudate_iron_levels_(quantitative_susceptibility_mapping), Hippocampus_iron_levels_(quantitative_susceptibility_mapping)",10.5,29041415.658
+"rs2123340",21589041,"G","G","PGM",0.5,0.46060141319409,"firebrick2","Autoimmune_thyroid_disease",3,30745033.536
+"rs2065500",22145694,"G","G","PGM",0.5,0.464166574403644,"firebrick2","Neutrophil_percentage_of_white_cells, Non-albumin_protein_levels, STC2_protein_levels, Glycated_hemoglobin_levels",10.5,31579627.536
+"rs944802",22155709,"T","T","PGM",0.5,0.50801400102675,"firebrick2","White_blood_cell_count",3,33283245.414
+"rs10965269",22162061,"G","G","PGM",0.5,0.53470140747726,"firebrick2","Lymphocyte_count",10.5,34117839.414
+"rs9298850",23765511,"T","T","PGM",0.5,0.51115301379934,"firebrick2","Substance_use_disorder",3,35821457.292
+"rs10491833",24720232,"C","C","PGM",0.5,0.468688962087035,"firebrick2","Symmetrical_dimethylarginine_levels",10.5,36656051.292
+"rs10967509",26746922,"A","A","PGM",0.5,0.467227216660976,"firebrick2","Life_satisfaction, Well-being_spectrum_(multivariate_analysis), Depressive_symptoms, Neuroticism, Positive_affect",3,38359669.17
+"rs11789249",27839795,"A","A","PGM",0.5,0.527433220371604,"firebrick2","Smoking_initiation_(ever_regular_vs_never_regular)_(MTAG), Body_mass_index_(MTAG)",10.5,39194263.17
+"rs2150864",29363265,"G","G","PGM",0.5,0.524575078450143,"firebrick2","Motion_sickness",3,40897881.048
+"rs7032871",32422690,"T","T","PGM",0.5,0.474736369103193,"firebrick2","IgG_glycosylation",10.5,41732475.048
+"rs944582",32465770,"G","G","PGM",0.5,0.497122829575092,"firebrick2","Thalamus_iron_levels_(quantitative_susceptibility_mapping), Amygdala_iron_levels_(quantitative_susceptibility_mapping)",3,43436092.926
+"rs10814123",34561808,"T","T","PGM",0.5,0.461702563390136,"firebrick2","Physiological_traits",10.5,44270686.926
+"rs2065107",35927129,"T","T","PGM",0.5,0.497801451776177,"firebrick2","Postmenopausal_breast_cancer",3,45974304.804
+"rs4879960",36203718,"C","C","PGM",0.5,0.518913139738142,"firebrick2","Accelerated_lung_function_decline_(FEV1)_and_worsened/persistent_change_in_fatty_liver_(pleiotropy)",10.5,46808898.804
+"rs7846941",38394563,"A","A","PGM",0.5,0.482029949687421,"firebrick2","IGFBPL1_protein_levels",3,48512516.682
+"rs2282335",71865932,"A","A","PGM",0.5,0.497572296801955,"firebrick2","Renal_sinus_fat",10.5,71865932
+"rs11142387",72998332,"A","A","PGM",0.5,0.474405444618315,"firebrick2","Intelligence_(MTAG)",3,72998332
+"rs10780944",73157416,"G","G","PGM",0.5,0.538072768840939,"firebrick2","Pubertal_anthropometrics",10.5,74404143.878
+"rs4526420",73436971,"T","T","PGM",0.5,0.504552336148918,"firebrick2","Creatinine_levels",3,75536543.878
+"rs1415221",73480718,"C","C","PGM",0.5,0.514730056002736,"firebrick2","Electrocardiogram_morphology_(amplitude_at_temporal_datapoints)",10.5,76942355.756
+"rs6560168",73482647,"T","T","PGM",0.5,0.53576157219708,"firebrick2","PR_interval",3,78074755.756
+"rs12344488",78425925,"A","A","PGM",0.5,0.512725865356624,"firebrick2","Non-alcoholic_fatty_liver_disease_histology_(AST)",10.5,79480567.634
+"rs11144688",78542286,"A","A","PGM",0.5,0.478582523986697,"firebrick2","Waist_circumference_adjusted_for_BMI_in_non-smokers, Height, Waist_circumference_adjusted_for_body_mass_index, Waist_circumference_adjusted_for_BMI_(adjusted_for_smoking_behaviour), Waist_circumference_adjusted_for_BMI_(joint_analysis_main_effects_and_smoking_interaction)",3,80612967.634
+"rs7853818",78747787,"C","C","PGM",0.5,0.534540837109089,"firebrick2","Vertex-wise_sulcal_depth, Height_(standard_GWA)",10.5,82018779.512
+"rs927632",79159993,"T","T","PGM",0.5,0.538977461010218,"firebrick2","GCNT1_protein_levels",3,83151179.512
+"rs7029058",84233764,"T","T","PGM",0.5,0.491345877293497,"firebrick2","Appendicular_lean_mass",10.5,84556991.39
+"rs10746732",86694759,"G","G","PGM",0.5,0.530904094893485,"firebrick2","Ratio_of_polyunsaturated_fatty_acids_to_total_fatty_acids, Triglyceride_levels_in_medium_HDL",3,86694759
+"rs12350534",89558064,"T","T","PGM",0.5,0.507796720229089,"firebrick2","White_matter_hyperintensity_volume_in_cerebral_autosomal-dominant_arteriopathy_with_subcortical_infarcts_and_leukoencephalopathy",10.5,89558064
+"rs3095748",90209137,"G","G","PGM",0.5,0.516451652944088,"firebrick2","Immune_reponse_to_smallpox_(secreted_IFN-alpha)",3,90209137
+"rs17539995",92241847,"A","A","PGM",0.5,0.515373089462519,"firebrick2","C-reactive_protein_levels_(MTAG)",10.5,92241847
+"rs4573339",95806365,"G","G","PGM",0.5,0.508979888893664,"firebrick2","Longevity",3,95806365
+"rs10821083",95951477,"C","C","PGM",0.5,0.463495793603361,"firebrick2","Edge-level_brain_connectivity_(multivariate_analysis)",10.5,95951477
+"rs7041800",95951769,"A","A","PGM",0.5,0.492452097274363,"firebrick2","Total_cholesterol_levels_(MTAG)",3,98344576.878
+"rs473902",98256235,"G","G","PGM",0.5,0.503194528371096,"firebrick2","Hip_circumference_adjusted_for_BMI, Height",10.5,98489688.878
+"rs817300",98380222,"A","A","PGM",0.5,0.522415917236358,"firebrick2","Height, Waist_circumference_adjusted_for_body_mass_index, Hip_circumference_adjusted_for_BMI, Weight_(UKB_data_field_21002)",3,100882788.756
+"rs2065412",107598740,"C","C","PGM",0.5,0.46785642048344,"firebrick2","HDL_cholesterol_levels",10.5,107598740
+"rs17218614",109177377,"A","A","PGM",0.5,0.52546594614163,"firebrick2","Gut_microbial_network_clusters_(BlueViolet_(at_3_months)_x_Household_furry_pet_dog_(3_Months)_interaction",3,109177377
+"rs7861976",110171107,"C","C","PGM",0.5,0.502176935188472,"firebrick2","FEV1_FVC_ratio_Z_score_(UKB_data_field_20258)",10.5,110171107
+"rs10759240",110242157,"C","C","PGM",0.5,0.513287355937064,"firebrick2","Chagas_cardiomyopathy_in_Tripanosoma_cruzi_seropositivity",3,111715588.878
+"rs2846444",113570107,"G","G","PGM",0.5,0.502084063906223,"firebrick2","Heel_bone_mineral_density",10.5,113570107
+"rs1411424",113892963,"A","A","PGM",0.5,0.480622346401215,"firebrick2","Offspring_birth_weight",3,114253800.756
+"rs12346499",113902881,"T","T","PGM",0.5,0.494927649963647,"firebrick2","Monocyte_Absolute_Count",10.5,116108318.878
+"rs10980802",113918856,"G","G","PGM",0.5,0.497825624477118,"firebrick2","Waist-hip_ratio, Waist-to-hip_ratio_adjusted_for_BMI, LILRA5_protein_levels, Monocyte_count",3,116792012.634
+"rs4310281",115085206,"G","G","PGM",0.5,0.513417050335556,"firebrick2","Height",10.5,118646530.756
+"rs10985729",125364208,"G","G","PGM",0.5,0.527582530751824,"firebrick2","Presence_of_epithelioid_cells_in_uveal_melanoma",3,125364208
+"rs10819190",129408513,"A","A","PGM",0.5,0.461987962629646,"firebrick2","Body_mass_index_(MTAG)",10.5,129408513
+"rs3902840",129419025,"A","A","PGM",0.5,0.509778539929539,"firebrick2","Body_mass_index",3,129419025
+"rs867559",129465325,"G","G","PGM",0.5,0.507973409034312,"firebrick2","Body_mass_index",10.5,131946724.878
+"rs10819246",129643296,"T","T","PGM",0.5,0.508994391299784,"firebrick2","Systolic_blood_pressure, Diastolic_blood_pressure",3,131957236.878
+"rs4837127",129792141,"T","T","PGM",0.5,0.495406795274466,"firebrick2","Estimated_glomerular_filtration_rate_(creatinine)",10.5,134484936.756
+"rs10819317",130668957,"G","G","PGM",0.5,0.529659923743457,"firebrick2","SELPLG_protein_levels",3,134495448.756
+"rs2270204",131042734,"G","G","PGM",0.5,0.482825459297746,"firebrick2","Body_mass_index",10.5,137023148.634
+"rs2773818",135859519,"A","A","PGM",0.5,0.503048708662391,"firebrick2","Platelet_distribution_width_(UKB_data_field_30110)",3,137033660.634
+"rs35775139",136034682,"C","C","PGM",0.5,0.488215045277029,"firebrick2","Serum_alkaline_phosphatase_levels",10.5,139561360.512
+"rs11244079",136184526,"A","A","PGM",0.5,0.52952013798058,"firebrick2","von_Willebrand_factor_levels",3,139571872.512
+"rs7872903",136484292,"C","C","PGM",0.5,0.460135549493134,"firebrick2","Smoking_cessation, Cigarettes_smoked_per_day",10.5,142099572.39
+"rs12344583",136723520,"G","G","PGM",0.5,0.52847979541868,"firebrick2","vWF_and_FVIII_levels",3,142110084.39
+"rs464826",136913355,"T","T","PGM",0.5,0.463502999078482,"firebrick2","Red_blood_cell_distribution_width",10.5,144637784.268
+"rs34835001",137269607,"C","C","PGM",0.5,0.523430292475969,"firebrick2","Testosterone_levels",3,144648296.268
+"rs10858300",137842500,"T","T","PGM",0.5,0.513972659185529,"firebrick2","Ficolin-1_levels",10.5,147175996.146
+"rs1128905",139253839,"C","C","PGM",0.5,0.462095446493477,"firebrick2","Ankylosing_spondylitis",3,147186508.146
+"rs10870202",139257411,"C","C","PGM",0.5,0.497098022382706,"firebrick2","Lung_function_(FVC)",10.5,149714208.024
+"rs1130635",139317869,"C","C","PGM",0.5,0.511281806323677,"firebrick2","Total_cholesterol_levels",3,149724720.024
+"rs33982662",139324737,"A","A","PGM",0.5,0.50069782866165,"firebrick2","Basal_cell_carcinoma_(MTAG)",10.5,152252419.902
+"rs3812594",139368953,"A","A","PGM",0.5,0.479491410721093,"firebrick2","Low_density_lipoprotein_cholesterol_levels, Free_Cholesterol_to_Total_Lipids_in_Very_Large_HDL_percentage",3,152262931.902
+"rs9411262",139574377,"T","T","PGM",0.5,0.523704980760813,"firebrick2","Monounsaturated_fatty_acids_to_total_fatty_acids_percentage, Docosahexaenoic_acid_to_total_fatty_acids_percentage, Polyunsaturated_fatty_acids_to_monounsaturated_fatty_acids_ratio",10.5,154790631.78
+"rs13292648",140085991,"G","G","PGM",0.5,0.500165993459523,"firebrick2","Chronic_obstructive_pulmonary_disease_liability_(machine_learning-based_score)",3,154801143.78
