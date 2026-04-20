@@ -196,3 +196,137 @@ With just a few genetic markers (~5% of then genome according to R Studio), we c
 To interpret each of these figures, one must know that the x-axis is the maternal or paternal label, where par1 is the maternal DNA, and par2 is the paternal DNA. The 0.5 position on the x-axis displays the grandmother DNA of the corresponding parent shaded in red, and the 1.5 position on the x-axis displays the grandfather DNA of the corresponding parent shaded in blue.
 
 Anywhere there is an overlap in genetic data in one of these figures between the corresponding grandparents is representative of the potential range of SNP’s that a recombination event could have occurred on when my mother’s egg cell or my father’s sperm cell were going through homologous recombination during meiosis. The reason for this overlap is because we simply do not have enough genetic markers in the dataset to know the exact location of the recombination event. As the number of known of genetic markers increases, the resolution of the known origin of grandparent level DNA would also increase, so if we were to have more markers in this range of overlap, the length of the genetic overlap between grandparents would decrease, and our confidence interval for the exact genetic location of the recombination event would increase. Any holes, gaps or noise in these data are to due missing parts of the raw DNA code that was a result of human error while the saliva samples were being collected for genetic testing.
+
+
+# GWAS Plots Color Coded By Grandparent of Origin
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/1_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/1_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 51. Maternal Copy of Chromosome 1 | Figure 52. Paternal Copy of Chromosome 1 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/2_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/2_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 53. Maternal Copy of Chromosome 2 | Figure 54. Paternal Copy of Chromosome 2 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/3_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/3_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 55. Maternal Copy of Chromosome 3 | Figure 56. Paternal Copy of Chromosome 3 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/4_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/4_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 57. Maternal Copy of Chromosome 4 | Figure 58. Paternal Copy of Chromosome 4 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/5_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/5_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 59. Maternal Copy of Chromosome 5 | Figure 60. Paternal Copy of Chromosome 5 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/6_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/6_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 61. Maternal Copy of Chromosome 6 | Figure 62. Paternal Copy of Chromosome 6 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/7_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/7_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 63. Maternal Copy of Chromosome 7 | Figure 64. Paternal Copy of Chromosome 7 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/8_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/8_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 65. Maternal Copy of Chromosome 8 | Figure 66. Paternal Copy of Chromosome 8 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/9_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/9_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 67. Maternal Copy of Chromosome 9 | Figure 68. Paternal Copy of Chromosome 9 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/10_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/10_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 69. Maternal Copy of Chromosome 10 | Figure 70. Paternal Copy of Chromosome 10 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/11_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/11_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 71. Maternal Copy of Chromosome 11 | Figure 72. Paternal Copy of Chromosome 11 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/12_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/12_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 73. Maternal Copy of Chromosome 12 | Figure 74. Paternal Copy of Chromosome 12 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/13_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/13_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 75. Maternal Copy of Chromosome 13 | Figure 76. Paternal Copy of Chromosome 13 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/14_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/14_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 77. Maternal Copy of Chromosome 14 | Figure 78. Paternal Copy of Chromosome 14 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/15_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/15_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 79. Maternal Copy of Chromosome 15 | Figure 80. Paternal Copy of Chromosome 15 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/16_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/16_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 81. Maternal Copy of Chromosome 16 | Figure 82. Paternal Copy of Chromosome 16 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/17_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/17_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 83. Maternal Copy of Chromosome 17 | Figure 84. Paternal Copy of Chromosome 17 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/18_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/18_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 85. Maternal Copy of Chromosome 18 | Figure 86. Paternal Copy of Chromosome 18 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/19_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/19_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 87. Maternal Copy of Chromosome 19 | Figure 88. Paternal Copy of Chromosome 19 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/20_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/20_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 89. Maternal Copy of Chromosome 20 | Figure 90. Paternal Copy of Chromosome 20 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/21_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/21_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 91. Maternal Copy of Chromosome 21 | Figure 92. Paternal Copy of Chromosome 21 |
+
+
+| Maternal Side | Paternal Side |
+| :---: | :---: |
+| ![Maternal Side](./Maternal_GWAS_Plots/22_Maternal_Map_Total_Clarity.png?raw=true) | ![Paternal Side](./Paternal_GWAS_Plots/22_Paternal_Map_Total_Clarity.png?raw=true) |
+| Figure 93. Maternal Copy of Chromosome 22 | Figure 94. Paternal Copy of Chromosome 22 |
