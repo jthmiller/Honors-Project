@@ -6,10 +6,18 @@ Markdown [this repo](https://github.com/adam-p/markdown-here/wiki/markdown-cheat
 
 # SNP Identification Logic Diagrams
 
+To find genetic ancestral markers in my genome, I would have to first complete a logical procedure with my raw genetic data known as “phasing”, where I have the “R Studio” coding software look for locations in my genome known as SNPs where both my genotype is heterozygous, and at least one of my parents is homozygous.
+
+
+
 
 ![logicDiagram1](./Logic_Diagrams/Figure_1_GEN_Honors_Project.png?raw=true)
 
 Figure 1. Homozygosity Logic Diagram. Representative of Every SNP where I am Heterozygous, and Both of My Parents are Homozygous.
+
+
+
+Figure 1 visually demonstrates how if we know the homozygous genotypes of both parents at the same biallelic SNP where I am heterozygous, then there is a 100% chance that each of their progeny would the same genotype at that SNP, and we would know exactly which parent contributed each allele.
 
 
 
@@ -20,6 +28,10 @@ Figure 2. Heterozygosity Logic Diagram. Representative of Every SNP where I am H
 
 
 
+Figure 2 visually demonstrates how if we know the heterozygous genotype of one parent, and the homozygous genotype of the other parent at the same biallelic SNP where I am heterozygous, then we can conclude that the less frequent allele for the SNP came from the parent also carried the heterozygous genotype. This means that I'd we can confirm which parent contributed one of the alleles, then that would mean that the other parent by default contributed the second allele, since we know from Mendelian Inheritance Patterns that each parent would have had to contribute one allele for every SNP of the genome.
+
+
+
 
 ![logicDiagram3](./Logic_Diagrams/Figure_3_GEN_Honors_Project.png?raw=true)
 
@@ -27,14 +39,7 @@ Figure 3. Multigenerational Logic Diagram. Representative of Every SNP where I a
 
 
 
-
-To find genetic ancestral markers in my genome, I would have to first complete a logical proecdure with my raw genetic data known as “phasing”, where I have the “R Studio” coding software look for locations in my genome known as SNPs where both my genotype is heterozygous, and at least one of my parents is homozygous.
-
-Figure 1 visually demonstrates how if we know the homozygous genotypes of both parents at the same biallelic SNP where I am heterozygous, then there is a 100% chance that each of their progeny would the same genotype at that SNP, and we would know exactly which parent contributed each allele.
-
-Figure 2 visually demonstrates how if we know the heterozygous genotype of one parent, and the homozygous genotype of the other parent at the same biallelic SNP where I am heterozygous, then we can conclude that the less frequent allele for the SNP came from the parent also carried the heterozygous genotype. This means that I'd we can confirm which parent contributed one of the alleles, then that would mean that the other parent by default contributed the second allele, since we know from Mendelian Inheritance Patterns that each parent would have had to contribute one allele for every SNP of the genome.
-
-Figure 3 visually demonstrates how if we take the same logic from figures 1 and 2, and apply to it determine allele contribution at the grandparent level, we could identify at a single biallelic SNP the grandparent of origin that inherited each allele to the corresponding parent. For this to work, the SNP of interest must follow the following parameters:
+Figure 3 visually demonstrates how if we take the same logic from figures 1 and 2, and apply it to determine allele contribution at the grandparent level, we could identify at a single biallelic SNP the grandparent of origin for each allele to the corresponding parent. For this to work, the SNP of interest must follow the following parameters:
 
 My gentoype is heterozygous.
 
@@ -47,6 +52,10 @@ If the raw genetic data for both grandparents on the corresponding parent’s si
 Both of the grandparents are homozygous.
 
 One corresponding grandparent is heterozygous.
+
+
+
+# Identifying SNPs to their Grandparent of Origin
 
 If the genome for only one of the corresponding grandparents is available, the only way to locate ancestral genetic markers for this scenario is to find any SNP where I am heterozygous, my parent is heterozygous, and the one tested grandparent is homozygous. These parameters allow me to identify which SNP came from either the tested grandparent directly, or the not tested grandparent by using process of elimination. With this information, I could visually demonstrate that if I inherited a base from my parent, but not from the corresponding grandparent with the tested genome, that would confirm that the base came from the other corresponding grandparent that never got their genome sequenced and added to the data. You will notice looking at the Raw Data Files that one o fmy grandparents' genomes is missing, so this logic comes in handy to accomodate the missing genetic data.
 
