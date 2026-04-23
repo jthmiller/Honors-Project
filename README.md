@@ -1,6 +1,26 @@
 # Honors-Project
 Identifying which alleles came from each grandparent, and looking for the origins of genotypes &amp; phenotypes of interest.
 
+
+## 📊 Plots
+
+<details>
+<summary>📈 Plot Category 1 (e.g. Training Results)</summary>
+
+![Chr1-gwas](Paternal_GWAS_Plots/1_Paternal_Map_Total_Clarity.png)
+![Chr2-gwas](Paternal_GWAS_Plots/2_Paternal_Map_Total_Clarity.png)
+
+</details>
+
+<details>
+<summary>📉 Plot Category 2 (e.g. Validation Results)</summary>
+
+![Chr1](Maternal_Plots/1_maternal_chromosome.png)
+![Chr2](Maternal_Plots/2_maternal_chromosome.png)
+
+</details>
+
+
 # Markdown cheat-sheet
 Markdown [this repo](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 
