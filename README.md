@@ -32,18 +32,23 @@ To find genetic ancestral markers in my genome, I would have to first complete a
 
 Figure 1 visually demonstrates how if we know the homozygous genotypes of both parents at the same biallelic SNP where I am heterozygous, then there is a 100% chance that each of their progeny would the same genotype at that SNP, and we would know exactly which parent contributed each allele.
 
-Figure 2 visually demonstrates how if we know the heterozygous genotype of one parent, and the homozygous genotype of the other parent at the same biallelic SNP where I am heterozygous, then we can conclude that the less frequent allele for the SNP came from the parent also carried the heterozygous genotype. This means that id we can confirm which parent contributed one of the alleles, then that would mean that the other parent by default contributed the second allele, since we know from Mendelian Inheritance Patterns that each parent would have had to contribute one allele for every SNP of the genome.
+Figure 2 visually demonstrates how if we know the heterozygous genotype of one parent, and the homozygous genotype of the other parent at the same biallelic SNP where I am heterozygous, then we can conclude that the less frequent allele for the SNP came from the parent also carried the heterozygous genotype. This means that I'd we can confirm which parent contributed one of the alleles, then that would mean that the other parent by default contributed the second allele, since we know from Mendelian Inheritance Patterns that each parent would have had to contribute one allele for every SNP of the genome.
 
 Figure 3 visually demonstrates how if we take the same logic from figures 1 and 2, and apply to it determine allele contribution at the grandparent level, we could identify at a single biallelic SNP the grandparent of origin that inherited each allele to the corresponding parent. For this to work, the SNP of interest must follow the following parameters:
 
 My gentoype is heterozygous.
+
 Parent corresponding to grandparents is heterozygous.
+
 Parant not corresponding to grandparents is homozygous.
 
 If the raw genetic data for both grandparents on the corresponding parent’s side are available, you could find potential ancestral markers at the same SNP if the genotypes were the following:
 
 Both of the grandparents are homozygous.
+
 One corresponding grandparent is heterozygous.
+
+If the genome for only one of the corresponding grandparents is available, the only way to locate ancestral genetic markers for this scenario is to find any SNP where I am heterozygous, my parent is heterozygous, and the one tested grandparent is homozygous. These parameters allow me to identify which SNP came from either the tested grandparent directly, or the not tested grandparent by using process of elimination. With this information, I could visually demonstrate that if I inherited a base from my parent, but not from the corresponding grandparent with the tested genome, that would confirm that the base came from the other corresponding grandparent that never got their genome sequenced and added to the data. You will notice looking at the Raw Data Files that one o fmy grandparents' genomes is missing, so this logic comes in handy to accomodate the missing genetic data.
 
 These extremely specific parameters allow us to know two different things. One, exactly which parent the less frequent allele of the biallelic SNP came from, and two, exactly which grandparent is the origin of that same SNP as well as entire allele that was directly inherited to me through my parents. This allows me to trace the genetic markers in my genome back two more generations, ultimately identifying which genes came from which of my four grandparents.
 
